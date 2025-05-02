@@ -100,3 +100,8 @@ Suggested Answer:
 "Yes, I am aware that some companies have a bond policy. I am comfortable with it because I believe it is a commitment from both sides. I see it as an opportunity to stay, learn, and contribute to the company for a meaningful period."
 
 
+
+
+//grammer
+Flooding
+dormitory
