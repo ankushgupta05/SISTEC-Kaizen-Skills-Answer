@@ -105,3 +105,11 @@ Suggested Answer:
 //grammer
 Flooding
 dormitory
+
+
+
+
+
+AI GD Topic
+
+"AI is a broad concept of machine learning and deep learning, where basically in AI we build a brain into the machine, and that machine takes decisions like a human."
