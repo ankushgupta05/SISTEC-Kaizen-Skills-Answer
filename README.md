@@ -129,6 +129,7 @@ personalized Rnendations:-
 Platforms like Netflix or วท use Al to it content or products
 
 
+In the entire world everything Have their prawns and cons:-
 
 
 Improved efficiency :-
