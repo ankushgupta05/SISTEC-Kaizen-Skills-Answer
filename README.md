@@ -115,3 +115,15 @@ AI GD Topic
 "AI is a broad concept of machine learning and deep learning, where basically in AI we build a brain into the machine, and that machine takes decisions like a human."
 
 AI refers to the capability of machines to simulate human intelligence — learning from data, adapting to new inputs, and making decisions.
+
+if we talk in the context of innovation:
+
+self driving Vehicles:-
+Al enables autonomous navigation, object detection, and route planning.
+
+
+Assistants:-
+Systems like Siri, Alexa, and Google Assistant understand and respond to voice.
+
+personalized nendations:-
+Platforms like Netflix or วท use Al to it content or products
