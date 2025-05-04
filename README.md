@@ -1,4 +1,4 @@
-"I would describe myself as 'versatile.' I can work with different technologies like backend, frontend, AI, and machine learning. During my engineering, I worked on many projects, did internships, and took part in hackathons to improve my skills. I always try to learn new things and apply them. I believe being versatile helps me to grow, solve problems, and stay updated in the tech world."
+AI refers to the capability of machines to simulate human intelligence — learning from data, adapting to new inputs, and making decisions."I would describe myself as 'versatile.' I can work with different technologies like backend, frontend, AI, and machine learning. During my engineering, I worked on many projects, did internships, and took part in hackathons to improve my skills. I always try to learn new things and apply them. I believe being versatile helps me to grow, solve problems, and stay updated in the tech world."
 
 
 
@@ -113,3 +113,5 @@ dormitory
 AI GD Topic
 
 "AI is a broad concept of machine learning and deep learning, where basically in AI we build a brain into the machine, and that machine takes decisions like a human."
+
+AI refers to the capability of machines to simulate human intelligence — learning from data, adapting to new inputs, and making decisions.
