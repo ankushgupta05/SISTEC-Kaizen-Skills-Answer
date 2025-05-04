@@ -125,5 +125,20 @@ Al enables autonomous navigation, object detection, and route planning.
 Assistants:-
 Systems like Siri, Alexa, and Google Assistant understand and respond to voice.
 
-personalized nendations:-
+personalized Rnendations:-
 Platforms like Netflix or วท use Al to it content or products
+
+
+
+
+Improved efficiency :-
+Al automates routi and time-consuming tasks.
+
+High Accuracy:-
+Reduces human error especially in sensit fields like medicine
+
+24/7 Availability:-
+Machines can operate continuously without breaks.
+
+Cost Reduction:-
+Reduces long-term operational costs through
