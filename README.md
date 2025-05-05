@@ -161,3 +161,12 @@ Al cannot fully replicate human empathy and intuition.
 
 Bias in Algorithms:-
 Al systems can reflect biases from training data, leading to unfair results.
+
+
+
+GD Topic
+1)
+Future of education with AI tutors and personalized  learnings.
+
+2)
+Role of cyber security in Ai time
