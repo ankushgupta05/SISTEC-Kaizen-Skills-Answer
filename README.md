@@ -152,6 +152,12 @@ Reduces long-term operational costs through
 
 Cons of Artificial Intelligence:
 
+imp1) :- real time data ke sath aware nahi hai.
+example. :- if we say from AI that can you book my ticket from Bhopal to Gorakhpur so that AI cannot do this.
+
+imp2) :- if we use some prompt to the chair GPT for example if I say give me basic information about the react JS so that AI chat Deputy can give me only text data not image and only give image otherwise text data so that a I cannot generate answer combination of both text and image.
+
+
 Job Displacement:-
 Automation may replace human jobs in many industries.
 
