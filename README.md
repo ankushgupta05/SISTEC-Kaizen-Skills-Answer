@@ -174,6 +174,108 @@ Al systems can reflect biases from training data, leading to unfair results.
 
 
 
+
+/////////
+about the agenda versus current
+
+
+
+
+---
+
+Agentic AI vs Current AI (ChatGPT, Bard etc.) – Short with Examples
+
+
+---
+
+1. Goal:
+
+Agentic AI: Long-term goal complete karta hai.
+Ex: "YouTube channel grow karo" — plan, content, upload sab karega.
+
+Current AI: One-time task.
+Ex: Sirf ek YouTube script likh dega.
+
+
+
+---
+
+2. Autonomy:
+
+Agentic AI: Apne aap steps decide karta hai.
+Ex: AutoGPT khud plan aur execute karta hai.
+
+Current AI: Har step pe prompt dena padta hai.
+Ex: Aapko alag-alag instructions deni padti hain.
+
+
+
+---
+
+3. Memory:
+
+Agentic AI: User ki baatein yaad rakhta hai.
+Ex: "Hindi mein baat karo" — yaad rahega.
+
+Current AI: Sab bhool jaata hai.
+Ex: ChatGPT naya session mein yaad nahi rakhta.
+
+
+
+---
+
+4. Action:
+
+Agentic AI: Khud tools/APIs use karta hai.
+Ex: Email bhej sakta hai, file bana sakta hai.
+
+Current AI: Sirf batata hai, khud nahi karta.
+Ex: Email ka draft dega, bhejega nahi.
+
+
+
+---
+
+5. Learning:
+
+Agentic AI: Galtiyon se seekhta hai.
+Ex: Ek baar fail hua, next time better karega.
+
+Current AI: Fixed hai, seekhta nahi.
+Ex: Same galti repeat kar sakta hai.
+
+
+
+---
+
+6. Use Case:
+
+Agentic AI: Full automation.
+Ex: Project manage karna khud se.
+
+Current AI: Short tasks.
+Ex: Code likhna ya text generate karna.
+
+
+
+---
+
+7. Stage:
+
+Agentic AI: Abhi development mein hai.
+Ex: AutoGPT, BabyAGI — test stage mein.
+
+Current AI: Stable aur ready for use.
+Ex: ChatGPT, Bard — daily use mein.
+
+
+
+---
+
+
+
+///////////
+
 GD Topic
 1)
 Future of education with AI tutors and personalized  learnings.
