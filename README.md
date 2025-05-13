@@ -141,6 +141,9 @@ Reduces human error especially in sensit fields like medicine
 24/7 Availability:-
 Machines can operate continuously without breaks.
 
+saving time:-
+
+
 Cost Reduction:-
 Reduces long-term operational costs through
 
@@ -155,6 +158,7 @@ Automation may replace human jobs in many industries.
 High Development Costs:-
 Building reliable Al systems is expensive
 and complex.
+
 
 Lack of Human Emotions:-
 Al cannot fully replicate human empathy and intuition.
