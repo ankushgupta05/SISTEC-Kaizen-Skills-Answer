@@ -28,7 +28,7 @@ nodejs-crud-form/
 
 
 # Step 3: app.js
-
+```
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
@@ -61,7 +61,7 @@ app.listen(3000, () => {
 });
 
 
-
+```
 
 
 
@@ -69,7 +69,7 @@ app.listen(3000, () => {
 
 
 # Step 4: views/form.ejs
-
+```
 <!DOCTYPE html>
 <html>
 <head><title>Node.js CRUD with One Form</title></head>
@@ -92,7 +92,7 @@ app.listen(3000, () => {
 </body>
 </html>
 
-
+```
 
 
 
