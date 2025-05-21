@@ -14,13 +14,13 @@ npm install express ejs body-parser
 
 
 # Step 2: Folder Structure
-
+```
 nodejs-crud-form/
 ├── views/
 │   └── form.ejs
 ├── app.js
 
-
+```
 
 
 
