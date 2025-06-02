@@ -18,3 +18,40 @@ Then I did some practice. The topics were percentage and partnership. After that
 2) कभी-कभी match se pahle hi Barsat Shuru Ho Jaati Hain and sometimes during D match Jis situation comes so many times
 
 ```
+
+
+
+
+
+
+
+### incident topic
+---
+
+Good morning to all. My name is Ankush Gupta. Today, I would like to share an incident — an incident that I will remember for every moment, every minute, every hour, and in every scenario of my life.
+
+So let me start.
+
+Just yesterday, I became a victim of fraud. I wanted to book a railway ticket on the Tatkal window. Usually, I use the IRCTC app to book tickets, but this time I was looking for an agent because, as we all know, when an agent books a Tatkal ticket, there is almost a 100% chance that the ticket gets confirmed.
+
+So, I joined a group — or a channel — on Telegram. At that time, I received a message. That message was from someone who had written something like:
+"Do you want to book your railway ticket on Tatkal?"
+
+Coincidentally, I also wanted to book a Tatkal ticket for my family from Gorakhpur to Bhopal. At that moment, I didn’t book the ticket, but after a few days, I messaged him and asked,
+"Can you book the ticket?"
+
+The person replied,
+"Yes, I can and I will book your ticket."
+
+Then he gave me a WhatsApp number. I sent the passenger details to that number. After that, he sent me a QR code for the ticket amount. I scanned the QR code and paid him. He told me,
+"Tomorrow morning at 11 o’clock, I will book your Tatkal ticket."
+
+I trusted him.
+
+The next day, at 12 o’clock, I messaged and called him to ask for the ticket. But he didn’t respond. He didn’t pick up the call, didn’t reply to my messages — and most importantly, he didn’t return my money.
+
+It was at that point I realized,
+I had been a victim of fraud.
+
+
+---
