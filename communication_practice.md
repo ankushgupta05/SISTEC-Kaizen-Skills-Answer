@@ -54,4 +54,27 @@ It was at that point I realized,
 I had been a victim of fraud.
 
 
+
+
+
+So, that day was a very bad day for me.
+Last night, I asked a question to PNB Sir and Ma’am. The question was:
+"Ma’am, can we find out the details of a person using a UPI ID?"
+
+Today morning, Ma’am said,
+"No, we cannot find out the details of a person just by using a UPI ID."
+
+After half an hour, Sir messaged me and also called me. He asked,
+"What happened with you?"
+I told him everything. Sir suggested,
+"You should call the helpline number of PNB Bank."
+
+After that, I called the PNB helpline. A Ma’am picked up the call and asked me about the issue. I explained the whole incident to her — everything that had happened with me. She then registered the account number of the fraudster and suggested:
+"Go to your nearest police station and register an FIR against the person who committed fraud with you."
+
+So, I went to the police station. There, a constable guided me and said,
+"These are the documents you need to carry and submit while filing the complaint."
+
+So, I came back home and decided that on 5th June, I will go to the police station with all the documents, submit them, and register the FIR.
+
 ---
