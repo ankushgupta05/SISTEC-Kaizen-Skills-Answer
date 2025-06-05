@@ -15,7 +15,9 @@ Then I did some practice. The topics were percentage and partnership. After that
 ### Question
 ```
 1) usko Ek Din Saja milegi.
-2) कभी-कभी match se pahle hi Barsat Shuru Ho Jaati Hain and sometimes during D match Jis situation comes so many times
+2) कभी-कभी match se pahle hi Barsat Shuru Ho Jaati Hain and sometimes during D match Jis situation comes so many times.
+
+3) yes Mera laptop ka camera Achcha Nahin Hai vah Mera face visible Nahin Hai properli
 
 ```
 
