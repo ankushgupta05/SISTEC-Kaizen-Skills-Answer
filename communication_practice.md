@@ -19,6 +19,8 @@ Then I did some practice. The topics were percentage and partnership. After that
 
 3) yes Mera laptop ka camera Achcha Nahin Hai vah Mera face visible Nahin Hai properli
 
+
+4). daal kharab na ho isliye daal Ko garm Kiya jata hai jo gas per Rakha Hai
 ```
 
 
