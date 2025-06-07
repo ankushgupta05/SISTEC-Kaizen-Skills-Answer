@@ -1,3 +1,10 @@
+So, I would like to describe what I did the day before yesterday. So let's start with the morning. First of all, I woke up early in the morning, and after that, I cleaned my house. Then I took a bath and did worship. During the worship, I prayed to God that all people in the world stay happy and healthy. I also prayed for my family—that my family also stays good and healthy. And if any mistake happens by me or by my family, then I ask God to forgive that mistake.
+
+Then I took breakfast, and after that, one important thing I would like to share with you is: that day was 6th July 2025. On that day, I had booked a ticket for my family—my mother and my elder brother. The timing of the train was 5 o’clock in the evening. 5 o'clock was the departure time of the train. My family had reached the station earlier, before 5 o’clock, but for some reason, the train was delayed by 12 hours. So for 12 hours, my family was standing at Gorakhpur station.
+
+After completing those 12 hours, again we heard that the train was delayed by another 12 hours. So my family again spent time at the station. After completing another 12 hours, the train was again delayed by a few more hours. So I suggested to my family that they should sit in another train. At that time, it was 4 in the evening. After that, my family sat in the Kushinagar train, and they were coming to Bhopal. They reached Bhopal the next morning at 11 o’clock.
+
+So I prayed to God that everything should go properly, and I prayed to God that someone should be sent near my family to help them—and that the person would help my family.
 
 ### routine of everyday
 ```
@@ -82,3 +89,22 @@ So, I went to the police station. There, a constable guided me and said,
 So, I came back home and decided that on 5th June, I will go to the police station with all the documents, submit them, and register the FIR.
 
 ---
+
+
+
+
+
+### daily life practice
+```
+
+
+
+So, I would like to describe what I did the day before yesterday. So let's start with the morning. First of all, I woke up early in the morning, and after that, I cleaned my house. Then I took a bath and did worship. During the worship, I prayed to God that all people in the world stay happy and healthy. I also prayed for my family—that my family also stays good and healthy. And if any mistake happens by me or by my family, then I ask God to forgive that mistake.
+
+Then I took breakfast, and after that, one important thing I would like to share with you is: that day was 6th July 2025. On that day, I had booked a ticket for my family—my mother and my elder brother. The timing of the train was 5 o’clock in the evening. 5 o'clock was the departure time of the train. My family had reached the station earlier, before 5 o’clock, but for some reason, the train was delayed by 12 hours. So for 12 hours, my family was standing at Gorakhpur station.
+
+After completing those 12 hours, again we heard that the train was delayed by another 12 hours. So my family again spent time at the station. After completing another 12 hours, the train was again delayed by a few more hours. So I suggested to my family that they should sit in another train. At that time, it was 4 in the evening. After that, my family sat in the Kushinagar train, and they were coming to Bhopal. They reached Bhopal the next morning at 11 o’clock.
+
+So I prayed to God that everything should go properly, and I prayed to God that someone should be sent near my family to help them—and that the person would help my family.
+
+```
