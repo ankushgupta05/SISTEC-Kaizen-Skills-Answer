@@ -28,6 +28,9 @@ Then I did some practice. The topics were percentage and partnership. After that
 
 
 4). daal kharab na ho isliye daal Ko garm Kiya jata hai jo gas per Rakha Hai
+
+
+5) abhi mujhe kuchh aur kam karna chahie Kyunki Mera Man abhi is kam Mein Nahin lag raha hai
 ```
 
 
