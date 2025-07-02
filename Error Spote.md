@@ -1,4 +1,170 @@
-contains a verb pattern error, and this type of question is very common in campus placements (like TCS, Infosys, Capgemini, Wipro, etc.), especially under the category "Spotting the Error."
+Here’s a carefully selected list of such sentences — all contain errors in indirect speech, tense sequence, or conditional usage.
+
+
+---
+
+✅ 15+ Reported Speech / Tense Error Spotting Sentences
+
+❌ Error is given, ✅ correct version is shown
+
+
+---
+
+🔹 1.
+
+He said that he will come tomorrow. ❌
+✅ He said that he would come the next day.
+
+> 📝 "will" → "would", "tomorrow" → "the next day"
+
+
+
+
+---
+
+🔹 2.
+
+She told me that she can speak French. ❌
+✅ She told me that she could speak French.
+
+> 📝 “can” → “could” (tense backshift)
+
+
+
+
+---
+
+🔹 3.
+
+They said that they may visit us soon. ❌
+✅ They said that they might visit us soon.
+
+
+---
+
+🔹 4.
+
+He said that he is going to the market. ❌
+✅ He said that he was going to the market.
+
+
+---
+
+🔹 5.
+
+I thought he is at home. ❌
+✅ I thought he was at home.
+
+> 📝 “thought” is past tense → shift other verbs to past too.
+
+
+
+
+---
+
+🔹 6.
+
+She asked me what do I want. ❌
+✅ She asked me what I wanted.
+
+> 📝 Indirect question → no question word order + tense change.
+
+
+
+
+---
+
+🔹 7.
+
+He asked me where are you going. ❌
+✅ He asked me where I was going.
+
+
+---
+
+🔹 8.
+
+I wondered how does she manage everything. ❌
+✅ I wondered how she managed everything.
+
+
+---
+
+🔹 9.
+
+The teacher said that the earth moves around the sun. ✅
+🟢 No error — general truths remain present tense.
+
+
+---
+
+🔹 10.
+
+He said that he has finished the work. ❌
+✅ He said that he had finished the work.
+
+
+---
+
+🔹 11.
+
+She said that she would help me if I will ask. ❌
+✅ She said that she would help me if I asked.
+
+
+---
+
+🔹 12.
+
+He said that he will mind if I refused. ❌
+✅ He said that he would mind if I refused.
+
+
+---
+
+🔹 13.
+
+They said that they had seen him yesterday. ❌
+✅ They said that they had seen him the day before.
+
+
+---
+
+🔹 14.
+
+He said that he could not come because he is busy. ❌
+✅ He said that he could not come because he was busy.
+
+
+---
+
+🔹 15.
+
+She said that she may join us later. ❌
+✅ She said that she might join us later.
+
+
+---
+
+🔹 16.
+
+He asked me that where was I going. ❌
+✅ He asked me where I was going.
+
+> 📝 "that" is not used in interrogative indirect sentences.
+
+
+
+
+---
+
+🔹 17.
+
+He said he will call me when he reached. ❌
+✅ He said he would call me when he reached.
+
+
+---contains a verb pattern error, and this type of question is very common in campus placements (like TCS, Infosys, Capgemini, Wipro, etc.), especially under the category "Spotting the Error."
 
 
 ---
@@ -159,3 +325,186 @@ Some verbs are not followed by "to + V1" but by "preposition + V+ing" (gerund)
 ❌ He refrained to comment.
 ✅ He refrained from commenting.
 🔸 "Refrain from + V+ing"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s a carefully selected list of such sentences — all contain errors in indirect speech, tense sequence, or conditional usage.
+
+
+---
+
+✅ 15+ Reported Speech / Tense Error Spotting Sentences
+
+❌ Error is given, ✅ correct version is shown
+
+
+---
+
+🔹 1.
+
+He said that he will come tomorrow. ❌
+✅ He said that he would come the next day.
+
+> 📝 "will" → "would", "tomorrow" → "the next day"
+
+
+
+
+---
+
+🔹 2.
+
+She told me that she can speak French. ❌
+✅ She told me that she could speak French.
+
+> 📝 “can” → “could” (tense backshift)
+
+
+
+
+---
+
+🔹 3.
+
+They said that they may visit us soon. ❌
+✅ They said that they might visit us soon.
+
+
+---
+
+🔹 4.
+
+He said that he is going to the market. ❌
+✅ He said that he was going to the market.
+
+
+---
+
+🔹 5.
+
+I thought he is at home. ❌
+✅ I thought he was at home.
+
+> 📝 “thought” is past tense → shift other verbs to past too.
+
+
+
+
+---
+
+🔹 6.
+
+She asked me what do I want. ❌
+✅ She asked me what I wanted.
+
+> 📝 Indirect question → no question word order + tense change.
+
+
+
+
+---
+
+🔹 7.
+
+He asked me where are you going. ❌
+✅ He asked me where I was going.
+
+
+---
+
+🔹 8.
+
+I wondered how does she manage everything. ❌
+✅ I wondered how she managed everything.
+
+
+---
+
+🔹 9.
+
+The teacher said that the earth moves around the sun. ✅
+🟢 No error — general truths remain present tense.
+
+
+---
+
+🔹 10.
+
+He said that he has finished the work. ❌
+✅ He said that he had finished the work.
+
+
+---
+
+🔹 11.
+
+She said that she would help me if I will ask. ❌
+✅ She said that she would help me if I asked.
+
+
+---
+
+🔹 12.
+
+He said that he will mind if I refused. ❌
+✅ He said that he would mind if I refused.
+
+
+---
+
+🔹 13.
+
+They said that they had seen him yesterday. ❌
+✅ They said that they had seen him the day before.
+
+
+---
+
+🔹 14.
+
+He said that he could not come because he is busy. ❌
+✅ He said that he could not come because he was busy.
+
+
+---
+
+🔹 15.
+
+She said that she may join us later. ❌
+✅ She said that she might join us later.
+
+
+---
+
+🔹 16.
+
+He asked me that where was I going. ❌
+✅ He asked me where I was going.
+
+> 📝 "that" is not used in interrogative indirect sentences.
+
+
+
+
+---
+
+🔹 17.
+
+He said he will call me when he reached. ❌
+✅ He said he would call me when he reached.
+
+
+---
