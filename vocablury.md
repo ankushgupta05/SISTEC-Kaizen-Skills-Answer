@@ -16,6 +16,7 @@ shivering
 diligent
 seeks
 witnessed
+witnessed by 
 collision
 Collusion
 tears
@@ -36,7 +37,7 @@ wait
 long-awaited
 a band  of boy
 conception
-forbade
+forbide
 
 
 vacancies
