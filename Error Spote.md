@@ -508,3 +508,134 @@ He said he will call me when he reached. ❌
 
 
 ---
+
+
+
+
+🔥 20 Spot-the-Error Questions (Tense + Word Order + Redundancy)
+
+
+---
+
+🔹 1.
+
+I did not received any reply from him yet. ❌
+✅ I have not received any reply from him yet.
+
+
+---
+
+🔹 2.
+
+He has left the office yesterday. ❌
+✅ He left the office yesterday.
+📝 Use simple past with specific time like “yesterday”.
+
+
+---
+
+🔹 3.
+
+They did not yet arrive at the venue. ❌
+✅ They have not arrived at the venue yet.
+
+
+---
+
+🔹 4.
+
+We already have completed the work. ❌
+✅ We have already completed the work.
+
+
+---
+
+🔹 5.
+
+So far, he didn’t speak a word. ❌
+✅ So far, he has not spoken a word.
+
+
+---
+
+🔹 6.
+
+He is knowing the answer, but still not responding. ❌
+✅ He knows the answer, but still not responding.
+
+
+---
+
+🔹 7.
+
+They left the place just now. ❌
+✅ They have left the place just now.
+📝 "Just now" needs present perfect
+
+
+---
+
+🔹 8.
+
+She is working here since 2021. ❌
+✅ She has been working here since 2021.
+
+
+---
+
+🔹 9.
+
+We discussed about the issue yesterday. ❌
+✅ We discussed the issue yesterday.
+📝 “Discuss” does not take “about”
+
+
+---
+
+🔹 10.
+
+He has gone to the market an hour ago. ❌
+✅ He went to the market an hour ago.
+
+
+---
+
+🔹 11.
+
+They did not returned my book. ❌
+✅ They did not return my book.
+
+
+---
+
+🔹 12.
+
+I have seen him yesterday at the mall. ❌
+✅ I saw him yesterday at the mall.
+
+
+---
+
+🔹 13.
+
+I have completed the project last week. ❌
+✅ I completed the project last week.
+
+
+---
+
+🔹 14.
+
+He has been left the company already. ❌
+✅ He has already left the company.
+
+
+---
+
+🔹 15.
+
+She did not replied to my emails. ❌
+✅ She did not reply to my emails.
+
+
+---
