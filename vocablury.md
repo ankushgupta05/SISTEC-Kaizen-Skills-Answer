@@ -91,4 +91,7 @@ fell off
 fell off the ladder
 detached
 
+
+Religious
+daredevil
 ```
