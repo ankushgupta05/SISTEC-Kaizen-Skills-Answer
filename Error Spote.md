@@ -1,3 +1,175 @@
+---
+
+Question 1:
+
+While climbing the mountain,
+the bag slipped and
+rolled down the slope.
+No error.
+A / B / C / D
+
+✅ Answer: A
+Explanation:
+"While climbing the mountain" is a dangling modifier — who was climbing? Clarify it:
+👉 "While he was climbing the mountain..."
+
+
+---
+
+Question 2:
+
+Neither of the boys
+have submitted
+their assignments yet.
+No error.
+A / B / C / D
+
+✅ Answer: B
+Explanation:
+"Neither" is singular, so the verb should be has, not "have".
+👉 "Neither of the boys has submitted..."
+
+
+---
+
+Question 3:
+
+Each of the players
+are required to attend
+the practice session.
+No error.
+A / B / C / D
+
+✅ Answer: B
+Explanation:
+"Each" is singular, so it should be "is required", not "are".
+👉 "Each of the players is required..."
+
+
+---
+
+Question 4:
+
+She not only danced gracefully
+but also sang
+beautifully on the stage.
+No error.
+A / B / C / D
+
+✅ Answer: A
+Explanation:
+"Not only danced gracefully" needs to match "sang beautifully" in parallel structure.
+👉 "She not only gracefully danced but also beautifully sang..."
+
+
+---
+
+Question 5:
+
+Despite of being tired,
+he continued
+working late at night.
+No error.
+A / B / C / D
+
+✅ Answer: A
+Explanation:
+"Despite" and "of" don’t go together. Use either "despite" or "in spite of".
+👉 "Despite being tired..." or "In spite of being tired..."
+
+
+---
+
+Question 6:
+
+He is one of those students
+who always try
+to do their best.
+No error.
+A / B / C / D
+
+✅ Answer: No Error (D)
+Explanation:
+"Who" refers to "those students" — plural, so "try" and "their" are correct.
+
+
+---
+
+Question 7:
+
+The book that you gave me
+is more interesting
+than the one I bought yesterday.
+No error.
+A / B / C / D
+
+✅ Answer: D (No error)
+Explanation:
+This is a grammatically correct comparison with a clear reference.
+
+
+---
+
+Question 8:
+
+They returned back
+to the hotel
+after the game.
+No error.
+A / B / C / D
+
+✅ Answer: A
+Explanation:
+"Returned" already implies "back". "Returned back" is redundant.
+👉 "They returned to the hotel..."
+
+
+---
+
+Question 9:
+
+He has completed
+his graduation
+from Delhi University.
+No error.
+A / B / C / D
+
+✅ Answer: B
+Explanation:
+"Graduation" is a noun, and the correct verb is graduated, not "completed graduation".
+👉 "He has graduated from Delhi University..."
+
+
+---
+
+Question 10:
+
+Having finished the assignment,
+the TV was switched on
+for some relaxation.
+No error.
+A / B / C / D
+
+✅ Answer: B
+Explanation:
+Again, this is a dangling modifier. "Having finished..." needs a subject (Who finished?).
+👉 "Having finished the assignment, he switched on the TV..."
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here’s a carefully selected list of such sentences — all contain errors in indirect speech, tense sequence, or conditional usage.
 
 
