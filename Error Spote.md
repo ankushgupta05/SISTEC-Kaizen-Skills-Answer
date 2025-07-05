@@ -1,5 +1,164 @@
 ---
 
+🔹 What Are Transitive Verbs?
+
+A transitive verb needs a direct object to complete its meaning.
+
+🟢 Example:
+
+✅ She bought a dress.
+(“a dress” = object of the verb bought)
+
+
+🔴 Incorrect:
+
+❌ She bought.
+
+
+
+---
+
+🔹 What Are Intransitive Verbs?
+
+An intransitive verb does not need an object.
+
+🟢 Example:
+
+✅ He slept peacefully.
+(No object needed)
+
+
+🔴 Incorrect:
+
+❌ He slept the bed.
+
+
+
+---
+
+✅ Common Transitive Verbs (Need an Object):
+
+Verb	Example
+
+enjoy	I enjoyed the movie.
+need	We need your help.
+tell	He told a story.
+ask	She asked a question.
+complete	I completed the project.
+invite	They invited us.
+discuss	We discussed the plan.
+attend	He attended the meeting.
+
+
+
+---
+
+🚫 Common Errors in Placement Questions
+
+Here are typical error spotting patterns in placement exams:
+
+
+---
+
+🧠 1. Missing Object with a Transitive Verb
+
+❌ She discussed about the issue.
+✅ She discussed the issue.
+
+Explanation: "discuss" is a transitive verb, so it doesn't need 'about'.
+
+
+---
+
+🧠 2. Wrong Preposition or Reflexive Pronoun
+
+❌ They enjoyed at the wedding.
+✅ They enjoyed themselves at the wedding.
+
+Explanation: "enjoy" needs a direct object (themselves here).
+
+
+---
+
+🧠 3. Using Object with Intransitive Verbs
+
+❌ He slept the bed.
+✅ He slept on the bed.
+
+Explanation: "slept" is intransitive — doesn’t take a direct object.
+
+
+---
+
+🧠 4. Confusing Verbs That Can Be Both
+
+Some verbs can be both transitive and intransitive, depending on usage:
+
+Verb	Transitive	Intransitive
+
+run	He ran a company.	He ran fast.
+change	She changed her dress.	The weather changed.
+grow	They grew flowers.	He grew quickly.
+
+
+
+---
+
+📘 Practice Question Examples:
+
+Q1. The teacher explained the students the topic.
+➡️ Error: explained the students
+✅ Correction: explained the topic to the students
+(“explain” takes object + to when the indirect object comes first.)
+
+
+---
+
+Q2. He returned back the money.
+➡️ Error: returned back (redundant)
+✅ Correction: returned the money
+("Returned" already means "back", no need to repeat)
+
+
+---
+
+Q3. The baby cried loudly for milk.
+✅ No error. ("cry" is intransitive)
+
+
+---
+
+📌 Quick Tip to Identify:
+
+If you can ask "what?" or "whom?" after the verb and get an answer — it’s transitive.
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 Question 1:
 
 While climbing the mountain,
