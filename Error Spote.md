@@ -1,3 +1,140 @@
+
+
+---
+
+✅ Campus Placement Style Error Spotting – Number + Article Based Questions
+
+
+---
+
+1.
+
+The meeting lasted
+for more than one and half hour
+before it was adjourned.
+No error
+Answer: Option 2
+Explanation: ❌ one and half hour → ✅ one and a half hours
+
+
+---
+
+2.
+
+She drank
+two and half litres
+of water after the workout.
+No error
+Answer: Option 2
+Explanation: ❌ two and half → ✅ two and a half litres
+
+
+---
+
+3.
+
+The man covered
+a distance of three and a half kilometre
+on foot.
+No error
+Answer: Option 2
+Explanation: ❌ kilometre → ✅ kilometres (more than one → plural)
+
+
+---
+
+4.
+
+He worked continuously
+for one and a half day
+without taking rest.
+No error
+Answer: Option 2
+Explanation: ❌ day → ✅ days
+
+
+---
+
+5.
+
+We waited for
+more than one and a half hours
+in the scorching sun.
+No error
+Answer: Option 4 (No error)
+Explanation: ✅ Correct sentence (article + plural form used properly)
+
+
+---
+
+6.
+
+The program will begin
+in one and half minutes
+from now.
+No error
+Answer: Option 2
+Explanation: ❌ one and half → ✅ one and a half minutes
+
+
+---
+
+7.
+
+He completed the task
+in just half an hour
+and submitted the file.
+No error
+Answer: Option 4 (No error)
+Explanation: ✅ Correct use of "half an hour"
+
+
+---
+
+8.
+
+She was late
+by two and a half hour
+due to heavy traffic.
+No error
+Answer: Option 2
+Explanation: ❌ hour → ✅ hours
+
+
+---
+
+9.
+
+They stayed there
+for one and a half weeks
+before returning home.
+No error
+Answer: Option 4 (No error)
+Explanation: ✅ Correct usage of article and plural
+
+
+---
+
+10.
+
+We finished the paper
+in two and half hours
+without much difficulty.
+No error
+Answer: Option 2
+Explanation: ❌ two and half → ✅ two and a half hours
+
+
+---
+
+
+
+
+
+
+
+
+
 ---
 
 🔹 What Are Transitive Verbs?
