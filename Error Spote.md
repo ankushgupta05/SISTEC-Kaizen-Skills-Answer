@@ -1,5 +1,72 @@
 
 
+Here’s a fresh question of the same error type (tense, word order, preposition, expression of time) with slight changes — based on your example:
+
+
+---
+
+Q1.
+(solve as per the direction given above)
+
+The thief was
+arrested, tried and
+hanged within a week.
+No error.
+
+✅ Answer: No error
+📝 Explanation: Correct usage of "within" to show time duration.
+
+
+---
+
+Q2.
+He was
+punished, jailed and
+released in a few days.
+No error.
+
+❌ Answer: Option C
+📝 Explanation: It should be “within a few days” instead of “in a few days”, because it’s referring to a time span.
+
+
+---
+
+Q3.
+The case was
+solved, the culprits identified and
+sentenced in just two days.
+No error.
+
+❌ Answer: Option C
+📝 Explanation: Use “within just two days” to express time correctly.
+
+
+---
+
+Q4.
+The murderers were
+caught, presented in court and
+sent to jail inside a week.
+No error.
+
+❌ Answer: Option C
+📝 Explanation: Replace “inside a week” with “within a week”. "Inside" is not correct for time span.
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ✅ Campus Placement Style Error Spotting – Number + Article Based Questions
