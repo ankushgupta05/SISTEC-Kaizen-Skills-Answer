@@ -1,5 +1,23 @@
 ```
 
+eager to learn
+eager to
+everyone deserve respect
+deserve
+
+Regretfully
+Regrettably
+booty
+convicted
+hang
+to hang
+belongings
+
+whose
+worthly
+juncture
+
+
 conveys
 
 storm
