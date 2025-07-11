@@ -1,5 +1,393 @@
 ```
 
+
+Here is the detailed list of vocabulary words from Omnibus (69) to Veteran (100) with Hindi meanings, synonyms, antonyms, and brief explanations where needed:
+
+
+---
+
+69. Omnibus
+
+Hindi: सर्वसमावेशी (बहुत कुछ शामिल करने वाला)
+
+Synonyms: comprehensive, inclusive
+
+Antonyms: limited, exclusive
+
+
+
+---
+
+70. Omnifarious
+
+Hindi: सभी प्रकार का, विविध
+
+Synonyms: diverse, multifarious
+
+Antonyms: uniform, singular
+
+
+
+---
+
+71. Omnify (rare/neologism)
+
+Hindi: सभी क्षेत्रों में विस्तारित करना
+
+Synonyms: universalize, broaden
+
+
+
+---
+
+72. Omniloquent
+
+Hindi: जो हर विषय पर बोलता है
+
+Synonyms: talkative, all-knowing speaker
+
+
+
+---
+
+73. Omnipotent
+
+Hindi: सर्वशक्तिमान
+
+Synonyms: all-powerful, supreme
+
+Antonyms: powerless, weak
+
+
+
+---
+
+74. Omnipresent
+
+Hindi: सर्वव्यापी
+
+Synonyms: everywhere, all-pervading
+
+Antonyms: absent, limited
+
+
+
+---
+
+75. Omniscient
+
+Hindi: सर्वज्ञ, सब कुछ जानने वाला
+
+Synonyms: all-knowing
+
+Antonyms: ignorant
+
+
+
+---
+
+76. Omnist
+
+Hindi: सभी धर्मों में विश्वास करने वाला
+
+Synonyms: religiously inclusive
+
+Antonyms: atheist, monotheist
+
+
+
+---
+
+77. Omnivorous
+
+Hindi: सर्वाहारी (मांस और वनस्पति दोनों खाने वाला)
+
+Synonyms: all-eating
+
+Antonyms: herbivore, carnivore
+
+
+
+---
+
+78. Opportune
+
+Hindi: उपयुक्त समय का
+
+Synonyms: timely, well-timed
+
+Antonyms: untimely, inconvenient
+
+
+
+---
+
+79. Optimistic
+
+Hindi: आशावादी
+
+Synonyms: hopeful, positive
+
+Antonyms: pessimistic
+
+
+
+---
+
+80. Ornate
+
+Hindi: अलंकृत, सजा हुआ
+
+Synonyms: decorative, embellished
+
+Antonyms: plain, simple
+
+
+
+---
+
+81. Patriarchy
+
+Hindi: पितृसत्ता, पुरुष प्रधान समाज
+
+Antonyms: matriarchy
+
+
+
+---
+
+82. Philanthropist
+
+Hindi: परोपकारी, मानव प्रेमी
+
+Synonyms: humanitarian, benefactor
+
+Antonyms: miser, selfish
+
+
+
+---
+
+83. Philogynist
+
+Hindi: स्त्री प्रेमी
+
+Synonyms: woman-lover
+
+Antonyms: misogynist
+
+
+
+---
+
+84. Philosopher
+
+Hindi: दार्शनिक
+
+Synonyms: thinker, sage
+
+
+
+---
+
+85. Placid
+
+Hindi: शांत, स्थिर
+
+Synonyms: calm, peaceful
+
+Antonyms: agitated, turbulent
+
+
+
+---
+
+86. Plutocracy
+
+Hindi: धनिकों की सरकार
+
+Synonyms: rule by the rich
+
+Antonyms: democracy, meritocracy
+
+
+
+---
+
+87. Precedence
+
+Hindi: प्राथमिकता, अग्रता
+
+Synonyms: priority, importance
+
+Antonyms: inferiority, insignificance
+
+
+
+---
+
+88. Prejudice
+
+Hindi: पूर्वाग्रह
+
+Synonyms: bias, discrimination
+
+Antonyms: fairness, neutrality
+
+
+
+---
+
+89. Profundity
+
+Hindi: गहराई (विचारों की)
+
+Synonyms: depth, insight
+
+Antonyms: shallowness
+
+
+
+---
+
+90. Quest
+
+Hindi: खोज, तलाश
+
+Synonyms: search, pursuit
+
+Antonyms: retreat, avoidance
+
+
+
+---
+
+91. Recondite
+
+Hindi: कठिन, गूढ़
+
+Synonyms: obscure, abstruse
+
+Antonyms: simple, clear
+
+
+
+---
+
+92. Sceptic / Skeptic
+
+Hindi: संदेहवादी
+
+Synonyms: doubter, unbeliever
+
+Antonyms: believer, follower
+
+
+
+---
+
+93. Tenacious
+
+Hindi: दृढ़, अटल
+
+Synonyms: determined, persistent
+
+Antonyms: weak, irresolute
+
+
+
+---
+
+94. Thearchy
+
+Hindi: ईश्वर आधारित शासन
+
+Synonyms: rule by divine power
+
+Antonyms: secularism
+
+
+
+---
+
+95. Trite
+
+Hindi: घिसा-पिटा, सामान्य
+
+Synonyms: cliché, stale
+
+Antonyms: original, fresh
+
+
+
+---
+
+96. Vanish
+
+Hindi: गायब होना
+
+Synonyms: disappear, fade
+
+Antonyms: appear, emerge
+
+
+
+---
+
+97. Verity
+
+Hindi: सत्यता
+
+Synonyms: truth, reality
+
+Antonyms: falsehood, lie
+
+
+
+---
+
+98. Viable
+
+Hindi: व्यवहार योग्य, संभव
+
+Synonyms: workable, feasible
+
+Antonyms: impractical, unworkable
+
+
+
+---
+
+99. Versatile
+
+Hindi: बहुप्रतिभाशाली, बहुउपयोगी
+
+Synonyms: adaptable, multi-talented
+
+Antonyms: limited, unskilled
+
+
+
+---
+
+100. Veteran
+
+Hindi: अनुभवी व्यक्ति / पूर्व सैनिक
+
+Synonyms: experienced, expert
+
+Antonyms: novice, beginner
+
+
+
+---
+
+Would you like all 100 words compiled into a PDF, flashcards, or practice test format?
+
+
+
+
+
 Here’s the meaning in Hindi, synonyms, antonyms (where applicable), and usage notes for each of the words you've listed:
 
 
