@@ -1,4 +1,428 @@
 ```
+
+Here’s the meaning in Hindi, synonyms, antonyms (where applicable), and usage notes for each of the words you've listed:
+
+
+---
+
+35. Democracy
+
+Hindi: लोकतंत्र
+
+Synonyms: self-rule, republic
+
+Antonyms: autocracy, dictatorship
+
+
+
+---
+
+36. Diarchy
+
+Hindi: द्वैध शासन (दो शासकों की सत्ता)
+
+Synonyms: dual rule, co-rule
+
+
+
+---
+
+37. Diligent
+
+Hindi: परिश्रमी
+
+Synonyms: hard-working, industrious
+
+Antonyms: lazy, careless
+
+
+
+---
+
+38. Discerning
+
+Hindi: सूझ-बूझ वाला, विवेकशील
+
+Synonyms: perceptive, insightful
+
+Antonyms: ignorant, undiscerning
+
+
+
+---
+
+39. Discrimination
+
+Hindi: भेदभाव
+
+Synonyms: bias, prejudice
+
+Antonyms: fairness, equality
+
+
+
+---
+
+40. Dupe
+
+Hindi: मूर्ख बनाना / मूर्ख व्यक्ति
+
+Synonyms: deceive (v), fool (n), trick
+
+Antonyms: alert, cautious
+
+
+
+---
+
+41. Elated
+
+Hindi: बहुत खुश, प्रफुल्लित
+
+Synonyms: delighted, joyful
+
+Antonyms: depressed, sad
+
+
+
+---
+
+42. Eloquent
+
+Hindi: प्रभावशाली वक्ता
+
+Synonyms: articulate, fluent
+
+Antonyms: inarticulate, dull
+
+
+
+---
+
+43. Enigmas
+
+Hindi: रहस्य, पहेली
+
+Synonyms: mystery, puzzle
+
+Antonyms: clarity, solution
+
+
+
+---
+
+44. Exhilarated
+
+Hindi: उत्साहित
+
+Synonyms: thrilled, overjoyed
+
+Antonyms: bored, gloomy
+
+
+
+---
+
+45. Facade
+
+Hindi: मुखौटा, बाहरी दिखावा
+
+Synonyms: front, pretense
+
+Antonyms: reality, truth
+
+
+
+---
+
+46. Fervent
+
+Hindi: उत्साही, जोशीला
+
+Synonyms: passionate, intense
+
+Antonyms: indifferent, cold
+
+
+
+---
+
+47. Grumpy
+
+Hindi: चिड़चिड़ा
+
+Synonyms: irritable, grouchy
+
+Antonyms: cheerful, happy
+
+
+
+---
+
+48. Gullible
+
+Hindi: भोला-भाला, आसानी से धोखा खाने वाला
+
+Synonyms: naive, trusting
+
+Antonyms: suspicious, skeptical
+
+
+
+---
+
+49. Harmony
+
+Hindi: मेलजोल, सामंजस्य
+
+Synonyms: peace, unity
+
+Antonyms: conflict, discord
+
+
+
+---
+
+50. Hyperbole
+
+Hindi: अतिशयोक्ति
+
+Synonyms: exaggeration, overstatement
+
+Antonyms: understatement, realism
+
+
+
+---
+
+51. Impart
+
+Hindi: देना, बाँटना (ज्ञान या सूचना)
+
+Synonyms: convey, communicate
+
+Antonyms: withhold, conceal
+
+
+
+---
+
+52. Impressionable
+
+Hindi: आसानी से प्रभावित होने वाला
+
+Synonyms: naive, susceptible
+
+Antonyms: confident, skeptical
+
+
+
+---
+
+53. Inhibition
+
+Hindi: रोक, झिझक
+
+Synonyms: restraint, shyness
+
+Antonyms: freedom, expression
+
+
+
+---
+
+54. Intermingle
+
+Hindi: आपस में मिलना-जुलना
+
+Synonyms: mix, blend
+
+Antonyms: separate, isolate
+
+
+
+---
+
+55. Jovial
+
+Hindi: हँसमुख, खुशमिजाज
+
+Synonyms: cheerful, merry
+
+Antonyms: gloomy, grumpy
+
+
+
+---
+
+56. Judicious
+
+Hindi: समझदार, विवेकपूर्ण
+
+Synonyms: wise, sensible
+
+Antonyms: foolish, irrational
+
+
+
+---
+
+57. Kakistocracy
+
+Hindi: सबसे अयोग्य लोगों की सरकार
+
+Synonyms: corrupt government
+
+Antonyms: meritocracy
+
+
+
+---
+
+58. Kleptocracy
+
+Hindi: भ्रष्ट शासकों की सरकार जो चोरी करती है
+
+Synonyms: corrupt rule
+
+Antonyms: honest government
+
+
+
+---
+
+59. Lure
+
+Hindi: लुभाना
+
+Synonyms: attract, entice
+
+Antonyms: repel, deter
+
+
+
+---
+
+60. Matriarchy
+
+Hindi: मातृसत्तात्मक समाज
+
+Synonyms: female-led society
+
+Antonyms: patriarchy
+
+
+
+---
+
+61. Maxim
+
+Hindi: सूक्ति, सिद्धांत
+
+Synonyms: proverb, saying
+
+
+
+---
+
+62. Misandrist
+
+Hindi: पुरुषों से घृणा करने वाला व्यक्ति
+
+Antonyms: androphile, neutral
+
+
+
+---
+
+63. Misogamist
+
+Hindi: विवाह से घृणा करने वाला
+
+Synonyms: marriage-hater
+
+
+
+---
+
+64. Misogynist
+
+Hindi: स्त्रियों से घृणा करने वाला
+
+Synonyms: woman-hater
+
+Antonyms: feminist
+
+
+
+---
+
+65. Monarchy
+
+Hindi: राजशाही
+
+Synonyms: kingship, sovereignty
+
+Antonyms: republic, democracy
+
+
+
+---
+
+66. Nostalgic
+
+Hindi: पुरानी यादों से भावुक
+
+Synonyms: sentimental, wistful
+
+Antonyms: indifferent
+
+
+
+---
+
+67. Ochlocracy
+
+Hindi: भीड़तंत्र (mob rule)
+
+Synonyms: mob rule
+
+Antonyms: democracy, order
+
+
+
+---
+
+68. Oligarchy
+
+Hindi: कुछ लोगों का शासन
+
+Synonyms: rule of few
+
+Antonyms: democracy
+
+
+
+---
+
+69. Omniarch
+
+Hindi: सर्वशासक (जो सब पर शासन करता है)
+
+Synonyms: supreme ruler
+
+Antonyms: subordinate
+
+
+
+---
+
+If you want this organized into a PDF, flashcards, or MCQ format for revision and placement prep, just let me know!
+
+
+
+
+
 Here's a list of the words you mentioned along with their Hindi meanings, synonyms, and antonyms (for key words). I've organized them clearly below for easier memorization:
 
 
