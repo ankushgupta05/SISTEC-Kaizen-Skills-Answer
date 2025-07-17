@@ -1,3 +1,4 @@
+```
 Sure! Here's a **set of 5 error-based questions for each category**, crafted especially with **campus placement** in mind. Each question focuses on **voice transformation (active ↔ passive)**, just like your examples.
 
 ---
@@ -258,3 +259,4 @@ D. She believes to know five languages.
 ---
 
 Would you like a **PDF sheet** of these questions for revision or practice mock test based on this pattern?
+```
