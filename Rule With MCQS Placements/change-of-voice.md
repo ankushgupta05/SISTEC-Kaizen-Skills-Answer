@@ -641,3 +641,36 @@ Let me start with **Category 1: Present Tense (Simple & Continuous)**, then I’
 ---
 
 Shall I continue with **Category 2: Past Tense (Simple & Continuous)** next?
+
+
+Here's the same content for **Category 1: Present Tense (Simple & Continuous)** in a Markdown table format so you can copy it **as-is** to your `README.md` file without losing formatting or structure:
+
+---
+
+### ✅ Category 1: Present Tense (Simple & Continuous)
+
+#### ✅ Easy (5 MCQs)
+
+| No. | Sentence                         | Options                                                                                                                                                                                      | Answer |
+| --- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1   | They watch movies every weekend. | A. Movies watched every weekend.<br>B. Movies are watching every weekend.<br>**C. Movies are watched every weekend.**<br>D. Movies were watched every weekend.                               | C      |
+| 2   | She is cleaning the room.        | A. The room is cleaned by her.<br>**B. The room is being cleaned by her.**<br>C. The room was cleaned by her.<br>D. The room will be cleaned by her.                                         | B      |
+| 3   | He plays cricket every evening.  | **A. Cricket is played by him every evening.**<br>B. Cricket played by him every evening.<br>C. Cricket is being played by him every evening.<br>D. Cricket was played by him every evening. | A      |
+| 4   | They are making a cake.          | A. A cake is made.<br>**B. A cake is being made.**<br>C. A cake was being made.<br>D. A cake had been made.                                                                                  | B      |
+| 5   | The team helps the captain.      | A. The captain helped by the team.<br>B. The captain was helped.<br>**C. The captain is helped by the team.**<br>D. The captain has been helped by the team.                                 | C      |
+
+---
+
+#### 🔥 Hard (5 MCQs)
+
+| No. | Sentence                                          | Options                                                                                                                                                                                                           | Answer |
+| --- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1   | She teaches them Spanish every Friday.            | A. Spanish is taught them by her every Friday.<br>**B. They are taught Spanish by her every Friday.**<br>C. They are being taught Spanish by her every Friday.<br>D. They taught Spanish by her every Friday.     | B      |
+| 2   | The chef is preparing five dishes simultaneously. | A. Five dishes prepared simultaneously.<br>B. Five dishes are prepared simultaneously.<br>**C. Five dishes are being prepared by the chef simultaneously.**<br>D. Five dishes are being preparing simultaneously. | C      |
+| 3   | The workers clean the windows regularly.          | A. The windows cleaned regularly.<br>**B. The windows are cleaned regularly.**<br>C. The windows are cleaning regularly.<br>D. The windows had been cleaned regularly.                                            | B      |
+| 4   | He is always disturbing the class.                | A. The class is always disturbed by him.<br>**B. The class is being disturbed by him always.**<br>C. The class always is disturbed by him.<br>D. The class always is being disturbed by him.                      | B      |
+| 5   | Does he complete his homework on time?            | **A. Is his homework completed on time by him?**<br>B. Was his homework completed on time by him?<br>C. Is his homework completing on time?<br>D. Did his homework get completed on time?                         | A      |
+
+---
+
+Shall I proceed with the **Past Tense** category in the same table format for your `README.md`?
