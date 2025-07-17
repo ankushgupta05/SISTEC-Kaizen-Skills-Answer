@@ -191,3 +191,453 @@
 - Use **"It is said..."** or **"She is believed to..."** for reported structures.
 
 ---
+
+
+
+
+
+
+Sure! Below is a structured set of **Passive Voice MCQs** in **five categories**, with **Easy (5)** and **Hard (5)** levels for each. These follow the same pattern as your latest examples.
+
+---
+
+## ✅ **Category 1: Present Perfect Tense**
+
+### 🟢 Easy (5)
+
+1.
+
+**Original:** They have built a perfect dam across the river.
+**Options:**
+A. Across the river a perfect dam was built.
+B. A perfect dam has been built by them across the river. ✅
+C. A perfect dam should have been built by them.
+D. Across the river was a perfect dam.
+
+---
+
+2.
+
+**Original:** She has written many novels.
+**Options:**
+A. Many novels were written by her.
+B. Many novels are written by her.
+C. Many novels have been written by her. ✅
+D. Many novels had been written by her.
+
+---
+
+3.
+
+**Original:** I have submitted the assignment.
+**Options:**
+A. The assignment has been submitted by me. ✅
+B. The assignment is submitted by me.
+C. The assignment was submitted by me.
+D. The assignment had been submitted by me.
+
+---
+
+4.
+
+**Original:** We have completed the project.
+**Options:**
+A. The project has been completed by us. ✅
+B. The project was completed by us.
+C. The project will be completed by us.
+D. The project had been completed by us.
+
+---
+
+5.
+
+**Original:** He has closed the shop.
+**Options:**
+A. The shop was closed by him.
+B. The shop has been closed by him. ✅
+C. The shop had been closed by him.
+D. The shop is closed by him.
+
+---
+
+### 🔴 Hard (5)
+
+1.
+
+**Original:** Scientists have discovered a new element.
+**Options:**
+A. A new element was discovered by scientists.
+B. A new element is discovered by scientists.
+C. A new element has been discovered by scientists. ✅
+D. A new element had been discovered.
+
+---
+
+2.
+
+**Original:** They have found a solution to the problem.
+**Options:**
+A. A solution to the problem is found.
+B. A solution to the problem has been found. ✅
+C. The problem has a solution.
+D. A solution had been found by them.
+
+---
+
+3.
+
+**Original:** People have raised concerns about the decision.
+**Options:**
+A. Concerns were raised about the decision.
+B. Concerns have been raised about the decision. ✅
+C. The decision has been raised by concerns.
+D. Concerns are raising.
+
+---
+
+4.
+
+**Original:** The government has introduced a new policy.
+**Options:**
+A. A new policy had been introduced by the government.
+B. A new policy has been introduced by the government. ✅
+C. A new policy was introduced by the government.
+D. A new policy is introduced.
+
+---
+
+5.
+
+**Original:** Engineers have completed the construction of the bridge.
+**Options:**
+A. The bridge construction has been completed by engineers. ✅
+B. The construction was completed.
+C. The construction of the bridge is being completed.
+D. The bridge has constructed by engineers.
+
+---
+
+## ✅ **Category 2: Interrogative Sentences**
+
+### 🟢 Easy (5)
+
+1.
+
+**Original:** Do you imitate others?
+**Options:**
+A. Are others being imitated by you?
+B. Are others imitated by you? ✅
+C. Have others being imitated by you?
+D. Were others being imitated by you?
+
+---
+
+2.
+
+**Original:** Did he break the window?
+**Options:**
+A. Has the window been broken by him?
+B. Is the window broken by him?
+C. Was the window broken by him? ✅
+D. Had the window been broken by him?
+
+---
+
+3.
+
+**Original:** Are they watching the match?
+**Options:**
+A. Is the match watched by them?
+B. Is the match being watched by them? ✅
+C. Has the match been watched?
+D. Was the match being watched?
+
+---
+
+4.
+
+**Original:** Did she cook dinner?
+**Options:**
+A. Was dinner cooked by her? ✅
+B. Has dinner been cooked by her?
+C. Is dinner cooked by her?
+D. Had dinner been cooked?
+
+---
+
+5.
+
+**Original:** Do they play football every evening?
+**Options:**
+A. Is football being played every evening?
+B. Has football been played by them?
+C. Is football played by them every evening? ✅
+D. Was football played every evening?
+
+---
+
+### 🔴 Hard (5)
+
+1.
+
+**Original:** Why did they ignore the warning?
+**Options:**
+A. Why was the warning ignored by them? ✅
+B. Why the warning was ignored?
+C. Why is the warning ignored?
+D. Why had the warning been ignored?
+
+---
+
+2.
+
+**Original:** Have they completed the work?
+**Options:**
+A. Has the work been completed by them? ✅
+B. Is the work completed by them?
+C. Was the work completed by them?
+D. The work has been completed?
+
+---
+
+3.
+
+**Original:** Who wrote this report?
+**Options:**
+A. By whom has this report been written?
+B. By whom is this report being written?
+C. By whom was this report written? ✅
+D. Who was this report written by?
+
+---
+
+4.
+
+**Original:** Has she called the doctor?
+**Options:**
+A. Is the doctor called by her?
+B. Was the doctor being called?
+C. Has the doctor been called by her? ✅
+D. Had the doctor been called by her?
+
+---
+
+5.
+
+**Original:** When will they finish the work?
+**Options:**
+A. When is the work being finished?
+B. When will the work be finished by them? ✅
+C. When has the work been finished?
+D. When had the work been finished?
+
+---
+
+## ✅ **Category 3: Modal Verbs (can, should, must, need)**
+
+### 🟢 Easy (5)
+
+1.
+
+**Original:** You need to clean your shoes properly.
+**Options:**
+A. Your shoes are needed to clean properly.
+B. Your shoes need to be cleaned properly. ✅
+C. You are needed to clean your shoes properly.
+D. Your shoes are needed by you to clean properly.
+
+---
+
+2.
+
+**Original:** She can complete the task.
+**Options:**
+A. The task can be completed by her. ✅
+B. The task could be completed by her.
+C. The task should be completed by her.
+D. The task must be completed.
+
+---
+
+3.
+
+**Original:** You should help the poor.
+**Options:**
+A. The poor must be helped.
+B. The poor should be helped by you. ✅
+C. The poor could be helped by you.
+D. The poor had to be helped.
+
+---
+
+4.
+
+**Original:** We must protect the environment.
+**Options:**
+A. The environment should be protected.
+B. The environment must be protected by us. ✅
+C. The environment can be protected.
+D. The environment had to be protected.
+
+---
+
+5.
+
+**Original:** One should obey the rules.
+**Options:**
+A. The rules can be obeyed.
+B. The rules should be obeyed. ✅
+C. The rules must be obeyed by us.
+D. The rules ought to obey.
+
+---
+
+### 🔴 Hard (5)
+
+1.
+
+**Original:** They might have overlooked the detail.
+**Options:**
+A. The detail is overlooked by them.
+B. The detail might have been overlooked by them. ✅
+C. The detail could have overlooked.
+D. The detail must be overlooked.
+
+---
+
+2.
+
+**Original:** She could have painted the wall.
+**Options:**
+A. The wall has been painted by her.
+B. The wall must have been painted by her.
+C. The wall could have been painted by her. ✅
+D. The wall would be painted.
+
+---
+
+3.
+
+**Original:** He should have informed us.
+**Options:**
+A. We should have been informed by him. ✅
+B. We should had been informed.
+C. We are to be informed.
+D. We were informed.
+
+---
+
+4.
+
+**Original:** You must complete the form before submitting.
+**Options:**
+A. The form must be completed by you before submitting. ✅
+B. The form had to be completed.
+C. The form should be completed by you.
+D. The form is to be completed.
+
+---
+
+5.
+
+**Original:** You may take the books tomorrow.
+**Options:**
+A. The books may be taken by you tomorrow. ✅
+B. The books must be taken.
+C. The books should have taken.
+D. The books could taken.
+
+---
+
+Let me know if you'd like this compiled into a downloadable `.md` or `.pdf` file.
+
+
+
+Great! I’ll now prepare **5 easy and 5 hard error-based MCQs** for each category of passive voice, also covering **tense**. Categories will include:
+
+1. **Present Tense (Simple & Continuous)**
+2. **Past Tense (Simple & Continuous)**
+3. **Present Perfect & Past Perfect**
+4. **Future Tense**
+5. **Modals (can, should, must, etc.)**
+
+Each category will have:
+
+* ✅ **5 easy questions**
+* 🔥 **5 hard questions**
+
+Let me start with **Category 1: Present Tense (Simple & Continuous)**, then I’ll proceed with the rest.
+
+---
+
+### ✅ **Category 1: Present Tense (Simple & Continuous)**
+
+#### ✅ Easy (5 MCQs)
+
+1. **They watch movies every weekend.**
+   A. Movies watched every weekend.
+   B. Movies are watching every weekend.
+   C. Movies are watched every weekend. ✅
+   D. Movies were watched every weekend.
+
+2. **She is cleaning the room.**
+   A. The room is cleaned by her.
+   B. The room is being cleaned by her. ✅
+   C. The room was cleaned by her.
+   D. The room will be cleaned by her.
+
+3. **He plays cricket every evening.**
+   A. Cricket is played by him every evening. ✅
+   B. Cricket played by him every evening.
+   C. Cricket is being played by him every evening.
+   D. Cricket was played by him every evening.
+
+4. **They are making a cake.**
+   A. A cake is made.
+   B. A cake is being made. ✅
+   C. A cake was being made.
+   D. A cake had been made.
+
+5. **The team helps the captain.**
+   A. The captain helped by the team.
+   B. The captain was helped.
+   C. The captain is helped by the team. ✅
+   D. The captain has been helped by the team.
+
+---
+
+#### 🔥 Hard (5 MCQs)
+
+1. **She teaches them Spanish every Friday.**
+   A. Spanish is taught them by her every Friday.
+   B. They are taught Spanish by her every Friday. ✅
+   C. They are being taught Spanish by her every Friday.
+   D. They taught Spanish by her every Friday.
+
+2. **The chef is preparing five dishes simultaneously.**
+   A. Five dishes prepared simultaneously.
+   B. Five dishes are prepared simultaneously.
+   C. Five dishes are being prepared by the chef simultaneously. ✅
+   D. Five dishes are being preparing simultaneously.
+
+3. **The workers clean the windows regularly.**
+   A. The windows cleaned regularly.
+   B. The windows are cleaned regularly. ✅
+   C. The windows are cleaning regularly.
+   D. The windows had been cleaned regularly.
+
+4. **He is always disturbing the class.**
+   A. The class is always disturbed by him.
+   B. The class is being disturbed by him always. ✅
+   C. The class always is disturbed by him.
+   D. The class always is being disturbed by him.
+
+5. **Does he complete his homework on time?**
+   A. Is his homework completed on time by him? ✅
+   B. Was his homework completed on time by him?
+   C. Is his homework completing on time?
+   D. Did his homework get completed on time?
+
+---
+
+Shall I continue with **Category 2: Past Tense (Simple & Continuous)** next?
