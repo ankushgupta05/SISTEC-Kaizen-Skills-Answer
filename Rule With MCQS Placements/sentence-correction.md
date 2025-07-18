@@ -294,3 +294,79 @@ This document includes 5 challenging MCQs from each of the following grammar cat
 **Explanation:** Misplaced phrase implies *mother* was five — fix with passive.
 
 ---
+
+
+
+Here is the **README.md** formatted content for **questions 16 to 20**, each with:
+
+* ✅ Corrected option
+* 📘 Explanation
+* 🇮🇳 **Hindi meanings** for difficult/new words (just below the sentence)
+
+---
+
+```markdown
+## 📘 Error Spotting Questions (16 to 20)
+
+### 16.  
+❌ **Sentence:** Why should the candidates be afraid of English Language is not clear.  
+🇮🇳 *afraid (डरना), clear (स्पष्ट)*
+
+✅ **Corrected Option:** the candidates should be  
+**Correct Sentence:** Why the candidates should be afraid of English Language is not clear.
+
+📘 **Explanation:**  
+This is a complex sentence. The structure **"Why the candidates should be afraid..."** correctly introduces the noun clause acting as the subject of the sentence.
+
+---
+
+### 17.  
+❌ **Sentence:** He found the gold coin as he cleans the floor.  
+🇮🇳 *found (पाया), cleans (साफ करता है)*
+
+✅ **Corrected Option:** while cleaning  
+**Correct Sentence:** He found the gold coin while cleaning the floor.
+
+📘 **Explanation:**  
+To describe an action happening at the same time as another, we use the **present participle** form like "while cleaning", not the simple present.
+
+---
+
+### 18.  
+❌ **Sentence:** He admired the speed with which he completed the work and appreciating the method adopted by him.  
+🇮🇳 *admired (प्रशंसा की), appreciated (सराहा), adopted (अपनाया हुआ)*
+
+✅ **Corrected Option:** appreciated the method adopted  
+**Correct Sentence:** He admired the speed with which he completed the work and appreciated the method adopted by him.
+
+📘 **Explanation:**  
+Both verbs in the sentence—**"admired"** and **"appreciated"**—should be in **past tense** to maintain consistency.
+
+---
+
+### 19.  
+❌ **Sentence:** Maria unnecessarily picked up a quarrel with Rani and left the party hurried.  
+🇮🇳 *unnecessarily (अनावश्यक रूप से), quarrel (झगड़ा), hurried (जल्दबाज़ी से)*
+
+✅ **Corrected Option:** picked  
+**Correct Sentence:** Maria unnecessarily picked a quarrel with Rani and left the party hurriedly.
+
+📘 **Explanation:**  
+The phrasal verb **"picked up a quarrel"** is incorrect. The correct phrase is simply **"picked a quarrel"**. Also, "hurried" should be **"hurriedly"** (adverb).
+
+---
+
+### 20.  
+❌ **Sentence:** She cooks, washes dishes, does her homework and then relaxing.  
+🇮🇳 *relaxing (आराम करना)*
+
+✅ **Corrected Option:** then relaxes  
+**Correct Sentence:** She cooks, washes dishes, does her homework and then relaxes.
+
+📘 **Explanation:**  
+The sentence follows a parallel structure: **cooks, washes, does, relaxes** — all verbs should be in **simple present tense** to match.
+
+---
+```
+
+Let me know if you want more sets like this or want them grouped by tense/voice/type.
