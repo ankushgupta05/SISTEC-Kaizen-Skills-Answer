@@ -108,3 +108,82 @@ Arrogant (घमंडी), Humble (विनम्र)
 ---
 
 अगर आप चाहें तो मैं इन शब्दों के लिए वाक्य भी दे सकता हूँ जिससे समझ और पक्की हो जाएगी। बताइए?
+
+
+
+Here is the list of words from Q26–30 with their **Hindi meanings** (for all options), including the **correct antonym** highlighted:
+
+---
+
+### **26. VICTORIOUS** *(विजयी)*
+
+\**Correct Antonym: Defeated (पराजित)*
+
+| Word         | Hindi Meaning                 |
+| ------------ | ----------------------------- |
+| Victorious   | विजयी                         |
+| **Defeated** | **पराजित**                    |
+| Annexed      | जोड़ा गया / अधिग्रहण किया गया |
+| Destroyed    | नष्ट किया गया                 |
+| Vanquished   | परास्त किया गया               |
+
+---
+
+### **27. GRACEFUL** *(सौम्य / सुंदर ढंग से चलने वाला)*
+
+\**Correct Antonym: Awkward (भद्दा / अनाड़ी)*
+
+| Word        | Hindi Meaning      |
+| ----------- | ------------------ |
+| Graceful    | सौम्य / आकर्षक     |
+| Rough       | खुरदुरा / कठोर     |
+| Expert      | विशेषज्ञ           |
+| Miserable   | दयनीय / दुखी       |
+| **Awkward** | **भद्दा / अनाड़ी** |
+
+---
+
+### **28. NADIR** *(न्यूनतम बिंदु / सबसे निचला स्तर)*
+
+\**Correct Antonym: Zenith (शिखर / सर्वोच्च बिंदु)*
+
+| Word       | Hindi Meaning                   |
+| ---------- | ------------------------------- |
+| Nadir      | न्यूनतम बिंदु / पतन की चरम सीमा |
+| Modernity  | आधुनिकता                        |
+| **Zenith** | **शिखर / सर्वोच्च बिंदु**       |
+| Liberty    | स्वतंत्रता                      |
+| Progress   | प्रगति                          |
+
+---
+
+### **29. EXTRAVAGANCE** *(फिजूलखर्ची)*
+
+\**Correct Antonym: Economical (मितव्ययिता / किफ़ायत)*
+
+| Word           | Hindi Meaning           |
+| -------------- | ----------------------- |
+| Extravagance   | फिजूलखर्ची / अपव्यय     |
+| Luxury         | विलासिता                |
+| Poverty        | गरीबी                   |
+| **Economical** | **मितव्ययी / किफ़ायती** |
+| Cheapness      | सस्तापन / घटियापन       |
+
+---
+
+### **30. PERTINENT** *(उपयुक्त / प्रासंगिक)*
+
+\**Correct Antonym: Irrelevant (अप्रासंगिक)*
+
+| Word           | Hindi Meaning             |
+| -------------- | ------------------------- |
+| Pertinent      | प्रासंगिक / उपयुक्त       |
+| Irrational     | तर्कहीन / असंगत           |
+| Irregular      | अनियमित                   |
+| Insistent      | ज़ोर देने वाला            |
+| **Irrelevant** | **अप्रासंगिक / असंबंधित** |
+
+---
+
+Let me know if you want these in table format for a PDF or markdown.
+
