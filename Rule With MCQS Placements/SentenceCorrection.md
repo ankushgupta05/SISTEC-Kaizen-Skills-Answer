@@ -188,3 +188,141 @@ After "did", we always use **base form** (first form).
 ---
 
 ## 💬 **If you'd like, I can also make these as a table with options and explanations to make it easy to revise for campus placements! Want me to prepare that too?** 🌟
+
+Here are **10 error-based grammar questions (each with 5 options)** in the **same pattern** as campus placement questions. These questions focus on **common grammar areas** like **verb usage, passive voice, preposition errors, subject-verb agreement,** and **confusing phrases** — all of which are commonly tested in **campus placement exams**.
+
+---
+
+### ✅ **Error-Based Grammar Questions (Campus Placement Style)**
+
+---
+
+**21.**
+**Original Sentence:** Acquisition of certain specific skills can be facilitated from general awareness, education to novel situations.
+**A.** can be facilitated by
+**B.** may facilitate through
+**C.** can be felicitated with
+**D.** may be felicitated with
+**E.** No correction required
+**✔️ Correct Answer:** A
+**📘 Explanation:** "Facilitated **by**" is the correct prepositional usage; "from" is incorrect in this context.
+
+---
+
+**22.**
+**Original Sentence:** He never has and ever will take such strong measures.
+**A.** had taken nor will ever take
+**B.** had taken and will ever take
+**C.** has and never will take
+**D.** had and ever will take
+**E.** No correction required
+**✔️ Correct Answer:** A
+**📘 Explanation:** For parallel construction, it should be "never **had taken nor will ever take**."
+
+---
+
+**23.**
+**Original Sentence:** Technology must use to feed the forces of change.
+**A.** must be used to feed
+**B.** must have been using to feed
+**C.** must use having fed
+**D.** must be using to feed
+**E.** No correction required
+**✔️ Correct Answer:** A
+**📘 Explanation:** Passive construction is required: "Technology **must be used**..."
+
+---
+
+**24.**
+**Original Sentence:** Anyone interested in the use of computers can learn much if you have access to a personal computer.
+**A.** they have access
+**B.** access can be available
+**C.** he or she has access
+**D.** one of them have access
+**E.** No correction required
+**✔️ Correct Answer:** C
+**📘 Explanation:** “Anyone” is singular, so correct pronoun is **he or she**.
+
+---
+
+**25.**
+**Original Sentence:** They are not beware of all the facts.
+**A.** are not aware for
+**B.** are not aware of
+**C.** are not to be aware
+**D.** must not to be aware for
+**E.** No correction required
+**✔️ Correct Answer:** B
+**📘 Explanation:** Correct phrase: "aware **of** the facts", not “beware”.
+
+---
+
+### 🎯 **Extra 5 Questions (Closet-Style Error Detection)**
+
+---
+
+**26.**
+**Original Sentence:** Each of the participants were given a certificate.
+**A.** Each of the participant was
+**B.** Every of the participants were
+**C.** Each of the participants was
+**D.** All of the participant were
+**E.** No correction required
+**✔️ Correct Answer:** C
+**📘 Explanation:** "Each" takes a singular verb: **was given**.
+
+---
+
+**27.**
+**Original Sentence:** The number of students have increased this year.
+**A.** The number of students has
+**B.** Number of students have
+**C.** A number of student has
+**D.** A number of student have
+**E.** No correction required
+**✔️ Correct Answer:** A
+**📘 Explanation:** “The number of” takes a singular verb → **has increased**.
+
+---
+
+**28.**
+**Original Sentence:** Despite of his efforts, he failed the exam.
+**A.** Inspite of his efforts
+**B.** Though his efforts
+**C.** Despite his efforts
+**D.** In spite of his efforts
+**E.** No correction required
+**✔️ Correct Answer:** C
+**📘 Explanation:** “Despite” is not followed by “of”.
+
+---
+
+**29.**
+**Original Sentence:** No sooner the thief saw the police, he ran away.
+**A.** No sooner the thief had seen
+**B.** No sooner did the thief see
+**C.** As soon the thief saw
+**D.** No sooner had the thief saw
+**E.** No correction required
+**✔️ Correct Answer:** B
+**📘 Explanation:** “No sooner **did** + base verb” is the correct structure.
+
+---
+
+**30.**
+**Original Sentence:** He gave me an advice which I did not like.
+**A.** a advice
+**B.** one advice
+**C.** an advise
+**D.** a piece of advice
+**E.** No correction required
+**✔️ Correct Answer:** D
+**📘 Explanation:** “Advice” is uncountable → correct form: **a piece of advice**.
+
+---
+
+If you'd like **more questions by category** (like **Tense Errors**, **Voice Errors**, **Subject-Verb Agreement**, etc.) or in **README.md format**, just say the word!
+
+
+
+
