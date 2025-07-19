@@ -320,9 +320,9 @@ Here are **10 error-based grammar questions (each with 5 options)** in the **sam
 
 ```
 
+```
 Here are your **error-based grammar questions (26 to 30)** formatted in the same `README.md` style and pattern — clear, consistent, and without changing the structure:
 
-```
 markdown
 ---
 
@@ -385,6 +385,130 @@ markdown
 **📘 Explanation:** Correct superlative form is "**the most severe punishment**", not "mostly severe".
 
 ---
-```
+
 
 Let me know if you want more sets or want these saved in a `.md` file for download.
+
+---
+
+**31.**  
+**Original Sentence:** For many centuries in Indian History there was no city so famous like the city of Ujjain.  
+**A.** as  
+**B.** such as  
+**C.** likewise  
+**D.** so like  
+**E.** No correction required  
+**✔️ Correct Answer:** A  
+**📘 Explanation:** The correct comparative phrase is **"so famous as"** or simply "**as famous as**", not "so famous like".
+
+---
+
+**32.**  
+**Original Sentence:** We don't know how did the thief made an escape.  
+**A.** how the thief did make  
+**B.** how the thief does make  
+**C.** how the thief made  
+**D.** how was the thief made  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** In indirect speech (like this), we don’t invert the subject and auxiliary verb → "**how the thief made** an escape".
+
+---
+
+**33.**  
+**Original Sentence:** He is a singer of repute, but his yesterday's performance was quite disappointing.  
+**A.** performances of yesterday were  
+**B.** yesterday performance was  
+**C.** yesterday performance were  
+**D.** performances about yesterday were  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** The phrase should be "**yesterday’s performance**" (possessive form), not “his yesterday’s performance”.
+
+---
+
+**34.**  
+**Original Sentence:** Their earnings are such that they find it difficult to make both ends to meet.  
+**A.** to makings both ends meet  
+**B.** to make both ends for meeting  
+**C.** to make both ends meet  
+**D.** for making both ends to meet  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** The correct idiom is "**make both ends meet**", meaning to manage within one’s income.
+
+---
+
+**35.**  
+**Original Sentence:** He has received no other message than an urgent telegram asking him to rush his village immediately.  
+**A.** asked him to rush his village  
+**B.** asking him to have rush his village  
+**C.** asking him to rush to his village  
+**D.** asking him rushing at his village  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** The correct phrase is "**rush to his village**", not "rush his village".
+
+
+---
+
+**31.**  
+**Original Sentence:** For many centuries in Indian History there was no city so famous like the city of Ujjain.  
+**A.** as  
+**B.** such as  
+**C.** likewise  
+**D.** so like  
+**E.** No correction required  
+**✔️ Correct Answer:** A  
+**📘 Explanation:** The correct comparative phrase is **"so famous as"** or simply "**as famous as**", not "so famous like".
+
+---
+
+**32.**  
+**Original Sentence:** We don't know how did the thief made an escape.  
+**A.** how the thief did make  
+**B.** how the thief does make  
+**C.** how the thief made  
+**D.** how was the thief made  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** In indirect speech (like this), we don’t invert the subject and auxiliary verb → "**how the thief made** an escape".
+
+---
+
+**33.**  
+**Original Sentence:** He is a singer of repute, but his yesterday's performance was quite disappointing.  
+**A.** performances of yesterday were  
+**B.** yesterday performance was  
+**C.** yesterday performance were  
+**D.** performances about yesterday were  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** The phrase should be "**yesterday’s performance**" (possessive form), not “his yesterday’s performance”.
+
+---
+
+**34.**  
+**Original Sentence:** Their earnings are such that they find it difficult to make both ends to meet.  
+**A.** to makings both ends meet  
+**B.** to make both ends for meeting  
+**C.** to make both ends meet  
+**D.** for making both ends to meet  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** The correct idiom is "**make both ends meet**", meaning to manage within one’s income.
+
+---
+
+**35.**  
+**Original Sentence:** He has received no other message than an urgent telegram asking him to rush his village immediately.  
+**A.** asked him to rush his village  
+**B.** asking him to have rush his village  
+**C.** asking him to rush to his village  
+**D.** asking him rushing at his village  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** The correct phrase is "**rush to his village**", not "rush his village".
+
+
+
