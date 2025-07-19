@@ -318,6 +318,73 @@ Here are **10 error-based grammar questions (each with 5 options)** in the **sam
 **✔️ Correct Answer:** D  
 **📘 Explanation:** “Advice” is uncountable → correct form: **a piece of advice**.
 
+```
 
+Here are your **error-based grammar questions (26 to 30)** formatted in the same `README.md` style and pattern — clear, consistent, and without changing the structure:
 
+```
+markdown
+---
 
+**26.**  
+**Original Sentence:** We can not always convey ourselves in simple sentences.  
+**A.** cannot always convey  
+**B.** can not always express  
+**C.** cannot always express  
+**D.** can not always communicate  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** The correct verb is **"express ourselves"**, not "convey ourselves". Also, **"cannot"** is the correct form (not "can not").
+
+---
+
+**27.**  
+**Original Sentence:** What does agonise me most is not this criticism, but the trivial reason behind it.  
+**A.** most agonising me  
+**B.** agonises me most  
+**C.** agonising me most  
+**D.** I most agonised  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** "What **agonises me most**" is the correct present simple structure. Subject-verb agreement must be observed.
+
+---
+
+**28.**  
+**Original Sentence:** As there was no time, the remaining items were deferred into the next meeting.  
+**A.** are deferred till  
+**B.** were deferred till  
+**C.** were deferred to  
+**D.** had deferred with  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** Correct usage is "**deferred to** the next meeting", not "into".
+
+---
+
+**29.**  
+**Original Sentence:** Despite of their differences on matters of principles, they all agree on the demand of hike is salary?  
+**A.** Despite their  
+**B.** Despite of the  
+**C.** Despite for their  
+**D.** Despite off their  
+**E.** No correction required  
+**✔️ Correct Answer:** A  
+**📘 Explanation:** "Despite" is **not followed by 'of'**. Correct phrase: "**Despite their differences**". Also, there's an unrelated error in "demand of hike is salary", which might be corrected as "hike in salary", but not listed in options.
+
+---
+
+**30.**  
+**Original Sentence:** The man who has committed such a serious crime must get the mostly severe punishment.  
+**A.** be getting the mostly severely  
+**B.** get the most severe  
+**C.** have got the most severely  
+**D.** have been getting the severe most  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** Correct superlative form is "**the most severe punishment**", not "mostly severe".
+
+---
+```
+
+Let me know if you want more sets or want these saved in a `.md` file for download.
