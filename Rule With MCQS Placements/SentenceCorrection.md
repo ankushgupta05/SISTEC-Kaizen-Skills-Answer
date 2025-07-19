@@ -1,3 +1,6 @@
+remaining from 8 page
+
+
 Sure! Let’s discuss these one by one **in easy words**, explain the corrections, and also provide **5 extra practice questions for each category** to help you prepare for campus placements.
 
 ---
