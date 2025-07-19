@@ -572,3 +572,66 @@ Let me know if you want more sets or want these saved in a `.md` file for downlo
 **E.** No correction required  
 **✔️ Correct Answer:** A  
 **📘 Explanation:** "Police" is plural in British English → "**have arrested**", and "**who has stolen**" matches with "thief" (singular).
+
+
+
+
+---
+
+**36.**  
+**Original Sentence:** One of the most significant phenomenons of our time has been the development of cinema.  
+**A.** phenomenon  
+**B.** phenomena  
+**C.** phenomenonna  
+**D.** phenomenonns  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** "Phenomena" is the **correct plural** of "phenomenon". "Phenomenons" is incorrect.
+
+---
+
+**37.**  
+**Original Sentence:** Had you been told me about your problem, I would have helped you.  
+**A.** If you would have told  
+**B.** Had you have told  
+**C.** had you told  
+**D.** If you have told  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** "Had you told" is the correct **inverted conditional** form. "Been told me" is incorrect.
+
+---
+
+**38.**  
+**Original Sentence:** It was until many years later that Gandhi became a rebel against authority.  
+**A.** It was not until many years  
+**B.** It was till many years  
+**C.** It was not many years  
+**D.** Until It was many years  
+**E.** No correction required  
+**✔️ Correct Answer:** A  
+**📘 Explanation:** Correct structure is "**It was not until** many years later…" The negative is required for proper meaning.
+
+---
+
+**39.**  
+**Original Sentence:** Anand has the guts to rise from the occasion and come out successfully.  
+**A.** in rising from  
+**B.** to raise with  
+**C.** to rise to  
+**D.** to rise against  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** The correct idiom is "**rise to the occasion**", not "rise from".
+
+---
+
+**40.**  
+**Original Sentence:** If you are thinking about investigation overseas, isn't it makes sense to find an experience guide?  
+**A.** it is not making  
+**B.** doesn't it make  
+**C.** does it make  
+**D.** is it making  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** Correct tag question structure: "**doesn't it make sense**" — subject-verb agreement is wrong in original.
