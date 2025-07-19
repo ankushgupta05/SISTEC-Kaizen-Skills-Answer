@@ -512,3 +512,63 @@ Let me know if you want more sets or want these saved in a `.md` file for downlo
 
 
 
+
+---
+
+**36.**  
+**Original Sentence:** The train will leave the station until the guard blows the whistle.  
+**A.** when the guard will blow  
+**B.** after the guard blowing  
+**C.** unless the guard blows  
+**D.** only after the guard blows  
+**E.** No correction required  
+**✔️ Correct Answer:** D  
+**📘 Explanation:** "Until" is incorrect here. The correct structure is "**only after the guard blows the whistle**".
+
+---
+
+**37.**  
+**Original Sentence:** No sooner I had entered the room, the lights went off.  
+**A.** No sooner did I enter  
+**B.** No sooner I entered  
+**C.** No sooner had I enter  
+**D.** No sooner I had enter  
+**E.** No correction required  
+**✔️ Correct Answer:** A  
+**📘 Explanation:** Correct inversion structure: "**No sooner did I enter...**" followed by past simple.
+
+---
+
+**38.**  
+**Original Sentence:** He denied to help the poor man who was crying for food.  
+**A.** refused of helping  
+**B.** denied helping  
+**C.** refused to help  
+**D.** denied for help  
+**E.** No correction required  
+**✔️ Correct Answer:** C  
+**📘 Explanation:** "Deny" is not followed by an infinitive. The correct verb is **"refused to help"**.
+
+---
+
+**39.**  
+**Original Sentence:** He not only lost his passport, and also his travel documents.  
+**A.** but also lost  
+**B.** but also his  
+**C.** but lost also  
+**D.** also lost but  
+**E.** No correction required  
+**✔️ Correct Answer:** B  
+**📘 Explanation:** Correct correlative conjunction: "**not only... but also his travel documents**".
+
+---
+
+**40.**  
+**Original Sentence:** The police has arrested the thief who have stolen the mobile phone.  
+**A.** has arrested the thief who has stolen  
+**B.** have arrested the thief who have stolen  
+**C.** have arrested the thief who had stolen  
+**D.** has arrested the thief who was stolen  
+**E.** No correction required  
+**✔️ Correct Answer:** A  
+**📘 Explanation:** "Police" is plural in British English → "**have arrested**", and "**who has stolen**" matches with "thief" (singular).
