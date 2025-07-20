@@ -76,6 +76,15 @@ Counter:
 Similarly, movies can be used for good or bad, but their main role is to spread awareness and express ideas.
 Movies like Chak De India, Swades, and 3 Idiots inspired millions to chase their dreams and improve the nation.
 
+// example
+Suppose someone has a little pain or just a normal headache, but they keep taking strong painkillers daily without asking a doctor. Slowly, it becomes a bad habit and harms their health.
+
+The medicine was made to help, not to harm. But if people use it the wrong way, it becomes dangerous.
+
+Movies are also the same — most are made for good reasons. But if someone keeps watching the wrong kind again and again, that’s their choice. We can’t blame movies for that.
+
+
+
 
 
 ❌ Objection 2: “Movies are just fiction – not real.”
