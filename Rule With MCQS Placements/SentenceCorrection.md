@@ -742,3 +742,245 @@ Here’s a detailed breakdown of each sentence from a **campus placement** or **
 ---
 
 Let me know if you want these formatted for flashcards or mock test practice!
+
+
+
+Here is the **correct answer and explanation** for each of the grammar correction questions (Q.46 to Q.50), suitable for **campus placement exams**, **competitive exams**, or **English proficiency tests**:
+
+---
+
+### **46. It was unanimously resolved that the parties should unitedly undertook launching of popular programmes.**
+
+**Options:**
+
+* should be united undertook ❌
+* should be unitedly undertaken ❌
+* should be unitedly undertake ❌
+* ✅ **should unitedly undertake**
+* No correction required ❌
+
+✅ **Correct Answer: `should unitedly undertake`**
+
+🧠 **Explanation:**
+
+* After **"should"**, we use **base verb (V1)** → "undertake" ✅
+* “undertook” is past tense (V2) ❌
+* “undertaken” is past participle (V3) ❌
+* “should unitedly undertake” = correct verb usage
+* Also, **"unitedly"** is an appropriate adverb here.
+
+---
+
+### **47. They continued to work in the field despite of the heavy rains.**
+
+**Options:**
+
+* even though there is heavy rain ❌
+* although heavily rains ❌
+* in spite the heavy rains ❌
+* ✅ **even though it rained heavily**
+* No correction required ❌
+
+✅ **Correct Answer: `even though it rained heavily`**
+
+🧠 **Explanation:**
+
+* ❌ "Despite of" is incorrect. Use either:
+
+  * **despite + noun** ✅ e.g. *despite the rain*
+  * **in spite of + noun** ✅
+* Correct alternative is: **"even though it rained heavily"**, which maintains meaning and fixes the grammatical error.
+
+---
+
+### **48. It is always better to make people realise the importance of discipline than to impose them on it.**
+
+**Options:**
+
+* impose it with them ❌
+* impose them with it ❌
+* imposing them on it ❌
+* ✅ **impose it on them**
+* No correction required ❌
+
+✅ **Correct Answer: `impose it on them`**
+
+🧠 **Explanation:**
+
+* The subject is **"discipline"** → singular → **"it"**
+* The object is **"people"** → plural → "them"
+* Correct phrase: **impose it (discipline) on them (people)** ✅
+
+---
+
+### **49. My doctor knew that I would eventually recover and do kind of work I would be doing before**
+
+**Options:**
+
+* would have been doing ❌
+* would have done ❌
+* had been done ❌
+* ✅ **had been doing**
+* No correction required ❌
+
+✅ **Correct Answer: `had been doing`**
+
+🧠 **Explanation:**
+
+* "The kind of work I **had been doing** before" — past perfect continuous is correct here because:
+
+  * It describes **an ongoing past activity before another past event (recovery)**.
+* "Would be doing" is wrong because it implies **future-in-past**, not a past habitual action.
+
+---
+
+### **50. Later he became unpopular because he tried to lord it on his followers.**
+
+**Options:**
+
+* to lord it for ❌
+* to lord over ❌
+* ✅ **to lord it over**
+* to lord it over on ❌
+* No correction required ❌
+
+✅ **Correct Answer: `to lord it over`**
+
+🧠 **Explanation:**
+
+* The correct phrasal verb is: **“lord it over someone”**, meaning **to act superior**.
+* "On his followers" is incorrect usage.
+* ❌ “to lord it on”, “to lord over” – both incorrect/incomplete idioms.
+
+---
+
+### ✅ Summary Table:
+
+| Q.No | Correct Option                | Explanation                                                                  |
+| ---- | ----------------------------- | ---------------------------------------------------------------------------- |
+| 46   | should unitedly undertake     | "Should" takes base form of the verb (undertake)                             |
+| 47   | even though it rained heavily | Fixes incorrect usage of "despite of"                                        |
+| 48   | impose it on them             | "Discipline" (it) imposed on "people" (them)                                 |
+| 49   | had been doing                | Past perfect continuous is correct for action happening before past recovery |
+| 50   | to lord it over               | Correct idiomatic usage: “lord it over someone”                              |
+
+---
+
+Let me know if you want these in a **PDF worksheet**, **interactive quiz**, or want explanations in **Hindi** for practice.
+Here’s a detailed explanation for **questions 51 to 55** with the **correct option**, **grammar rule**, and **why the error exists** — perfect for **campus placements**, **SSC**, **banking**, and **English grammar exams**.
+
+---
+
+### **51. The crops are dying; it must not had rained.**
+
+**Options:**
+
+* must had not ❌
+* must not be ❌
+* ✅ **must not have**
+* must not have been ❌
+* No correction required ❌
+
+✅ **Correct Answer: `must not have`**
+
+🧠 **Explanation:**
+
+* After **“must”**, we use **have + past participle (V3)**
+* ❌ “must not had” is **wrong tense**
+* ✅ Correct form: **"must not have rained"** (indicating assumption about a past event)
+
+---
+
+### **52. The courts are actively to safeguard the interests and the rights of the poor.**
+
+**Options:**
+
+* are actively to safeguarding ❌
+* ✅ **have been actively safeguarding**
+* have to active in safeguarding ❌
+* are actively in safeguarding ❌
+* No correction required ❌
+
+✅ **Correct Answer: `have been actively safeguarding`**
+
+🧠 **Explanation:**
+
+* "Are actively to safeguard" is grammatically incorrect.
+* **"Have been actively safeguarding"** = present perfect continuous, correct for an ongoing action.
+* Matches with “The courts” (plural subject) and ongoing responsibility.
+
+---
+
+### **53. The drama had many scenes which were so humorous that it was hardly possible to keep a straight face.**
+
+**Options:**
+
+* hardly possible for keeping ❌
+* hardly impossible for keeping ❌
+* hardly impossible for keep ❌
+* hardly possible keeping ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* "So humorous that it was hardly possible to keep a straight face" = perfect and grammatically correct.
+* “Hardly possible to keep” — correct infinitive usage (to + V1)
+
+---
+
+### **54. Hardly does the sun rise when the stars disappeared.**
+
+**Options:**
+
+* have the sun rose ❌
+* ✅ **had the sun risen**
+* did the sun rose ❌
+* the sun rose ❌
+* No correction required ❌
+
+✅ **Correct Answer: `had the sun risen`**
+
+🧠 **Explanation:**
+
+* The structure **“Hardly...when…”** needs **past perfect** before **“when”** clause.
+* Correct form: **“Hardly had the sun risen when the stars disappeared.”**
+* ❌ "does" is present; but “disappeared” is past → **tense mismatch**
+
+---
+
+### **55. You will be late if you do not leave now**
+
+**Options:**
+
+* did not leave ❌
+* left ❌
+* will not leave ❌
+* do not happen to leave ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* This is a correct **conditional sentence (Type 1)**:
+
+  * **If + present simple**, **will + base verb**
+  * Structure: *If you do not leave now, you will be late.* ✅
+
+---
+
+### ✅ Summary Table:
+
+| Q.No | Correct Option                  | Explanation                                              |
+| ---- | ------------------------------- | -------------------------------------------------------- |
+| 51   | must not have                   | "must" + "have + V3" = correct assumption about the past |
+| 52   | have been actively safeguarding | Ongoing action by courts → present perfect continuous    |
+| 53   | No correction required          | Sentence is grammatically and idiomatically correct      |
+| 54   | had the sun risen               | “Hardly...when” → requires past perfect tense            |
+| 55   | No correction required          | Proper conditional sentence (If + present, will + V1)    |
+
+---
+
+Let me know if you'd like practice questions, Hindi explanations, or a printable grammar worksheet!
