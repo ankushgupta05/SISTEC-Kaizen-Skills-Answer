@@ -1,4 +1,3 @@
-remaining from 8 page
 
 
 Sure! Let’s discuss these one by one **in easy words**, explain the corrections, and also provide **5 extra practice questions for each category** to help you prepare for campus placements.
@@ -638,3 +637,108 @@ Let me know if you want more sets or want these saved in a `.md` file for downlo
 **E.** No correction required  
 **✔️ Correct Answer:** B  
 **📘 Explanation:** Correct tag question structure: "**doesn't it make sense**" — subject-verb agreement is wrong in original.
+
+
+Here’s a detailed breakdown of each sentence from a **campus placement** or **competitive exam** perspective, with explanation of **errors, grammar rules involved, and correct options**:
+
+---
+
+### **41. This is one of the most important inventions of this century.**
+
+**Given options:**
+
+* invention of this century ❌
+* invention of these century ❌
+* invention of centuries ❌
+* invention of the centuries ❌
+* **No correction required ✅**
+
+✅ **Correct Answer: Option: No correction required**
+
+🧠 **Explanation:**
+
+* "One of the most important inventions" — this part is correct: “inventions” is plural because it refers to a group of things.
+* “of this century” — refers to **the 21st century**, which is singular and correct.
+
+❌ Common Mistakes:
+
+* “these century” is incorrect — “these” goes with plural nouns, but “century” is singular.
+* “invention” (singular) mismatches with “one of the most important” (which needs plural).
+
+---
+
+### **42. The orator had been left the auditorium before the audience stood up.**
+
+**Given options:**
+
+* had been leaving ❌
+* was left ❌
+* **had left ✅**
+* would leave ❌
+* No correction required ❌
+
+✅ **Correct Answer: Option: had left**
+
+🧠 **Explanation:**
+
+* "Had been left" is passive voice and incorrect here. It sounds like **someone abandoned the orator**, which is not the meaning.
+* The sentence is **past perfect** describing a completed action before another past action.
+
+  * "The orator had left the auditorium" ✅ (before audience stood up)
+
+---
+
+### **43. He dislikes the word dislike, isn't he**
+
+**Given options:**
+
+* didn't he ❌
+* **doesn't he ✅**
+* hasn't he ❌
+* does he ❌
+* No correction required ❌
+
+✅ **Correct Answer: Option: doesn't he**
+
+🧠 **Explanation:**
+
+* The sentence is a **question tag**.
+* Main sentence: “He dislikes...” → Present simple tense → use **“doesn't he”**
+* Rule:
+
+  * Positive sentence → Negative tag
+  * Use the auxiliary of the main verb ("dislikes" → present simple → "does" → "doesn't he")
+
+---
+
+### **44. We must take it granted that Madhu will not come for today's function.**
+
+**Given options:**
+
+* **take it for granted ✅**
+* taking it granted ❌
+* took it as granted ❌
+* have it granted ❌
+* No correction required ❌
+
+✅ **Correct Answer: Option: take it for granted**
+
+🧠 **Explanation:**
+
+* The correct idiom is **“take it for granted”**, meaning to assume something is true or certain.
+* "Take it granted" is grammatically incorrect and **missing 'for'**.
+
+---
+
+### ✅ Summary Table:
+
+| Q.No | Correct Option         | Explanation                                                                |
+| ---- | ---------------------- | -------------------------------------------------------------------------- |
+| 41   | No correction required | “inventions of this century” is grammatically correct.                     |
+| 42   | had left               | Past perfect is needed for an action completed before another past action. |
+| 43   | doesn't he             | Question tag of “He dislikes” → “doesn't he”                               |
+| 44   | take it for granted    | Correct idiomatic expression                                               |
+
+---
+
+Let me know if you want these formatted for flashcards or mock test practice!
