@@ -1,3 +1,4 @@
+till 15 complete
 
 
 Sure! Let’s discuss these one by one **in easy words**, explain the corrections, and also provide **5 extra practice questions for each category** to help you prepare for campus placements.
@@ -984,3 +985,400 @@ Here’s a detailed explanation for **questions 51 to 55** with the **correct op
 ---
 
 Let me know if you'd like practice questions, Hindi explanations, or a printable grammar worksheet!
+
+
+Here are the correct answers with clear explanations for **questions 56 to 60**, suitable for **campus placement**, **competitive exams**, or **English grammar practice**:
+
+---
+
+### **56. The train will leave at 8.30 pm, we have been ready by 7.30 pm so that, we can reach the station in time.**
+
+**Options:**
+
+* were ❌
+* ✅ **must be**
+* are ❌
+* should have ❌
+* No correction required ❌
+
+✅ **Correct Answer: `must be`**
+
+🧠 **Explanation:**
+
+* The sentence is about a **future plan**, so we use **"must be ready"** to express **necessity or obligation** for the future.
+* ❌ “have been” implies an action already completed, which is incorrect for future time reference.
+
+**Correct sentence:**
+*The train will leave at 8.30 pm. We **must be ready** by 7.30 pm so that we can reach the station in time.*
+
+---
+
+### **57. All the allegations levelled against him were found to be baseless.**
+
+**Options:**
+
+* level against ❌
+* level with ❌
+* levelling with ❌
+* levelled for ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* “Levelled against someone” is the **correct idiom** meaning *accusations made against someone*.
+* Tense and passive structure are also correct: “were found to be baseless.”
+
+---
+
+### **58. Ramesh is as tall if not, taller than Mahesh.**
+
+**Options:**
+
+* not as tall but ❌
+* not so tall but as ❌
+* ✅ **as tall as, if not**
+* as if not ❌
+* No correction required ❌
+
+✅ **Correct Answer: `as tall as, if not`**
+
+🧠 **Explanation:**
+
+* Correct comparison structure is:
+
+  * **“as tall as, if not taller than…”** ✅
+* This structure allows for equality or superiority in comparison.
+
+**Correct sentence:**
+*Ramesh is **as tall as, if not taller than** Mahesh.*
+
+---
+
+### **59. He hesitated to listen to what his brother was saying.**
+
+**Options:**
+
+* listened to hesitate ❌
+* hesitated listen to ❌
+* hesitates to listening ❌
+* is hesitated to listen to ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* “He hesitated to listen…” is grammatically correct.
+* The verb “hesitate” is correctly followed by an infinitive: **hesitated + to + base verb**.
+
+---
+
+### **60. The prosecution failed in establish in every case today.**
+
+**Options:**
+
+* ✅ **to**
+* on ❌
+* as ❌
+* upon ❌
+* No correction required ❌
+
+✅ **Correct Answer: `to`**
+
+🧠 **Explanation:**
+
+* The correct verb structure is **“failed to + base verb”**
+* So it should be **“failed to establish”** ✅
+
+**Correct sentence:**
+*The prosecution failed **to establish** in every case today.*
+
+---
+
+### ✅ Summary Table:
+
+| Q.No | Correct Option         | Explanation                                                     |
+| ---- | ---------------------- | --------------------------------------------------------------- |
+| 56   | must be                | Refers to future obligation: "must be ready"                    |
+| 57   | No correction required | "Levelled against" is the correct phrase for accusations        |
+| 58   | as tall as, if not     | Proper structure for comparison with "if not taller"            |
+| 59   | No correction required | “Hesitated to listen” is correct verb + infinitive construction |
+| 60   | to                     | Correct verb structure is “failed to establish”                 |
+
+---
+
+Would you like all 60 questions compiled into a **practice PDF or mock test** format with explanations?
+
+
+
+
+
+
+Here’s a full explanation for **Questions 61–65**, including the **correct answers**, **grammar rules**, and **why each option is right or wrong**—great for **campus placement prep**, **competitive English tests**, and **spoken grammar clarity**:
+
+---
+
+### **61. One of my drawbacks is that I do not have to tolerance of ambiguity.**
+
+**Options:**
+
+* ✅ **do not have**
+* cannot have ❌
+* am not ❌
+* did not have to ❌
+* No correction required ❌
+
+✅ **Correct Answer: `do not have`**
+
+🧠 **Explanation:**
+
+* The phrase “have to tolerance” is **grammatically wrong** because:
+
+  * “to” is not needed before a noun.
+  * Correct form is: **“do not have tolerance”**
+* “Tolerance” is an uncountable noun here, no article "the" is needed before it.
+
+**Correct sentence:**
+*One of my drawbacks is that I **do not have tolerance** of ambiguity.*
+
+---
+
+### **62. They should have calmly thought of the advantages that would accrue to them.**
+
+**Options:**
+
+* should have been calm in thinking about ❌
+* should be calmly thought of ❌
+* shall have to calmly thought of ❌
+* should have calmly think of ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* “Should have thought of” is the correct **perfect modal** usage.
+* “Calmly” is the correct adverb placed appropriately.
+* “Accrue to them” is a formal and correct expression meaning “benefit them.”
+
+---
+
+### **63. The easiest of the thing to do is to ask the address to the postman.**
+
+**Options:**
+
+* ✅ **of the things to do**
+* among the things did ❌
+* of the thing to be done ❌
+* of all the things done ❌
+* No correction required ❌
+
+✅ **Correct Answer: `of the things to do`**
+
+🧠 **Explanation:**
+
+* “Thing” should be plural: “things” because you are choosing **one among many**.
+* "Ask the address to the postman" is **also awkward**, but not part of the correction. A better version would be:
+  *ask the **postman** for the address.*
+
+**Corrected sentence (ideally):**
+*The easiest **of the things to do** is to ask the **postman for the address.***
+
+---
+
+### **64. We demonstrated to them how we were prepared the artistic patterns.**
+
+**Options:**
+
+* are prepared ❌
+* have prepared ❌
+* are preparing ❌
+* ✅ **had prepared**
+* No correction required ❌
+
+✅ **Correct Answer: `had prepared`**
+
+🧠 **Explanation:**
+
+* The sentence describes an action **completed before** the demonstration.
+* Hence, use **past perfect**: “had prepared”.
+* "Were prepared" is passive and **wrong** here with “how we…”
+
+**Correct sentence:**
+*We demonstrated to them how we **had prepared** the artistic patterns.*
+
+---
+
+### **65. Because of his mastery in this field, his suggestions are wide accepted.**
+
+**Options:**
+
+* ✅ **are widely accepted**
+* widely acceptance ❌
+* have widely accepted ❌
+* have been wide accepted ❌
+* No correction required ❌
+
+✅ **Correct Answer: `are widely accepted`**
+
+🧠 **Explanation:**
+
+* “Wide” is adjective → wrong here.
+* “Widely” is the correct adverb to describe “accepted”
+* “are accepted” = correct passive voice.
+  → needs adverb, not adjective.
+
+**Correct sentence:**
+*Because of his mastery in this field, his suggestions **are widely accepted**.*
+
+---
+
+### ✅ Summary Table:
+
+| Q.No | Correct Option         | Explanation                                                            |
+| ---- | ---------------------- | ---------------------------------------------------------------------- |
+| 61   | do not have            | “have to tolerance” is wrong — should be “do not have tolerance”       |
+| 62   | No correction required | Modal perfect structure is already correct                             |
+| 63   | of the things to do    | Must be plural — “things” instead of “thing”                           |
+| 64   | had prepared           | Past perfect is needed for an action done before “demonstrated”        |
+| 65   | are widely accepted    | “Wide” → incorrect. Needs adverb “widely” with passive verb “accepted” |
+
+---
+
+Let me know if you'd like **Questions 1–65 in PDF**, **Hindi explanation**, or more **mock grammar quizzes**!
+
+
+
+
+Here are the correct answers and detailed explanations for **Questions 71–75**, with grammar rules and clarity for **campus placement, SSC, and English language tests**.
+
+---
+
+### **71. We were still standing in the queue when the film was beginning.**
+
+**Options:**
+
+* ✅ **film began**
+* film had begun ❌
+* beginning of the film was over ❌
+* film begins ❌
+* No correction required ❌
+
+✅ **Correct Answer: `film began`**
+
+🧠 **Explanation:**
+
+* Past continuous ("We were still standing") needs a **simple past** for the second clause to match timeline.
+* “Was beginning” is incorrect because it’s awkward and unnecessary here.
+* "When the film **began**" = a clear action interrupting another ongoing action.
+
+**Correct sentence:**
+*We were still standing in the queue when the **film began**.*
+
+---
+
+### **72. If I would have realised the nature of job earlier, I would not have accepted it.**
+
+**Options:**
+
+* If I have had ❌
+* In case I would have ❌
+* Had I been ❌
+* ✅ **Had I**
+* No correction required ❌
+
+✅ **Correct Answer: `Had I`**
+
+🧠 **Explanation:**
+
+* Conditional sentences (Type 3 – unreal past condition):
+  Correct structure is:
+  **“Had I realised…”**, not **“If I would have realised”** ❌
+* "Would have" is **never** used in the **if-clause**.
+
+**Correct sentence:**
+*Had I realised the nature of the job earlier, I would not have accepted it.*
+
+---
+
+### **73. The crime has growth rapidly in Russia since the disintegration of the communist system.**
+
+**Options:**
+
+* rapid crime has grown ❌
+* ✅ **crime has grown rapidly**
+* crimes grow rapidly ❌
+* crimes have been rapidly grown ❌
+* No correction required ❌
+
+✅ **Correct Answer: `crime has grown rapidly`**
+
+🧠 **Explanation:**
+
+* “Growth” is a **noun**, but we need the **verb form** “grown”.
+* "Crime" is an uncountable noun here, so **“crime has grown rapidly”** is grammatically and contextually correct.
+
+**Correct sentence:**
+*The **crime has grown rapidly** in Russia since the disintegration of the communist system.*
+
+---
+
+### **74. They failed in their attempt to repair the demolished portion of that building.**
+
+**Options:**
+
+* for their attempt to repair ❌
+* in their attempting to repair ❌
+* with their attempt to repair ❌
+* in their attempt for repairs ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* The phrase **“failed in their attempt to repair”** is grammatically correct.
+* “Attempt to repair” = correct infinitive phrase.
+* Preposition “in” goes correctly with “failed” in this context.
+
+---
+
+### **75. I earnestly believe that you will visit our relatives during your forthcoming trip to Mumbai.**
+
+**Options:**
+
+* had hardly believe that ❌
+* sincerely would believe ❌
+* certainly believing that ❌
+* could not believe ❌
+* ✅ **No correction required**
+
+✅ **Correct Answer: `No correction required`**
+
+🧠 **Explanation:**
+
+* “I earnestly believe” = correct usage of adverb with the verb "believe"
+* Tense and sentence structure are fully appropriate.
+
+---
+
+### ✅ Summary Table:
+
+| Q.No | Correct Option          | Explanation                                                             |
+| ---- | ----------------------- | ----------------------------------------------------------------------- |
+| 71   | film began              | Simple past (“film began”) matches past continuous (“we were standing”) |
+| 72   | Had I                   | Correct inversion for conditional sentence (Type 3)                     |
+| 73   | crime has grown rapidly | "Growth" is incorrect — correct verb is "grown"                         |
+| 74   | No correction required  | “Failed in their attempt to repair…” is grammatically correct           |
+| 75   | No correction required  | “Earnestly believe…” is a proper and complete expression                |
+
+---
+
+Would you like me to create a **PDF of Questions 1–75** with answers and explanations (in English or Hindi)?
+
+
+
+
+
