@@ -346,3 +346,38 @@ Would you like:
 * Hindi explanation for tricky examples?
 
 Let me know how you want to proceed!
+
+
+
+
+
+Great request, Ankush! Let’s dive into two important and often overlooked grammar error types commonly tested in **campus placement exams** and interviews:
+
+---
+
+## 🔹 1. **Possessive Pronoun & Noun Based Errors**
+
+### ✅ Possessive Error Spotting (Medium Level with Explanation)
+
+| No. | ❌ Incorrect Sentence                           | ✅ Correct Sentence                            | 🔍 Explanation                                                       |
+| --- | ---------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
+| 1   | This notebook is **Ravi**.                     | This notebook is **Ravi’s**.                  | Use possessive form (**’s**) to show ownership.                      |
+| 2   | That bag is **her's**, not mine.               | That bag is **hers**, not mine.               | Possessive pronouns (hers, yours, theirs) **never** take apostrophe. |
+| 3   | This is **my brother’s friend’s** house.       | ✅ Correct as is.                              | Two levels of possession → brother’s friend’s house.                 |
+| 4   | I borrowed **Reena's and Seema's** notes.      | I borrowed **Reena and Seema's** notes.       | When two share ownership, add apostrophe only to the second.         |
+| 5   | That dog wagged **it's** tail.                 | That dog wagged **its** tail.                 | “It’s” = *it is*; **its** (no apostrophe) is possessive.             |
+| 6   | The girls hostel is being renovated.           | The **girls’** hostel is being renovated.     | "Girls" is plural → apostrophe **after s**.                          |
+| 7   | These are the **childrens’** toys.             | These are the **children’s** toys.            | “Children” is already plural → apostrophe before **s**.              |
+| 8   | This is **everyones** responsibility.          | This is **everyone’s** responsibility.        | “Everyone” is singular → needs **’s** for possession.                |
+| 9   | My phone’s screen is brighter than **your’s**. | My phone’s screen is brighter than **yours**. | **Yours** never takes apostrophe.                                    |
+| 10  | The table’s legs were broken.                  | ✅ Correct as is.                              | Non-living things can use possessive form in casual English.         |
+
+---
+Would you like:
+
+* 📄 Combined README.md of all these?
+* 📝 A quiz for practice?
+* More on **Direct–Indirect speech conversion**?
+
+Let me know!
+
