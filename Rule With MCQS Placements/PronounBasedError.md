@@ -381,3 +381,55 @@ Would you like:
 
 Let me know!
 
+
+
+
+
+Here are **10 more medium-level possessive-based errors**, all **non-repeating** and ideal for **campus placements** or **grammar rounds**, with explanations in table format:
+
+---
+
+### 📘 **Possessive Error Questions (Non-repeating)**
+
+| No. | ❌ Incorrect Sentence                          | ✅ Correct Sentence                             | 🔍 Explanation                                                           |
+| --- | --------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------ |
+| 11  | The **boys’s** shoes were left outside.       | The **boys’** shoes were left outside.         | “Boys” is plural → apostrophe after **s**, not **boys’s**.               |
+| 12  | That is the **boss’** office.                 | That is the **boss’s** office.                 | For singular nouns ending in **s**, style guides prefer **’s** (boss’s). |
+| 13  | The **teachers room** is on the second floor. | The **teachers’ room** is on the second floor. | Room belongs to **plural teachers** → use **teachers’** with apostrophe. |
+| 14  | I met **John's and Mike's** mother yesterday. | I met **John and Mike’s** mother yesterday.    | Shared possession → add apostrophe only to **Mike’s**, the second noun.  |
+| 15  | **Its’** paws were muddy after the walk.      | **Its** paws were muddy after the walk.        | “Its” is possessive without an apostrophe; **its’** is incorrect.        |
+| 16  | She read her **friends's** messages.          | She read her **friends’** messages.            | “Friends” is plural → use **friends’** not **friends's**.                |
+| 17  | I like the color of **that car’s tyres**.     | ✅ Correct as is.                               | The phrase shows possession correctly → **car’s tyres**.                 |
+| 18  | I borrowed my **uncle's-in-law** car.         | I borrowed my **uncle-in-law’s** car.          | Apostrophe comes **after the full compound noun** (uncle-in-law).        |
+| 19  | They discussed **each others** problems.      | They discussed **each other’s** problems.      | “Each other” → treat as singular compound → **each other’s**.            |
+| 20  | She is one of **India's best singer’s**.      | She is one of **India’s best singers**.        | Apostrophe not needed on “singer’s” (not showing possession).            |
+
+---
+
+Would you like me to continue with **quotation mark-based errors** next?
+
+
+
+Here are **10 more unique possessive-based and quotation mark error questions** with explanations — all non-repetitive and ideal for campus placement practice (medium level):
+
+---
+
+### 📌 **Possessive Errors**
+
+| No. | ❌ Incorrect Sentence                             | ✅ Correct Sentence                             | 🔍 Explanation                                        |
+| --- | ------------------------------------------------ | ---------------------------------------------- | ----------------------------------------------------- |
+| 11  | The **bosses** cabin is on the top floor.        | The **boss’s** cabin is on the top floor.      | "Boss" is singular → use `'s` to show possession.     |
+| 12  | The **women’s’s** locker room was newly painted. | The **women’s** locker room was newly painted. | “Women” is already plural → just add `'s`, not twice. |
+| 13  | All the **teachers's** materials are online.     | All the **teachers’** materials are online.    | “Teachers” is plural → apostrophe **after s**.        |
+| 14  | That is **somebody elses** fault.                | That is **somebody else’s** fault.             | Use `'s` with “else” to show possession correctly.    |
+| 15  | The **companys** revenue increased this year.    | The **company’s** revenue increased this year. | “Company” is singular → needs `'s`.                   |
+
+---
+
+Would you like:
+
+* **error-detection format (MCQs)?**
+* or **fill in the blanks** next?
+  Or should I continue with **more non-repeated errors** from **pronouns**, **tenses**, etc.?
+
+
