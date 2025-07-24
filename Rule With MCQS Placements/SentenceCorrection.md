@@ -1,3 +1,181 @@
+Here’s the next batch of **hard-level tense-based grammar error correction questions (Questions 78–82)** with detailed explanations and rules:
+
+---
+
+### ✅ Question 78
+
+❌ Incorrect Sentence:
+She will have reached home when you were calling her.
+
+✅ Correct Sentence:
+She had reached home when you were calling her.
+
+🔍 Explanation:
+“Will have” is **future perfect**, but the sentence talks about two past actions. Use **past perfect** for the earlier action.
+
+📘 Grammar Rule:
+👉 When describing two past events, use **past perfect** for the earlier one and **past continuous/simple past** for the later one.
+
+---
+
+### ✅ Question 79
+
+❌ Incorrect Sentence:
+I did not watched the match yesterday.
+
+✅ Correct Sentence:
+I did not watch the match yesterday.
+
+🔍 Explanation:
+After “did not,” use the **base form** of the verb, not past tense.
+
+📘 Grammar Rule:
+👉 After **did/didn't**, always use **V1 (base form)**, not V2 (past tense).
+
+---
+
+### ✅ Question 80
+
+❌ Incorrect Sentence:
+They were finished the project before the deadline.
+
+✅ Correct Sentence:
+They had finished the project before the deadline.
+
+🔍 Explanation:
+“Were finished” is incorrect because it mixes passive and active structure. Use **past perfect** for an action completed before another past action.
+
+📘 Grammar Rule:
+👉 Use “had + past participle” to describe an action completed before a specific point in the past.
+
+---
+
+### ✅ Question 81
+
+❌ Incorrect Sentence:
+He is going to met the CEO later today.
+
+✅ Correct Sentence:
+He is going to meet the CEO later today.
+
+🔍 Explanation:
+After “going to,” we always use the **base form** of the verb.
+
+📘 Grammar Rule:
+👉 “Be going to + V1” is used for planned future actions.
+
+---
+
+### ✅ Question 82
+
+❌ Incorrect Sentence:
+I wish I know the answer.
+
+✅ Correct Sentence:
+I wish I knew the answer.
+
+🔍 Explanation:
+When expressing a **wish about the present**, use **past tense** after “wish.”
+
+📘 Grammar Rule:
+👉 After “wish,” use **past simple** for present unreal situations (contrary to fact).
+
+---
+
+Let me know if you’d like the next batch (Questions 83–87) — all will be new and non-repetitive.
+
+
+
+
+Great! Here's the next set of hard-level grammar error correction questions based only on **tense errors**, with no repetition:
+
+---
+
+### ✅ Question 73
+
+❌ Incorrect Sentence:
+He will be sleeping for two hours by the time you reach.
+
+✅ Correct Sentence:
+He will have been sleeping for two hours by the time you reach.
+
+🔍 Explanation:
+To show the duration of an action continuing up to a point in the future, use **future perfect continuous**.
+
+📘 Grammar Rule:
+👉 Use “will have been + verb-ing” to express an action continuing until a specific time in the future.
+
+---
+
+### ✅ Question 74
+
+❌ Incorrect Sentence:
+She was knowing the answer but didn’t speak.
+
+✅ Correct Sentence:
+She knew the answer but didn’t speak.
+
+🔍 Explanation:
+“Know” is a **stative verb** and should not be used in continuous form.
+
+📘 Grammar Rule:
+👉 Stative verbs like *know, believe, love, hate, understand* are generally not used in continuous tenses.
+
+---
+
+### ✅ Question 75
+
+❌ Incorrect Sentence:
+I am living in Delhi since 2010.
+
+✅ Correct Sentence:
+I have been living in Delhi since 2010.
+
+🔍 Explanation:
+The action started in the past and is still continuing, so we need **present perfect continuous tense**.
+
+📘 Grammar Rule:
+👉 Use “have/has been + verb-ing” with **since/for** to describe actions that began in the past and continue into the present.
+
+---
+
+### ✅ Question 76
+
+❌ Incorrect Sentence:
+By the time they will arrive, we will have left.
+
+✅ Correct Sentence:
+By the time they arrive, we will have left.
+
+🔍 Explanation:
+“By the time” refers to a **future point**, so use **present simple** with “by the time” and **future perfect** in the main clause.
+
+📘 Grammar Rule:
+👉 After time expressions like “when,” “before,” “after,” and “by the time,” use **present tense**, not future.
+
+---
+
+### ✅ Question 77
+
+❌ Incorrect Sentence:
+He worked in this company for ten years before he left.
+
+✅ Correct Sentence:
+He had worked in this company for ten years before he left.
+
+🔍 Explanation:
+To show one past action that occurred **before another past action**, we use **past perfect**.
+
+📘 Grammar Rule:
+👉 Use “had + past participle” to indicate the earlier of two past actions.
+
+---
+
+Would you like me to continue with the next batch (78–82)?
+
+
+
+
 Perfect! Here's the revised format **without options**, just like you asked — directly showing the **question**, **corrected sentence**, and detailed **grammar explanation** in a clean and readable format suitable for your `README.md`:
 
 ---
