@@ -1,3 +1,79 @@
+Here are **5 hard-level grammar error detection questions** based on **tense and structure**, similar to your examples. Each includes:
+
+* The ❌ **Incorrect Sentence**
+* The ✅ **Correct Sentence**
+* A brief 🔍 **Explanation**
+* 📘 **Grammar Rule**
+
+---
+
+### ✅ Question 81
+
+❌ Incorrect Sentence:
+**By such time you finish that chapter, I will write a letter.**
+
+✅ Correct Sentence:
+**By the time you finish that chapter, I will write a letter.**
+
+🔍 Explanation:
+"By such time" is incorrect. The correct expression is **"By the time"** to indicate a future point before which something will happen.
+
+📘 Grammar Rule:
+Use **"By the time" + present tense** to refer to a deadline in the future when followed by **future tense** in the main clause.
+
+---
+
+### ✅ Question 82
+
+❌ Incorrect Sentence:
+**The tea-estate administration is in such mess there is no leader to set the things right.**
+
+✅ Correct Sentence:
+**The tea-estate administration is in such a mess that there is no leader to set things right.**
+
+🔍 Explanation:
+The phrase **“such mess”** needs an article – it should be **“such a mess”**. Also, to connect cause and result, **“that”** is required.
+
+📘 Grammar Rule:
+Use **"such + a/an + noun + that"** to show cause and effect.
+
+---
+
+### ✅ Question 83
+
+❌ Incorrect Sentence:
+**They examined both the samples very carefully but failed to detect any difference in them.**
+
+✅ Correct Sentence:
+**They examined both the samples very carefully but failed to detect any difference between them.**
+
+🔍 Explanation:
+Use **“between”** when comparing **two** items, not **“in”**.
+
+📘 Grammar Rule:
+Use **“difference between”** for two items, and **“difference among”** for more than two.
+
+---
+
+### ✅ Question 85
+
+❌ Incorrect Sentence:
+**Friends and comrades, the light has gone away from our lives and there is darkness everywhere.**
+
+✅ Correct Sentence:
+**Friends and comrades, the light has gone out of our lives and there is darkness everywhere.**
+
+🔍 Explanation:
+The correct idiom is **“gone out of our lives”**, not “gone away from”.
+
+📘 Grammar Rule:
+**“Go out of”** is an idiomatic expression for **something ending or disappearing**, especially abstract things like "light" or "hope".
+
+---
+
+Let me know if you’d like more questions in this format or a full `README.md` version.
+
+
 Great question! Let's carefully analyze both sentences and the given options to understand **why there is no error** in either of them.
 
 ---
