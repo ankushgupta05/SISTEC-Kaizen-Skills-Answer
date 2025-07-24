@@ -1,3 +1,190 @@
+Great question! Let's carefully analyze both sentences and the given options to understand **why there is no error** in either of them.
+
+---
+
+## ✅ Sentence 1:
+
+**They failed in their attempt to repair the demolished portion of that building.**
+
+📘 **Why it's correct:**
+
+* **"Failed in their attempt to repair"** is the standard, idiomatic English structure.
+
+  * ✅ *fail in an attempt to do something* → CORRECT usage.
+
+Let’s break it down:
+
+* “Failed in” = correct verb-preposition combo.
+* “their attempt to repair” = correct noun + infinitive structure.
+* “the demolished portion of that building” = correct object phrase.
+
+📌 **Grammatically and idiomatically, there is no error.** Hence:
+
+✅ **Answer: No correction required**
+
+---
+
+### ❌ Why the other options are incorrect:
+
+* **for their attempt to repair** → ❌ Incorrect preposition. “Fail **for** an attempt” is not idiomatic.
+* **in their attempting to repair** → ❌ Awkward and less preferred. Gerund ("attempting") is not ideal here.
+* **with their attempt to repair** → ❌ “With” doesn't convey failure properly.
+* **in their attempt for repairs** → ❌ “for repairs” is a noun phrase; doesn’t fit this sentence smoothly.
+
+---
+
+## ✅ Sentence 2:
+
+**I earnestly believe that you will visit our relatives during your forthcoming trip to Mumbai.**
+
+📘 **Why it's correct:**
+
+* “I earnestly believe” = polite, formal expression.
+* “that you will visit our relatives” = grammatically fine.
+* “during your forthcoming trip to Mumbai” = correct time expression.
+
+There is no tense error, modal misuse, or structural flaw here.
+
+✅ **Answer: No correction required**
+
+---
+
+### ❌ Why other options are incorrect:
+
+* **had hardly believe that** → ❌ Wrong tense: “had” doesn't pair with “believe” like that.
+* **sincerely would believe** → ❌ Awkward, ungrammatical.
+* **certainly believing that** → ❌ Verb form mismatch.
+* **could not believe** → ❌ Changes the meaning entirely (implies disbelief).
+
+---
+
+### ✅ Final Summary:
+
+Both sentences are grammatically and idiomatically correct as they stand. That’s why **“No correction required”** is the right answer in both cases.
+
+Let me know if you'd like me to rephrase such sentences or provide similar ones with small traps for practice!
+
+
+Here are **5 hard-level grammar error correction questions** like the ones you asked (with no options), based on **tense, modal verbs, and idiomatic expressions**. Each question includes:
+
+* ❌ Incorrect Sentence
+* ✅ Correct Sentence
+* 🔍 Explanation
+* 📘 Grammar Rule
+* 📜 Hindi Translation & Meaning
+
+---
+
+### ✅ Question 1
+
+❌ Incorrect Sentence:
+He **would have helped** you if you **will ask** him politely.
+
+✅ Correct Sentence:
+He **would have helped** you if you **had asked** him politely.
+
+🔍 Explanation:
+This is a **third conditional** sentence (imaginary past). It requires the **past perfect** in the "if" clause (had asked), not future.
+
+📘 Grammar Rule:
+
+> In third conditional sentences:
+> **If + past perfect**, **would have + past participle**
+
+📜 Hindi:
+वह आपकी मदद कर देता अगर आपने उससे विनम्रता से पूछा होता।
+
+**would have helped** = मदद कर देता
+**had asked** = पूछा होता
+
+---
+
+### ✅ Question 2
+
+❌ Incorrect Sentence:
+If I **was knowing** about the deadline, I **would submitted** the form.
+
+✅ Correct Sentence:
+If I **had known** about the deadline, I **would have submitted** the form.
+
+🔍 Explanation:
+“Was knowing” is incorrect because “know” is a **stative verb**. Also, for hypothetical past, we use **had + past participle** and **would have + V3**.
+
+📘 Grammar Rule:
+
+> Stative verbs like “know, believe, want” are not used in continuous form.
+> Use third conditional structure for unreal past.
+
+📜 Hindi:
+अगर मुझे अंतिम तारीख के बारे में पता होता, तो मैं फॉर्म जमा कर देता।
+
+---
+
+### ✅ Question 3
+
+❌ Incorrect Sentence:
+He said that he **has finished** the work before the deadline.
+
+✅ Correct Sentence:
+He said that he **had finished** the work before the deadline.
+
+🔍 Explanation:
+Reported speech requires **backshifting** of tenses. “has finished” becomes “had finished”.
+
+📘 Grammar Rule:
+
+> In reported speech, **present perfect** changes to **past perfect**.
+> Example: He said, "I have finished." → He said that he had finished.
+
+📜 Hindi:
+उसने कहा कि उसने समय सीमा से पहले काम खत्म कर लिया था।
+
+---
+
+### ✅ Question 4
+
+❌ Incorrect Sentence:
+She insisted that he **goes** with her to the police station.
+
+✅ Correct Sentence:
+She insisted that he **go** with her to the police station.
+
+🔍 Explanation:
+“Insist that” clauses take the **subjunctive form** (bare verb, without “s”) in formal English.
+
+📘 Grammar Rule:
+
+> After verbs like **insist, demand, suggest**, use the **bare infinitive** in noun clauses.
+> Example: She insisted that he **go**, not **goes**.
+
+📜 Hindi:
+उसने ज़ोर देकर कहा कि वह उसके साथ पुलिस स्टेशन चले।
+
+---
+
+### ✅ Question 5
+
+❌ Incorrect Sentence:
+I wish I **know** how to swim.
+
+✅ Correct Sentence:
+I wish I **knew** how to swim.
+
+🔍 Explanation:
+“I wish” + unreal present uses the **simple past** to express **present unreal situations**.
+
+📘 Grammar Rule:
+
+> Use **simple past** after “I wish” to talk about unreal or imaginary present.
+
+📜 Hindi:
+काश मुझे तैरना आता।
+
+---
+
+Would you like **5 more** like these? I can also make a Markdown table or README-style file if needed.
+
+
 Here’s the next batch of **hard-level tense-based grammar error correction questions (Questions 78–82)** with detailed explanations and rules:
 
 ---
