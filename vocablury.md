@@ -1,3 +1,85 @@
+बिलकुल अंकुश! नीचे दिए गए तालिका में प्रत्येक **English Word**, उसका **Hindi Translation (हिंदी शब्द)** और फिर उसका **Meaning in English** तथा **Meaning in Hindi (हिंदी में अर्थ)** दिया गया है — ताकि पूरा संदर्भ साफ हो जाए।
+
+---
+
+| **English Word** | **Hindi Word (अनुवाद)** | **Meaning (English)**                     | **अर्थ (हिंदी में)**                       |
+| ---------------- | ----------------------- | ----------------------------------------- | ------------------------------------------ |
+| appreciate       | सराहना                  | To value or praise something              | किसी चीज़ की कदर या प्रशंसा करना           |
+| intended to      | का इरादा होना           | Planned or meant to do something          | कुछ करने की योजना बनाना                    |
+| escaped          | भाग गया                 | Got free or ran away                      | कैद या खतरे से निकल जाना                   |
+| calf             | बछड़ा                   | Young one of a cow                        | गाय का बच्चा                               |
+| curd             | दही                     | Thickened, soured milk                    | खट्टा हुआ जमाया हुआ दूध                    |
+| leather          | चमड़ा                   | Material from animal skin                 | जानवर की खाल से बना मजबूत पदार्थ           |
+| piglet           | सूअर का बच्चा           | Baby pig                                  | सूअर का छोटा बच्चा                         |
+| shed             | झोंपड़ी / शेड           | Small shelter or structure                | अस्थायी छोटी सी जगह                        |
+| prison           | जेल                     | Place to keep criminals                   | जहाँ अपराधियों को बंद किया जाता है         |
+| pigsty           | सूअर का बाड़ा            | Dirty place / House of pigs               | बहुत गंदा स्थान / सूअरों का घर             |
+| toes             | पैर की उंगलियाँ         | Digits of the foot                        | पैरों की उंगलियाँ                          |
+| palm             | हथेली                   | Inner part of the hand                    | हाथ का अंदरूनी भाग                         |
+| nails            | नाखून                   | Hard parts at the tips of fingers or toes | हाथ-पैर की उंगलियों के सिरे पर कठोर हिस्सा |
+| prisoner         | कैदी                    | A person kept in prison                   | जेल में बंद व्यक्ति                        |
+| landlord         | मकान मालिक              | Owner of rented property                  | जो मकान किराए पर देता है                   |
+| ornithologist    | पक्षी वैज्ञानिक         | A scientist who studies birds             | जो पक्षियों का अध्ययन करता है              |
+| archaeologists   | पुरातत्ववेत्ता          | One who studies ancient artifacts         | प्राचीन वस्तुओं का अध्ययन करने वाला        |
+| archaeology      | पुरातत्व विज्ञान        | Study of old cultures through remains     | प्राचीन सभ्यता का अध्ययन                   |
+| paw              | पंजा                    | Foot of an animal with claws              | जानवर का पंजा                              |
+| lamb             | मेमना                   | Baby sheep                                | भेड़ का बच्चा                              |
+| stagnant         | स्थिर / रुका हुआ        | Not moving                                | जो बह न रहा हो                             |
+| stagnant water   | ठहरा हुआ पानी           | Non-flowing water                         | जो बहता न हो                               |
+| chisel           | छेनी                    | Tool for carving or cutting               | काटने या तराशने का औजार                    |
+| myopia           | निकट दृष्टि दोष         | Short-sightedness                         | पास की चीज़ें दिखाई देती हैं, दूर की नहीं  |
+| pyorrhoea        | पायोरिया                | Gum disease                               | मसूड़ों की बीमारी                          |
+| eczema           | एक्जिमा                 | Skin inflammation with redness or itching | त्वचा की खुजली और लालपन वाली बीमारी        |
+| conference       | सम्मेलन                 | A formal meeting                          | औपचारिक बैठक                               |
+| chairman         | अध्यक्ष                 | Person leading a meeting                  | बैठक का नेतृत्व करने वाला व्यक्ति          |
+| safe             | तिजोरी / सुरक्षित       | Secure box or protected                   | चोरी से सुरक्षित स्थान या वस्तु            |
+| elongate         | लंबा करना               | To make longer                            | लंबा करना                                  |
+| examine          | जांच करना               | To inspect or test                        | परीक्षण या निरीक्षण करना                   |
+| melt             | पिघलना                  | Change from solid to liquid               | ठोस से तरल में बदलना                       |
+| liquid           | तरल                     | A fluid state of matter                   | बहने वाला पदार्थ                           |
+| freezing         | जमना                    | Change from liquid to solid               | तरल से ठोस में बदलना                       |
+| solid            | ठोस                     | Firm and stable form                      | जिसका आकार स्थिर हो                        |
+| condense         | संघनित होना             | Gas turning into liquid                   | भाप का तरल में बदलना                       |
+| eventually       | अंततः                   | In the end                                | आखिरकार                                    |
+| dying            | मरना / मरणासन्न         | Near death                                | मृत्यु के निकट होना                        |
+| humorous         | मजेदार                  | Funny or amusing                          | हास्यपूर्ण                                 |
+| safeguarding     | सुरक्षा करना            | To protect something                      | किसी चीज़ की रक्षा करना                    |
+| allegations      | आरोप                    | Accusations without proof                 | बिना सबूत के आरोप                          |
+| prosecution      | अभियोजन                 | Legal action                              | कानूनी कार्यवाही                           |
+| tolerance        | सहनशीलता                | Willingness to accept others              | सहन करने की क्षमता                         |
+| humiliated       | अपमानित                 | Made to feel ashamed                      | शर्मिंदा करना                              |
+| pupils           | छात्र / पुतली           | Students / Part of the eye                | विद्यार्थी / आँख का हिस्सा                 |
+| coincide         | मेल खाना                | Happen at the same time                   | एक ही समय पर होना                          |
+| vice versa       | इसके विपरीत             | The other way around                      | उल्टा भी वही लागू होता                     |
+| facilitated      | आसान बनाया              | Made easier                               | सरल बनाना                                  |
+| acquisition      | अधिग्रहण                | Gaining or obtaining                      | प्राप्त करना                               |
+| ever             | कभी                     | At any time                               | किसी भी समय                                |
+| feed             | खाना खिलाना             | To give food                              | भोजन देना                                  |
+| agonise          | पीड़ा सहना              | Suffer mentally or physically             | मानसिक या शारीरिक कष्ट सहना                |
+| trivial          | तुच्छ                   | Unimportant                               | महत्वहीन                                   |
+| deferred         | टाल दिया                | Postponed                                 | बाद के लिए टालना                           |
+| criticism        | आलोचना                  | Negative judgment                         | दोष निकालना                                |
+| repute           | प्रतिष्ठा               | Reputation                                | समाज में अच्छी पहचान                       |
+| quite            | पूरी तरह से             | Completely                                | बिल्कुल / पर्याप्त रूप से                  |
+| whistle          | सीटी                    | High-pitched sound                        | तेज़ आवाज निकालने वाली वस्तु               |
+| blows            | झोंके / प्रहार          | Hits or strikes                           | चोट / हवा के झोंके                         |
+| refused          | मना कर दिया             | Said no                                   | इनकार कर देना                              |
+| phenomena        | घटनाएं                  | Observable events                         | घटनाएं जो देखी या महसूस की जा सकती हैं     |
+| guts             | हिम्मत / साहस           | Courage                                   | बहादुरी                                    |
+| occasion         | अवसर                    | Special event or moment                   | खास मौका                                   |
+| overseas         | विदेश                   | Abroad                                    | दूसरे देश                                  |
+| stood up         | खड़ा हुआ / छोड़ दिया    | Got up / Also means ditched               | खड़ा हुआ / मिलने नहीं आया (informal)       |
+| acquaint         | परिचित कराना            | To make familiar                          | जान-पहचान कराना                            |
+| confess          | स्वीकार करना            | To admit                                  | स्वीकार करना, कबूल करना                    |
+| temper           | गुस्सा / स्वभाव         | Mood or anger                             | क्रोध या स्वभाव                            |
+| debts            | कर्ज                    | Money owed                                | उधार या कर्ज                               |
+| worse            | और बुरा                 | More bad                                  | पहले से भी अधिक खराब                       |
+| injury           | चोट                     | Physical harm                             | शारीरिक नुकसान                             |
+
+---
+
+अगर आप चाहें, तो मैं इसे PDF या Excel फ़ाइल में भी एक्सपोर्ट कर सकता हूँ। बताइए क्या चाहिए?
+
 
 Here is the Hindi meaning (अर्थ) and Hindi translation (हिंदी शब्द) for each word in your list:
 
