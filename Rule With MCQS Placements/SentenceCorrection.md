@@ -1,3 +1,256 @@
+
+Here are the answers and explanations for Questions 96–98 in the same format:
+
+---
+
+### ✅ Question 96
+
+❌ **Incorrect Sentence:**
+I have got some tea, but I do not have **a sugar**.
+
+✅ **Correct Sentence:**
+I have got some tea, but I do not have **any sugar**.
+
+🔍 **Explanation:**
+The word **"sugar"** is an **uncountable noun**, so we do **not** use **"a"** before it. Instead, we use **"any"** in negative sentences.
+
+📘 **Grammar Rule:**
+For **uncountable nouns**, use **"some"** in affirmative and **"any"** in negative or interrogative sentences. Avoid using **"a/an"** with uncountables.
+
+---
+
+### ✅ Question 97
+
+❌ **Incorrect Sentence:**
+Had I realised how close I was to the edge of the valley, I would not have carried the bags there.
+
+✅ **Correct Sentence:**
+✅ **No correction required**
+
+🔍 **Explanation:**
+The sentence uses **correct conditional structure**:
+
+* **"Had I realised"** (inverted form of third conditional)
+* **"I would not have carried"** is correct for unreal past condition.
+
+📘 **Grammar Rule:**
+In **third conditionals**, we use:
+**Had + past participle**, and **would have + past participle**.
+
+---
+
+### ✅ Question 98
+
+❌ **Incorrect Sentence:**
+Most of the Indian workers are as healthy as, if not healthier than, British workers.
+
+✅ **Correct Sentence:**
+Most of the Indian workers are **as healthy, if not healthier, than** British workers.
+
+🔍 **Explanation:**
+This sentence omits a phrase and needs punctuation. The full comparative clause should be:
+**"as healthy as British workers"**, but when "as" is dropped after comparison, the sentence still requires clarity with commas.
+
+📘 **Grammar Rule:**
+In comparative structures with **"if not"**, the second comparison (healthier) adds emphasis.
+Use proper **commas** when a clause is omitted for brevity.
+
+---
+
+Let me know if you'd like the next batch (99–105) in the same format.
+
+
+
+Here are the answers with explanations and grammar rules for questions 91–95, **without changing your original question words**:
+
+---
+
+### ✅ Question 91
+
+❌ **Incorrect Sentence:**
+The world has seen small real attempt at population and resource planning.
+
+✅ **Correct Sentence:**
+The world has seen **little real attempt** at population and resource planning.
+
+🔍 **Explanation:**
+The word "attempt" is **uncountable** here, so we use "little" (not "few" or "small") to show a small quantity of something uncountable.
+
+📘 **Grammar Rule:**
+
+* Use **"little"** with uncountable nouns (e.g., effort, water, time).
+* Use **"few"** with countable nouns (e.g., books, people, attempts).
+
+---
+
+### ✅ Question 92
+
+❌ **Incorrect Sentence:**
+My hair stood off ends when I saw the horrible sight.
+
+✅ **Correct Sentence:**
+My hair **stood on ends** when I saw the horrible sight.
+
+🔍 **Explanation:**
+The correct idiom is "**hair stood on end**," which means someone was **terrified or horrified**.
+
+📘 **Grammar Rule:**
+
+* **Idioms** must be used in their fixed form. “Stood on end” is the proper idiom.
+
+---
+
+### ✅ Question 93
+
+❌ **Incorrect Sentence:**
+The long or short of it is that I do not want to deal with that new firm.
+
+✅ **Correct Sentence:**
+The **long and short of it** is that I do not want to deal with that new firm.
+
+🔍 **Explanation:**
+The idiom “**the long and short of it**” means “the summary” or “in short.” "Or" is incorrect here.
+
+📘 **Grammar Rule:**
+
+* **Fixed idiomatic expressions** must not be altered. “The long and short of it” is the correct idiom.
+
+---
+
+### ✅ Question 94
+
+❌ **Incorrect Sentence:**
+Can you tell me why did you not speak the truth?
+
+✅ **Correct Sentence:**
+Can you tell me **why you did not speak** the truth?
+
+🔍 **Explanation:**
+In **indirect questions**, the sentence structure follows the **statement form**: subject + verb (not question format).
+
+📘 **Grammar Rule:**
+
+* Indirect questions don’t use subject-auxiliary inversion.
+  ✅ Correct: "Can you tell me **what he said**?"
+  ❌ Incorrect: "Can you tell me **what did he say**?"
+
+---
+
+### ✅ Question 95
+
+❌ **Incorrect Sentence:**
+The people generally try to curry favour with the corrupt but influential person.
+
+✅ **Correct Sentence:**
+✅ **No correction required**
+
+🔍 **Explanation:**
+The idiom "**curry favour**" means **to try to gain advantage by flattery or sycophancy** — it is correctly used here.
+
+📘 **Grammar Rule:**
+
+* **"Curry favour"** is a correct idiomatic expression. It doesn't mean cooking; it's metaphorical.
+
+---
+
+Would you like me to continue with more in the same format?
+
+
+Here are your questions (86–90) rewritten **exactly as provided** with corrected answers, explanations, and grammar rules. No words were changed from your original questions.
+
+---
+
+### ✅ Question 86
+
+❌ Incorrect Sentence:
+He should not had done it.
+
+✅ Correct Sentence:
+He should not have done it.
+
+🔍 Explanation:
+The verb "should" is a **modal auxiliary**, and it must be followed by the **base form** of the verb **"have"** (not "had").
+
+📘 Grammar Rule:
+**Modal + have + past participle** is used to express a past obligation or speculation.
+
+---
+
+### ✅ Question 87
+
+❌ Incorrect Sentence:
+No sooner do the bells ring than the curtain rose.
+
+✅ Correct Sentence:
+No sooner **did the bells ring** than the curtain rose.
+
+🔍 Explanation:
+When a sentence begins with "No sooner," it follows **inversion** (auxiliary verb before subject). Since the second action is in past tense ("rose"), the first should also be in past: "did."
+
+📘 Grammar Rule:
+**No sooner + did + subject + verb** … **than + simple past**.
+
+---
+
+### ✅ Question 88
+
+❌ Incorrect Sentence:
+The moment the manager came to know fraudulent action of his assistant, he order immediately dismissed him.
+
+✅ Correct Sentence:
+The moment the manager came to know **fraudulent action of his assistant**, he **ordered his immediate dismissal**.
+
+🔍 Explanation:
+
+1. The past tense verb should be "ordered," not "order."
+2. "Dismissed him" is better expressed as "his immediate dismissal" for conciseness and formality.
+
+📘 Grammar Rule:
+Maintain proper **tense agreement** and **noun form**: action → dismissal.
+
+---
+
+### ✅ Question 89
+
+❌ Incorrect Sentence:
+The meeting was attended to by all invitees.
+
+✅ Correct Sentence:
+The meeting was **attended by all invitees**.
+
+🔍 Explanation:
+"Attend" is a **transitive verb**, so "to" is not used. "Attend to" means **to take care of**, not just being present at.
+
+📘 Grammar Rule:
+Do not use "to" with **transitive verbs** like "attend" when the meaning is simply "to be present at."
+
+---
+
+### ✅ Question 90
+
+❌ Incorrect Sentence:
+If he has to spend five hours in the queue, it was really a wastage.
+
+✅ Correct Sentence:
+If he **has to spend** five hours in the queue, it **is really a wastage**.
+
+🔍 Explanation:
+The first clause is in present tense ("has to spend"), so the second clause should also use present tense ("is").
+Also, "a wastage" is incorrect usage — we usually say "a waste."
+
+✅ Better Correct Sentence:
+If he has to spend five hours in the queue, it is really **a waste**.
+
+📘 Grammar Rule:
+Maintain **tense consistency**, and prefer **“waste”** (countable/uncountable noun) over “wastage” unless used in industrial context.
+
+---
+
+Let me know if you'd like questions 91–100 in the same style!
+
+
+
+
 Here are **5 hard-level grammar error detection questions** based on **tense and structure**, similar to your examples. Each includes:
 
 * The ❌ **Incorrect Sentence**
