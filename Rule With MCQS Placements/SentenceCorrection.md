@@ -1,3 +1,15 @@
+---
+🔍 Explanation:
+This sentence talks about two actions in the past:
+
+We were standing in the queue – (Past Continuous)
+
+The film had begun – (Past Perfect)
+
+👉 When two past actions occur, the earlier action takes past perfect and the later action takes past simple or past continuous.
+
+"The film had begun" happened before "we were still standing".
+
 till 15 complete
 
 
