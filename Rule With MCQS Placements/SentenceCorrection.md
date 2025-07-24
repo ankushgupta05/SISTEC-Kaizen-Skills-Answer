@@ -1,4 +1,264 @@
-till 15 complete
+Perfect! Here's the revised format **without options**, just like you asked — directly showing the **question**, **corrected sentence**, and detailed **grammar explanation** in a clean and readable format suitable for your `README.md`:
+
+---
+
+## ✅ Question 71
+
+**❓ Sentence:**
+*We were still standing in the queue when the film was beginning.*
+
+**✅ Corrected Sentence:**
+*We were still standing in the queue when the film had begun.*
+
+**🔍 Explanation:**
+This sentence describes two actions in the past.
+
+* **"The film had begun"** is the **earlier** action → use **past perfect**.
+* **"We were still standing"** is the **later** action → use **past continuous**.
+
+📘 **Rule:** When two past events occur, the **earlier action** uses **past perfect**, and the later action uses **past simple/past continuous**.
+
+---
+
+## ✅ Question 72
+
+**❓ Sentence:**
+*If I would have realised the nature of job earlier, I would not have accepted it.*
+
+**✅ Corrected Sentence:**
+*Had I realised the nature of the job earlier, I would not have accepted it.*
+
+**🔍 Explanation:**
+This is an example of the **third conditional** (imaginary past).
+
+* The correct form is: **If + past perfect**, **would have + past participle**
+* In formal English, we can invert "If I had" to **"Had I"**
+
+📘 **Rule:** Never use “If I would have…” in conditionals. Use **past perfect** instead.
+
+---
+
+## ✅ Question 73
+
+**❓ Sentence:**
+*Each of the boys have done their homework.*
+
+**✅ Corrected Sentence:**
+*Each of the boys has done his homework.*
+
+**🔍 Explanation:**
+
+* "Each" is singular → verb must be singular (**has**).
+* Pronoun must match in number → use **his**, not **their**.
+
+📘 **Rule:** "Each of" is always followed by a **singular verb** and **singular pronoun**.
+
+---
+
+## ✅ Question 74
+
+**❓ Sentence:**
+*She did not write the letter, nor she called him.*
+
+**✅ Corrected Sentence:**
+*She did not write the letter, nor did she call him.*
+
+**🔍 Explanation:**
+
+* After **nor**, the sentence must use **inversion** (did + subject + verb).
+* It matches the auxiliary verb structure of the first clause.
+
+📘 **Rule:** After **nor** (or neither), use **inverted auxiliary verb structure** for parallelism.
+
+---
+
+Here are **10 hard-level grammar error correction questions** based **only on tense-based errors** (like the one in Question 72). These are common in **campus placements**, and each one follows your desired format:
+
+---
+
+### ✅ Question 73
+
+❌ Incorrect Sentence:
+If he would have left earlier, he could have caught the train.
+
+✅ Correct Sentence:
+If he had left earlier, he could have caught the train.
+
+🔍 Explanation:
+This is a third conditional sentence. We must use **past perfect** after "if".
+
+📘 Rule: In conditional sentences, use **"had + past participle"** instead of “would have” after "if".
+
+---
+
+### ✅ Question 74
+
+❌ Incorrect Sentence:
+She will reply to your email after she will return from the meeting.
+
+✅ Correct Sentence:
+She will reply to your email after she returns from the meeting.
+
+🔍 Explanation:
+Even though it refers to the future, **present tense** is used after time conjunctions like “after”.
+
+📘 Rule: Do **not use future tense** after time words like **after, before, when, as soon as**.
+
+---
+
+### ✅ Question 75
+
+❌ Incorrect Sentence:
+By next month, he completes five years in this company.
+
+✅ Correct Sentence:
+By next month, he will have completed five years in this company.
+
+🔍 Explanation:
+We use **future perfect** to indicate something that will be completed at a certain time in the future.
+
+📘 Rule: Use **"will have + past participle"** for future perfect actions.
+
+---
+
+### ✅ Question 76
+
+❌ Incorrect Sentence:
+I am knowing the answer but I am not telling you.
+
+✅ Correct Sentence:
+I know the answer but I am not telling you.
+
+🔍 Explanation:
+“Know” is a **stative verb** and is not used in continuous form.
+
+📘 Rule: Stative verbs like **know, believe, own, like, love, hate** do not take **-ing** form.
+
+---
+
+### ✅ Question 77
+
+❌ Incorrect Sentence:
+He is working in this firm since 2015.
+
+✅ Correct Sentence:
+He has been working in this firm since 2015.
+
+🔍 Explanation:
+For actions that started in the past and continue into the present, use **present perfect continuous**.
+
+📘 Rule: Use **"has/have been + verb-ing"** with **since/for** when the action is still continuing.
+
+---
+
+### ✅ Question 78
+
+❌ Incorrect Sentence:
+She was living in Mumbai when she was meeting him.
+
+✅ Correct Sentence:
+She was living in Mumbai when she met him.
+
+🔍 Explanation:
+“Was meeting” is incorrect because the meeting was a one-time completed action in the past.
+
+📘 Rule: Use **simple past** for completed actions and **past continuous** for ongoing actions in the past.
+
+---
+
+### ✅ Question 79
+
+❌ Incorrect Sentence:
+They were gone to the market when I arrived.
+
+✅ Correct Sentence:
+They had gone to the market when I arrived.
+
+🔍 Explanation:
+Since “they went” happened **before** “I arrived,” we use **past perfect**.
+
+📘 Rule: Use **past perfect (had + past participle)** to show the earlier of two past actions.
+
+---
+
+### ✅ Question 80
+
+❌ Incorrect Sentence:
+He told me that he has finished his homework.
+
+✅ Correct Sentence:
+He told me that he had finished his homework.
+
+🔍 Explanation:
+When the main verb is in past tense, the dependent clause must follow **backshifting**.
+
+📘 Rule: In reported speech, shift **present perfect → past perfect** when the reporting verb is in the past.
+
+---
+
+### ✅ Question 81
+
+❌ Incorrect Sentence:
+I did not knew he was your brother.
+
+✅ Correct Sentence:
+I did not know he was your brother.
+
+🔍 Explanation:
+The auxiliary “did” already indicates past tense, so the main verb must be in **base form**.
+
+📘 Rule: After **did**, always use the **base form** of the main verb.
+
+---
+
+### ✅ Question 82
+
+❌ Incorrect Sentence:
+She has visited Paris last year.
+
+✅ Correct Sentence:
+She visited Paris last year.
+
+🔍 Explanation:
+Time phrases like “last year” require **simple past**, not present perfect.
+
+📘 Rule: Do **not use present perfect** with **past time expressions** (yesterday, last week, etc.).
+
+---
+
+Would you like the next 10 (Questions 83–92) in the same format?
+
+
+
+## ✅ Question 75
+
+**❓ Sentence:**
+*One of my friend are going abroad.*
+
+**✅ Corrected Sentence:**
+*One of my friends is going abroad.*
+
+**🔍 Explanation:**
+
+* "One of" is followed by plural (**friends**)
+* But "one" is singular → verb must be singular (**is**)
+
+📘 **Rule:** Use **plural noun** after “one of”, but a **singular verb**.
+
+---
+
+Would you like me to continue with more like:
+
+* **Tense errors**
+* **Subject-verb agreement**
+* **Pronoun usage**
+* **Modifiers**
+* **Articles & determiners**
+
+I can create 50–100 of these in clean markdown for your study or repo. Let me know how many you’d like next!
+
+
+
 The correct option is: **film had begun**
 
 ---
