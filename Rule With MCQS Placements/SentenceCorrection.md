@@ -1,16 +1,29 @@
----
-🔍 Explanation:
-This sentence talks about two actions in the past:
-
-We were standing in the queue – (Past Continuous)
-
-The film had begun – (Past Perfect)
-
-👉 When two past actions occur, the earlier action takes past perfect and the later action takes past simple or past continuous.
-
-"The film had begun" happened before "we were still standing".
-
 till 15 complete
+The correct option is: **film had begun**
+
+---
+
+### ✅ Correct Sentence:
+
+**We were still standing in the queue when the film had begun.**
+
+---
+
+### 🔍 Explanation:
+
+This sentence talks about two actions in the **past**:
+
+1. **We were standing in the queue** – (Past Continuous)
+2. **The film had begun** – (Past Perfect)
+
+👉 When two past actions occur, the **earlier** action takes **past perfect** and the **later** action takes **past simple or past continuous**.
+
+* "The film had begun" happened **before** "we were still standing".
+
+---
+
+
+
 
 
 Sure! Let’s discuss these one by one **in easy words**, explain the corrections, and also provide **5 extra practice questions for each category** to help you prepare for campus placements.
