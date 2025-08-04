@@ -29,3 +29,20 @@ That’s all about me. Thank you for your time!
 
 Let me know if you'd like a shorter version or one tailored to a specific job role (e.g., frontend, backend, data science).
 
+
+
+
+
+
+
+
+
+```
+
+// tell me your family background
+
+There are six members in my family, including my father and mother. We are four siblings — two elder brothers, one elder sister, and I am the youngest. My father is a contractor, and my mother is an ideal homemaker. My elder brothers are doing private jobs, and my sister is studying."
+
+
+
+```
