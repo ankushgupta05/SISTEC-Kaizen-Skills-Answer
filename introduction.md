@@ -26,14 +26,11 @@ That’s all about me. Thank you for your time!
 
 
 ---
+## what did see after 5 year
 
-Let me know if you'd like a shorter version or one tailored to a specific job role (e.g., frontend, backend, data science).
+"In five years, I see myself as a successful professional, working as a Full Stack Developer or AI Engineer. I want to lead projects, help my team, and keep learning. I also want to grow with the company and do good work."
 
-
-
-
-
-
+Let me know if you'd like it adjusted further!
 
 
 
