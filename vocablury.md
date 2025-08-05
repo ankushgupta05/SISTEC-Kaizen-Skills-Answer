@@ -1,3 +1,71 @@
+
+Great! Here's a list of daily life & campus-use phrasal verbs and common expressions like "line up" that you can use to sound more fluent and natural in English—even if you're not confident with tenses yet.
+
+
+---
+
+✅ Common Phrasal Verbs for Daily Life & Campus Use
+
+Phrasal Verb	Meaning (Hindi)	Example (Use in Sentence)
+
+line up	कतार में लगना	We need to line up for the interview.
+show up	आ जाना (पहुंच जाना)	He didn’t show up for class today.
+figure out	पता लगाना / समझना	I need to figure out this problem.
+bring up	बात उठाना	He brought up a good point in the meeting.
+carry on	जारी रखना	Let's carry on with the presentation.
+give up	हार मान लेना	Don’t give up, keep trying!
+look after	ध्यान रखना	I look after my younger brother.
+pick up	लेना या सुधारना (skills भी)	I will pick up some snacks. / I want to pick up good English.
+call off	रद्द करना	The meeting was called off.
+turn on/off	चालू/बंद करना	Please turn off the fan.
+run out of	खत्म हो जाना	We ran out of petrol.
+set up	तैयार करना / शुरू करना	We set up the project last night.
+come across	संयोग से मिलना / दिखना	I came across a good website for practice.
+get along	मेल-जोल होना / अच्छे से निभाना	I get along with my team.
+go through	अनुभव करना / पढ़ना / गुज़रना	I went through a tough time.
+work out	हल निकालना / वर्कआउट करना	We need to work out a solution.
+fill out	भरना (form वगैरह)	Please fill out this application.
+
+
+
+---
+
+📌 Why These Help in Campus and Interviews?
+
+Simple sentence structure.
+
+Tense mastery is not required initially.
+
+Sounds natural and confident.
+
+Useful in group discussions, casual talks, and interviews.
+
+
+
+---
+
+🔜 Want More?
+
+Let me know if you want:
+
+Phrasal verbs related to job interviews
+
+Phrasal verbs used in tech/company culture
+
+Daily life phrases for mess, hostel, train, friends, etc.
+
+
+Would you like a PDF of this too?
+
+
+
+
+
+
+
+
+
+
 Here's a table with the **English word**, its **Hindi translation**, **English meaning**, and **Hindi explanation**:
 
 ---
