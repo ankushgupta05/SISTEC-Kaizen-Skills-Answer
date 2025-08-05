@@ -1,3 +1,38 @@
+
+
+Sure! Here's a natural and professional interviewer question that fits your answer:
+
+
+---
+
+❓ Interviewer might ask:
+
+> “Why haven’t you hosted the website yet?”
+or
+“Is there a reason the project is not deployed online?”
+or
+“Why is the website running locally and not hosted on a server?”
+
+
+
+
+---
+
+All of these are common ways an interviewer might ask that question.
+
+Your answer:
+
+> “Sir, we planned to host the website, but hosting needs some cost for domain and server. Since we were working with a low amount of budget, we decided to keep it on the local system for now. We’ll definitely host it in the future when possible.”
+
+
+
+Let me know if you want to prepare follow-up answers too (like if they ask about GitHub, deployment tools, etc.).
+
+
+
+
+
+
 ```
 Yes, I recently worked on Interview Sathi, an AI-powered interview preparation platform.
 It allows users to select their interview domain, upload their resume, and take a mock interview. Afterward, the system provides detailed feedback and improvement suggestions. The goal is to help candidates build confidence and perform better in real interviews."
