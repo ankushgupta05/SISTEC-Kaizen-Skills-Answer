@@ -1,3 +1,102 @@
+Alright — I’ll prepare your list in a **clear table format** with **English meaning** and **Hindi meaning** for each word or phrase.
+I’ll also group them so it’s easier to read.
+
+---
+
+## 📘 Vocabulary List with Meanings (English & Hindi)
+
+| Word / Phrase                                 | English Meaning                                 | Hindi Meaning                   |
+| --------------------------------------------- | ----------------------------------------------- | ------------------------------- |
+| **RESCUE**                                    | To save someone from danger or distress         | बचाना, छुड़ाना                  |
+| **Command**                                   | An order given with authority                   | आदेश, हुक्म                     |
+| **Help**                                      | To give assistance or support                   | मदद करना                        |
+| **Defence**                                   | Protection from harm or attack                  | रक्षा                           |
+| **Safety**                                    | Condition of being protected from danger        | सुरक्षा                         |
+| **AWAKENED**                                  | Became aware; roused from sleep                 | जागना, सचेत होना                |
+| **Enlightened**                               | Having knowledge and understanding              | प्रबुद्ध                        |
+| **Realised**                                  | Understood clearly                              | समझना, एहसास होना               |
+| **Shook**                                     | Moved or disturbed emotionally/physically       | हिलाना, झटका देना               |
+| **Waken**                                     | To stop sleeping                                | जगाना                           |
+| **INSOLVENT**                                 | Unable to pay debts; bankrupt                   | दिवालिया                        |
+| **Poor**                                      | Lacking money or resources                      | गरीब                            |
+| **Bankrupt**                                  | Legally declared unable to pay debts            | दिवालिया                        |
+| **Penniless**                                 | Having no money                                 | कंगाल                           |
+| **Broke**                                     | Having no money                                 | खाली जेब, निर्धन                |
+| **RECKLESS**                                  | Without thinking about danger; rash             | लापरवाह, दुस्साहसी              |
+| **Courageous**                                | Brave, not afraid                               | साहसी                           |
+| **Rash**                                      | Acting without thinking of consequences         | जल्दबाज                         |
+| **Bold**                                      | Showing confidence and courage                  | निडर                            |
+| **Daring**                                    | Willing to take risks                           | साहसी, दुस्साहसी                |
+| **LEND**                                      | To give something for temporary use             | उधार देना                       |
+| **Borrow**                                    | To take something for temporary use             | उधार लेना                       |
+| **Cheat**                                     | To act dishonestly                              | धोखा देना                       |
+| **Pawn**                                      | To give as security for a loan                  | गिरवी रखना                      |
+| **Hire**                                      | To pay for temporary use                        | किराए पर लेना                   |
+| **FRUGAL**                                    | Careful with money; not wasteful                | मितव्ययी                        |
+| **Copious**                                   | Abundant, large in quantity                     | प्रचुर                          |
+| **Extravagant**                               | Spending too much; wasteful                     | फिजूलखर्च                       |
+| **Generous**                                  | Willing to give more than needed                | उदार                            |
+| **Ostentatious**                              | Showy; intended to impress                      | दिखावटी                         |
+| **EXTRAVAGANCE**                              | Spending more than is necessary                 | अपव्यय, फिजूलखर्ची              |
+| **Luxury**                                    | Great comfort and wealth                        | विलासिता                        |
+| **Poverty**                                   | State of being poor                             | गरीबी                           |
+| **Economical**                                | Avoiding waste; saving money                    | मितव्ययी                        |
+| **Cheapness**                                 | Low cost                                        | सस्ता होना                      |
+| **Sincerity**                                 | Honesty, truthfulness                           | ईमानदारी                        |
+| **Animosity**                                 | Strong hostility                                | शत्रुता                         |
+| **Curiosity**                                 | Desire to know                                  | जिज्ञासा                        |
+| **Prosperity**                                | State of success or wealth                      | समृद्धि                         |
+| **Exodus**                                    | A mass departure of people                      | पलायन                           |
+| **Invasion**                                  | Entry by force into a place                     | आक्रमण                          |
+| **Entry**                                     | Act of going in                                 | प्रवेश                          |
+| **Immigration**                               | Coming to live in a foreign country             | आव्रजन                          |
+| **Expulsion**                                 | Forcing someone to leave                        | निष्कासन                        |
+| **Edges**                                     | Outer limit or boundary                         | किनारा                          |
+| **Fronts**                                    | Foremost position                               | मोर्चा, सामने का भाग            |
+| **Limits**                                    | Boundaries or restrictions                      | सीमा                            |
+| **Banks**                                     | Land along the edge of a river                  | किनारा                          |
+| **Distressed**                                | Suffering, upset                                | परेशान, दुखी                    |
+| **Spate of strikes**                          | A large number of strikes happening together    | हड़तालों की बाढ़                |
+| **Perpetual**                                 | Continuing forever                              | शाश्वत, स्थायी                  |
+| **Incredibly**                                | Extremely, unbelievably                         | अविश्वसनीय रूप से               |
+| **Financial crisis**                          | Severe money problem                            | आर्थिक संकट                     |
+| **Yardstick**                                 | Standard for measurement                        | मापदंड                          |
+| **Hazardous**                                 | Dangerous                                       | खतरनाक                          |
+| **Unsatisfiable**                             | Impossible to satisfy                           | असंतोषजनक                       |
+| **Unchanging**                                | Not changing                                    | अपरिवर्तनीय                     |
+| **Irreconcilable**                            | Unable to be brought into harmony               | असमाधेय                         |
+| **Undesirable**                               | Not wanted                                      | अवांछनीय                        |
+| **Unpardonable**                              | Too bad to be forgiven                          | अक्षम्य                         |
+| **Deplorable**                                | Very bad, deserving strong condemnation         | दयनीय, निंदनीय                  |
+| **Inexcusable**                               | Not able to be justified                        | अक्षम्य                         |
+| **Terrible**                                  | Very bad                                        | भयानक                           |
+| **Lamentable**                                | Very bad or unfortunate                         | दुःखद, दयनीय                    |
+| **FLAGITIOUS**                                | Extremely wicked or criminal                    | अत्यंत दुष्ट                    |
+| **Innocent**                                  | Not guilty                                      | निर्दोष                         |
+| **Vapid**                                     | Lacking liveliness                              | फीका, नीरस                      |
+| **Ignorant**                                  | Lacking knowledge                               | अज्ञानी                         |
+| **Frivolous**                                 | Not serious                                     | हल्का-फुल्का                    |
+| **Grave**                                     | Serious, important                              | गंभीर                           |
+| **Ready**                                     | Prepared                                        | तैयार                           |
+| **Mature**                                    | Fully developed                                 | परिपक्व                         |
+| **Ripe**                                      | Fully developed, ready to eat                   | पका हुआ                         |
+| **Advanced**                                  | At a higher stage                               | उन्नत                           |
+| **Immense pressure exerted by the militants** | A great force or stress applied by armed groups | आतंकवादियों द्वारा अत्यधिक दबाव |
+| **To give offence to them**                   | To insult or anger them                         | उन्हें अपमानित करना             |
+| **To follow them grudgingly**                 | To unwillingly go along with them               | अनिच्छा से उनका पालन करना       |
+| **To treat them indifferently**               | To behave as if they don’t matter               | उनके साथ उदासीन व्यवहार करना    |
+| **To be kicked by them**                      | To be attacked physically                       | उनसे मार खाना                   |
+| **Foe**                                       | Enemy                                           | दुश्मन                          |
+
+---
+
+If you want, I can also make a **MCQ-style question-answer set** for these words with synonyms and antonyms so it’s practice-ready for exams. That way you’ll learn them faster.
+
+
+
+
+
+
 # Save Common Phrasal Verbs in README Markdown format
 
 readme_content = """
