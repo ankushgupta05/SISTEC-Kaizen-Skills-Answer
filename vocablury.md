@@ -1,3 +1,52 @@
+Alright — I’ll make a neat **English + Hindi** vocabulary list for all the words you gave, with short, clear meanings so it’s easy to revise.
+
+---
+
+## **Vocabulary List**
+
+| Word               | English Meaning                                       | Hindi Meaning                   |
+| ------------------ | ----------------------------------------------------- | ------------------------------- |
+| **Foiled**         | Prevented from succeeding; defeated in plans          | विफल किया, रोक दिया             |
+| **Obscure**        | Not clear or hard to understand; hidden               | अस्पष्ट, धुंधला                 |
+| **Imbecility**     | Extreme foolishness or stupidity                      | मूर्खता                         |
+| **Senility**       | Weakness of mind due to old age                       | वृद्धावस्था में मानसिक दुर्बलता |
+| **Dotage**         | Old age period when someone is weak or foolish        | बुढ़ापे की कमजोरी/मूर्खता        |
+| **Superannuation** | Retirement due to age; pension scheme                 | सेवानिवृत्ति, पेंशन योजना       |
+| **Outset**         | Beginning or start                                    | प्रारंभ, शुरुआत                 |
+| **Entrance**       | The act of entering; a way in                         | प्रवेश, द्वार                   |
+| **Stretch**        | Extend or lengthen                                    | खींचना, फैलाना                  |
+| **Throw away**     | Discard; get rid of                                   | फेंक देना                       |
+| **Send off**       | Farewell; to dispatch                                 | विदाई, भेजना                    |
+| **Put off**        | Postpone or delay                                     | टालना, स्थगित करना              |
+| **Lay off**        | Dismiss from job (often temporarily)                  | नौकरी से निकालना                |
+| **Hindrance**      | Obstacle; something that delays or stops              | बाधा                            |
+| **Amenable**       | Willing to be guided or controlled                    | आज्ञाकारी, मानने वाला           |
+| **Wolf**           | Wild carnivorous animal (also used for greedy person) | भेड़िया                         |
+| **Foray**          | Sudden short attack or attempt into enemy area        | अचानक हमला, धावा                |
+| **Maraud**         | Roam in search of things to steal                     | लूटपाट करना                     |
+| **Contest**        | Compete for something; challenge                      | प्रतियोगिता, मुकाबला            |
+| **Ranger**         | Person who patrols or guards an area                  | वनपाल, क्षेत्र रक्षक            |
+| **Intuition**      | Knowledge gained without reasoning; instinct          | सहज ज्ञान                       |
+| **Callous**        | Emotionally insensitive; unfeeling                    | कठोर, निर्मम                    |
+| **Cursed**         | Damned; something with a bad fate                     | शापित                           |
+| **Accompanied**    | Went along with someone                               | साथ दिया, साथ गया               |
+| **Sprightly**      | Lively and energetic                                  | चंचल, फुर्तीला                  |
+| **Hostile**        | Unfriendly; aggressive                                | शत्रुतापूर्ण                    |
+| **Efflorescence**  | Blooming of flowers; reaching peak                    | पुष्पन, विकास                   |
+| **Psychiatrist**   | Doctor who treats mental illnesses                    | मनोचिकित्सक                     |
+| **Ordinary**       | Normal; not special                                   | साधारण                          |
+| **Funeral**        | Ceremony for a dead person                            | अंतिम संस्कार                   |
+| **Enforces**       | Makes sure rules are obeyed                           | लागू करना, पालन कराना           |
+| **Reconciles**     | Restores friendly relations                           | मेल-मिलाप कराना                 |
+| **Imposes**        | Forces something (rule, tax) on others                | थोपना                           |
+
+---
+
+If you want, I can also make **mnemonics (memory tricks)** for these words so you remember them faster during exams.
+Do you want me to prepare that memory trick version?
+
+
+
 Alright — I’ll prepare your list in a **clear table format** with **English meaning** and **Hindi meaning** for each word or phrase.
 I’ll also group them so it’s easier to read.
 
