@@ -44,3 +44,78 @@ The jungle fair ends with happiness and smiles.
 
 If you want, I can now make a side-by-side Hindi-English comparison for each sentence so you can match the tense and words directly for learning. That will help you improve faster. Do you want me to do that next?
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ठीक है, मैं तुम्हें एक और जंगल वाली कहानी देता हूँ जिसमें कई जानवर होंगे, ताकि तुम बाद में इसे इंग्लिश में ट्रांसलेट कर सको।
+
+
+---
+
+कहानी: चालाक खरगोश और प्यासा बाघ
+
+गर्मियों का मौसम था और जंगल में पानी की भारी कमी हो गई थी। एक बड़ा बाघ बहुत प्यासा था और पानी की तलाश में इधर-उधर घूम रहा था। उसने एक छोटे से तालाब में कुछ पानी देखा, लेकिन वहां पहले से ही कई छोटे जानवर पानी पी रहे थे।
+
+बाघ ने गरजकर कहा, "यह पानी सिर्फ मेरा है! सब हट जाओ!"
+जानवर डरकर पीछे हट गए, लेकिन खरगोश वहीं खड़ा रहा। बाघ ने गुस्से में पूछा, "तुम क्यों नहीं भाग रहे?"
+
+खरगोश ने शांत स्वर में कहा, "महाशय, यह पानी आपका नहीं है, यह पूरे जंगल का है। अगर आप चाहें तो मैं आपको एक और बड़ा तालाब दिखा सकता हूँ, जहाँ सिर्फ आपके लिए पानी है।"
+
+बाघ को लालच आ गया और वह खरगोश के पीछे-पीछे चल पड़ा। खरगोश उसे जंगल के बीच एक पुराने कुएँ के पास ले गया। कुएँ में पानी था, और उसमें बाघ का ही प्रतिबिंब दिखाई दे रहा था।
+
+बाघ ने सोचा, "यहाँ एक और बाघ है, जो मेरे पानी पर कब्जा कर रहा है!" वह गुस्से में छलांग लगा बैठा—और सीधे कुएँ में गिर गया।
+
+बाकी जानवरों ने राहत की साँस ली और खरगोश की समझदारी की तारीफ़ की।
+
+
+---
+
+अगर चाहो तो मैं तुम्हें दोनों कहानियों के ट्रांसलेशन के लिए मुख्य शब्द और वाक्य संरचना दे सकता हूँ, ताकि तुम खुद ट्रांसलेट करके सीखो और फिर मैं उसे चेक भी कर दूँ।
+
+
+
+
+
+
+
+
+
+Alright, here’s the English translation of the second story:
+
+
+---
+
+Story: The Clever Rabbit and the Thirsty Tiger
+
+It was summer, and there was a severe shortage of water in the jungle. A big tiger was very thirsty and wandered here and there in search of water. He saw a small pond with some water, but many small animals were already drinking there.
+
+The tiger roared, “This water is mine alone! Everyone, move away!”
+The animals stepped back in fear, but the rabbit stayed where he was.
+The tiger angrily asked, “Why aren’t you running away?”
+
+The rabbit calmly said, “Sir, this water does not belong only to you; it belongs to the whole jungle. If you wish, I can show you a bigger pond where there is water only for you.”
+
+The tiger became greedy and followed the rabbit. The rabbit led him deep into the jungle to an old well. There was water inside, and in it, the tiger’s own reflection appeared.
+
+The tiger thought, “There’s another tiger here trying to take my water!”
+In anger, he jumped—straight into the well.
+
+The other animals breathed a sigh of relief and praised the rabbit’s cleverness.
+
+
+---
+
+If you want, I can now give you both Hindi and English side-by-side so you can compare sentence structures and improve faster. That will make your translation skills much sharper.
+
