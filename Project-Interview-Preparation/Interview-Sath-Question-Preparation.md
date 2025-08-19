@@ -35,7 +35,7 @@ Let me know if you want to prepare follow-up answers too (like if they ask about
 
 ```
 Yes, I recently worked on Interview Sathi, an AI-powered interview preparation platform.
-It allows users to select their interview domain, upload their resume, and take a mock interview. Afterward, the system provides detailed feedback and improvement suggestions. The goal is to help candidates build confidence and perform better in real interviews."
+It allows users to select their interview domain,by upload their resume,by providing describtion about the job role then they can take the mock interview. after the entire session ,the system provides detailed feedback and improvement suggestions. The goal is to help candidates build confidence and perform better in real interviews."
 
 
 
