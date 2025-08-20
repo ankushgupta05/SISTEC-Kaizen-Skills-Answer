@@ -159,3 +159,112 @@ Across the globe	“Across the globe, smart factories are becoming the norm.”
 
 Would you like me to give you a mock GD answer with everything included — as if you were participating right now?
 
+
+
+
+
+
+For Cloud Nexus campus placement GD (Group Discussion), companies usually give current affairs, technology, social, or abstract topics to check your communication, teamwork, and logical thinking.
+Here are some possible GD topics (Cloud / Tech + General mix) you might face:
+
+
+---
+
+🔹 Technology & Cloud Related Topics
+
+1. Is Cloud Computing the future of IT infrastructure?
+
+
+2. AI vs Human Intelligence – Complementary or Competitive?
+
+
+3. Data Privacy in the age of Cloud and AI – A myth or reality?
+
+
+4. Will Web3 and Blockchain replace Cloud Computing?
+
+
+5. Edge Computing vs Cloud Computing – Which is better for the future?
+
+
+6. Impact of Generative AI on jobs: Threat or Opportunity?
+
+
+7. Can India become a global hub for Cloud Technology?
+
+
+8. 5G and Cloud – A game changer for startups.
+
+
+
+
+---
+
+🔹 Social & General Awareness Topics
+
+1. Is India ready for a cashless economy?
+
+
+2. Work from Home vs Work from Office – What is better?
+
+
+3. Social Media – A boon or a bane for youth?
+
+
+4. Is Startup culture in India sustainable?
+
+
+5. Should coding be mandatory for all students?
+
+
+6. Impact of AI on education – Helpful or harmful?
+
+
+7. One Nation, One Election – Good or Bad?
+
+
+8. Green Energy vs Fossil Fuels – Which will drive the future economy?
+
+
+
+
+---
+
+🔹 Abstract Topics (to test creativity)
+
+1. Clouds in the Sky vs Cloud in Technology.
+
+
+2. Black vs White – Which is more powerful?
+
+
+3. Speed vs Accuracy – What matters more?
+
+
+4. Innovation begins with imagination.
+
+
+5. Data is the new oil.
+
+
+
+
+---
+
+👉 In GD, you don’t have to be “right.” The key is:
+
+Start confidently (if possible).
+
+If you join later, politely add “I would like to add a point to what my friend said…”
+
+Be clear, logical, and keep it short.
+
+Always conclude with a balanced view.
+
+
+
+---
+
+Do you want me to also prepare ready-made opening statements and conclusion lines for 2–3 likely GD topics (like Cloud Computing, AI impact, WFH vs WFO) so you can directly use them?
+
+
