@@ -55,9 +55,12 @@ If someone speaks against movies, use the following points + examples to strongl
 ❌ **Objection 1: “Movies spoil youth or promote violence.”**  
 
 **Counter:**  
-> It's not fair to blame all movies. Just like medicine, government makes painkillers, but some people may misuse them. Does that mean we should ban medicines? No.  
-Similarly, movies can be used for good or bad, but their main role is to spread awareness and express ideas.  
-Movies like *Chak De India*, *Swades*, and *3 Idiots* inspired millions to chase their dreams and improve the nation.  
+>It’s not fair to blame all movies.
+Just like medicines. Government makes painkillers to reduce pain. But some people use them in the wrong way — they take too many tablets or use without doctor’s advice. This creates problems like addiction. But we don’t ban medicines, right?
+
+In the same way, movies can also be used in good or bad way. The main purpose of movies is to give awareness and share ideas.
+Movies like Chak De India, Swades, and 3 Idiots gave inspiration to millions of people to follow their dreams and help the country.
+.  
 
 // example  
 Suppose someone has a little pain or just a normal headache, but they keep taking strong painkillers daily without asking a doctor. Slowly, it becomes a bad habit and harms their health.  
