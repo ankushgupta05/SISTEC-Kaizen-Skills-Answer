@@ -12,6 +12,7 @@ Biopics and movies based on true stories also show how people struggle and succe
 
 From the my opinion what I am thinking and that movies are reflection of the society and it is truth absolutely truth and this is a reality as well.  
 Let me explain.  
+why I am saying this.
 I will I would give you so many point and you need you have need to understand that one points  so that the first points is  
 So many movies are inspired on  real life and  real time social issues and problem and they are getting to  aware to the society like article 15 or pink totally talk about discriminations and human safety which is real problems in our society.  
 
