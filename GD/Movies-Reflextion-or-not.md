@@ -58,6 +58,12 @@ If someone speaks against movies, use the following points + examples to strongl
 >It’s not fair to blame all movies.
 Just like medicines. Government makes painkillers to reduce pain. But some people use them in the wrong way — they take too many tablets or use without doctor’s advice. This creates problems like addiction. But we don’t ban medicines, right?
 
+
+We should focus on the majority impact so here is majority impact is positive so in a life everything can be little bit miss use so and that little bit does not matter in a life
+
+
+
+
 In the same way, movies can also be used in good or bad way. The main purpose of movies is to give awareness and share ideas.
 Movies like Chak De India, Swades, and 3 Idiots gave inspiration to millions of people to follow their dreams and help the country.
 .  
