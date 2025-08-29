@@ -15,7 +15,7 @@ I’m passionate about **full-stack web development** and have hands-on experien
 
 In development, I also have knowledge of **Docker, AWS, Git, and GitHub** for collaboration.
 
-Recently, I worked on an **AI-based mock interview platform named Interview-Sathi**, where I contributed to **full-stack development**, implementing **real-time interaction using WebSocket**, **speech-to-text and text-to-speech features** for voice input/output, and **extracting useful information from PDF files (resumes and job descriptions)**. Through this, I gained strong practical skills in **AI integration, real-time systems, and full-stack development**.
+Recently, I worked on an **AI-based mock interview platform named Interview-Sathi**, where I contributed to **full-stack development**, implementing AI Based System and **real-time interaction using WebSocket**, **speech-to-text and text-to-speech features** for voice input/output, and **extracting useful information from PDF files (resumes and job descriptions)**. Through this, I gained strong practical skills in **AI integration, real-time systems, and full-stack development**.
 
 My second project was the **Eye-Disease Classification System**, a web-based platform designed to detect common eye conditions such as **cataracts, diabetic retinopathy, and glaucoma**. Users can upload their **eye images** or describe symptoms to receive an initial health check with clear guidance. The system uses an **advanced CNN deep learning model** for accurate early detection. I was the **Team Leader of four members**. Through this project, I built strong fundamentals in **Machine Learning, Deep Learning, and data handling with NumPy and Pandas**.
 
