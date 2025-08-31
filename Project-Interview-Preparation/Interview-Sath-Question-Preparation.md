@@ -57,3 +57,17 @@ On the **soft skills side**, I improved my teamwork, time management, and commun
 We would continue working on this as our final project. We plan to add features like live video interviews, video recording, and video-based feedback. This would make the experience more realistic and help users improve their body language and eye contact along with their answers.
 
 ---
+
+
+
+Great 👍 let’s make it specific with AWS EC2 since it was new for you:
+
+---
+
+❓ **Question: What problem did you face during the project?**
+✅ **Answer:**
+During the project, we didn’t face any major technical issues. The main challenge was how to connect the AI question generation with WebSocket for real-time interaction, how to make it work smoothly with voice input and output, and how to provide the feedback system. We also faced some difficulties in deployment of the Django backend on AWS EC2 instance because that was new for us. With regular team discussions and research, we were able to implement everything step by step.
+
+---
+
+Do you want me to also **update the “What did you learn” answer** to mention that you learned how to deploy on AWS EC2?
