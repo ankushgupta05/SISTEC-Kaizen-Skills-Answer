@@ -1,4 +1,4 @@
-Here’s your revised self-introduction for campus placement, with your internship at SkillQuest Learnings included concisely:
+iiHere’s your revised self-introduction for campus placement, with your internship at SkillQuest Learnings included concisely:
 
 
 ---
@@ -40,6 +40,17 @@ Let me know if you'd like it adjusted further!
 
 There are six members in my family, including my father and mother. We are four siblings — two elder brothers, one elder sister, and I am the youngest. My father is a contractor, and my mother is an ideal homemaker. My elder brothers are doing private jobs, and my sister is studying."
 
+
+
+```
+
+
+```
+why hire you.
+
+And : 
+I do not think negetive i always think positive.
+it boosts my confidence.
 
 
 ```
