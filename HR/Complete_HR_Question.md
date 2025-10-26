@@ -47,4 +47,13 @@ Got it! Here’s your **exact same content** rewritten in **very simple and easy
 5. **Adaptability** – I can adjust easily to new situations.
 
 ---
+✅ **4) What are your weaknesses?**
+
+A while ago, when I was in my first year of college, my communication skills were not very good. Because of that, I used to feel nervous and avoided going on stage in front of a large audience.
+
+But with time, I started focusing on improving myself. Someone once gave me very useful advice — they said, “Whatever you think or say in your daily life, try to say it in English.” I started following this advice regularly.
+
+By practicing daily and working hard, I slowly improved my communication skills. Now I feel much more confident when speaking in English or in front of people.
+
+Also, I sometimes spend extra time perfecting small details, which can slow me down. I’m learning to manage my time better by setting clear goals and priorities. I believe weaknesses can become strengths when we keep improving ourselves.
 
