@@ -57,3 +57,20 @@ By practicing daily and working hard, I slowly improved my communication skills.
 
 Also, I sometimes spend extra time perfecting small details, which can slow me down. I’m learning to manage my time better by setting clear goals and priorities. I believe weaknesses can become strengths when we keep improving ourselves.
 
+### ** 5) Question:**
+
+**Can you describe a challenging situation you faced at work and how you handled it?**
+
+---
+
+### **Answer (Easy Version):**
+
+One challenging situation I faced was in my **4th semester** of B.Tech when we had to make our **first minor project**. It was compulsory for every student. Our faculty, **Ms. Ruchi Jain**, divided all students into groups and chose one **team leader** for each group. She also made sure that no friends were in the same team.
+
+I was selected as the **team leader**, and it was my first time leading a team. I was a little scared but also excited. First, I talked with my team members to know what skills they had and what they could do best. I also created a **WhatsApp group** so we could discuss everything easily.
+
+After that, we decided to make a project called **“Eye Disease Classification System.”** It was an app that could identify eye diseases like **Cataract**, **Diabetic Retinopathy**, and **Normal Eye Health** using **Convolutional Neural Network (CNN)** technology.
+
+I divided the work among all team members — some worked on documentation, some on backend and frontend, and I worked mostly on the technical part. We all worked hard and completed the project successfully.
+
+From this project, I learned how to **lead a team**, **communicate better**, and **manage work under pressure**. It also gave me confidence that any challenge can be solved with teamwork and patience.
