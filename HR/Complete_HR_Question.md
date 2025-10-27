@@ -101,3 +101,15 @@ Here’s your version rewritten in **simple, clear, and correct English** — ea
 
 ---
 
+---
+
+**✅ 8) Tell me about a time you failed and what you learned from it.**
+
+Once, when I was in my first year of college, I failed to perform well in a group presentation. The main reason was my poor communication skills and lack of confidence while speaking in front of people.
+
+After that, I realized that communication is very important for teamwork and success. So, I started practicing English daily, speaking in front of a mirror, and participating in small events and discussions.
+
+This experience taught me that failure is not the end — it is a lesson. If we learn from our mistakes and keep improving, we can turn failure into success.
+
+---
+
