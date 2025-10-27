@@ -170,7 +170,7 @@ Of course 👍 Here are your answers (10–13) rewritten in **very simple Englis
 
 ---
 
-### ✅ **13) How do you prioritize tasks when you have multiple deadlines?**
+### ✅ **12) How do you prioritize tasks when you have multiple deadlines?**
 
 **1.** I make a list of all my tasks.
 **2.** I decide which tasks are most urgent and important.
