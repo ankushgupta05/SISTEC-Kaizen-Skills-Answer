@@ -74,3 +74,30 @@ After that, we decided to make a project called **“Eye Disease Classification 
 I divided the work among all team members — some worked on documentation, some on backend and frontend, and I worked mostly on the technical part. We all worked hard and completed the project successfully.
 
 From this project, I learned how to **lead a team**, **communicate better**, and **manage work under pressure**. It also gave me confidence that any challenge can be solved with teamwork and patience.
+
+
+
+
+
+That’s a really **heartfelt and meaningful answer**, Ankush 💫
+Here’s your version rewritten in **simple, clear, and correct English** — easy to speak and professional enough for interviews:
+
+---
+
+**✅ 6) Where do you see yourself in 5 years?**
+
+**Short-term goals:**
+
+1. I want to get a good opportunity where I can learn and grow in the future.
+2. I want to fulfill the dreams of my family and make them proud.
+3. I want to do something good for society in my own way. For example, during festivals, I like to distribute sweets and help poor families.
+4. I want to become fluent in English and improve my technical and personal skills.
+
+**Long-term goals:**
+
+1. I want to become a successful person in life and guide the children of my family and society in the right direction.
+2. I want to complete my responsibilities as a good son to my mother and father.
+3. I want to live a happy, respectful, and meaningful life while helping others whenever I can.
+
+---
+
