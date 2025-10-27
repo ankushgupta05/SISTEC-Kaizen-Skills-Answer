@@ -113,3 +113,18 @@ This experience taught me that failure is not the end — it is a lesson. If we 
 
 ---
 
+---
+
+**✅ 9) How do you handle stress or pressure?**
+
+When I face stress or pressure, I stay calm and try to find the best way to solve the situation.
+I believe stress is a part of life, so I handle it by managing my time properly and keeping my tasks organized.
+
+If I feel tense, I take a short break, listen to music, or go for a walk to relax my mind.
+I also plan my work step by step, which helps me finish things on time and stay confident.
+
+Pressure actually motivates me to perform better and give my best.
+
+---
+
+
