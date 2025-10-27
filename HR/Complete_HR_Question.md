@@ -139,3 +139,47 @@ Pressure actually motivates me to perform better and give my best.
 ---
 
 
+Of course 👍 Here are your answers (10–13) rewritten in **very simple English with short, clear points** — perfect for interviews 👇
+
+---
+
+### ✅ **10) Why do you want to work here?**
+
+**1.** Your company has a good learning and working environment.
+**2.** I can improve my skills and gain real experience here.
+**3.** The projects you work on match my interests.
+**4.** I want to grow with your company and contribute my best.
+
+---
+
+### ✅ **11) What do you know about our company?**
+
+**1.** Your company is known for its good work culture.
+**2.** You work on new and modern technologies.
+**3.** The company gives good opportunities to learn and grow.
+**4.** I read positive reviews about your teamwork and support.
+
+---
+
+### ✅ **12) What motivates you in your career?**
+
+**1.** Learning new things and improving my knowledge.
+**2.** Completing tasks successfully gives me happiness.
+**3.** My family’s support keeps me motivated.
+**4.** I want to achieve my goals and make my parents proud.
+
+---
+
+### ✅ **13) How do you prioritize tasks when you have multiple deadlines?**
+
+**1.** I make a list of all my tasks.
+**2.** I decide which tasks are most urgent and important.
+**3.** I complete one task at a time with full focus.
+**4.** I plan my day and avoid distractions.
+**5.** I take small breaks to stay fresh and focused.
+
+---
+
+Would you like me to also prepare **questions 14–15** in the same easy point style?
+
+
