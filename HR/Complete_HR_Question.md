@@ -103,7 +103,7 @@ Here’s your version rewritten in **simple, clear, and correct English** — ea
 
 ---
 
-**✅ 8) Tell me about a time you failed and what you learned from it.**
+**✅ 7) Tell me about a time you failed and what you learned from it.**
 
 Once, when I was in my first year of college, I failed to perform well in a group presentation. The main reason was my poor communication skills and lack of confidence while speaking in front of people.
 
@@ -115,7 +115,7 @@ This experience taught me that failure is not the end — it is a lesson. If we 
 
 ---
 
-**✅ 9) How do you handle stress or pressure?**
+**✅ 8) How do you handle stress or pressure?**
 
 When I face stress or pressure, I stay calm and try to find the best way to solve the situation.
 I believe stress is a part of life, so I handle it by managing my time properly and keeping my tasks organized.
@@ -124,6 +124,17 @@ If I feel tense, I take a short break, listen to music, or go for a walk to rela
 I also plan my work step by step, which helps me finish things on time and stay confident.
 
 Pressure actually motivates me to perform better and give my best.
+
+---
+---
+
+**✅ 9) How do you stay updated with industry trends and developments?**
+
+**1.** I regularly read **tech blogs**, **articles**, and **news websites** related to my field.
+**2.** I follow **YouTube channels**, **LinkedIn posts**, and **official documentation** to learn about new tools and technologies.
+**3.** I take **online courses** to gain practical and updated knowledge.
+**4.** I discuss new updates with my **friends and teammates** to learn from their ideas and experiences.
+**5.** I make sure to keep learning so I can stay **up-to-date** and **improve my skills** continuously.
 
 ---
 
