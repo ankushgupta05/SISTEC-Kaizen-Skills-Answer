@@ -84,7 +84,7 @@ Here’s your version rewritten in **simple, clear, and correct English** — ea
 
 ---
 
-**✅ 6) Where do you see yourself in 5 years?**
+**✅ 6) Where do you see yourself in 5 years? or long term and short term goal** 
 
 **Short-term goals:**
 
