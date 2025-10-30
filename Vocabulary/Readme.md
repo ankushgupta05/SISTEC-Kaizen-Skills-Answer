@@ -1,23 +1,28 @@
-Here’s the list of your words with **Hindi meanings and Hindi words**:
+Here’s your updated table 👇 — with **one more column** added for **2 example sentences** for each word (easy and daily-use examples):
 
-| English Word          | Hindi Meaning              | Hindi Word / Translation   |
-| --------------------- | -------------------------- | -------------------------- |
-| Influencer            | प्रभाव डालने वाला व्यक्ति  | इन्फ्लुएंसर                |
-| Authority             | अधिकार, सत्ता              | प्राधिकरण                  |
-| Protest against       | के खिलाफ विरोध करना        | विरोध प्रदर्शन             |
-| Negotiation           | बातचीत, समझौता             | वार्ता / बातचीत            |
-| Justice               | न्याय                      | न्याय                      |
-| NGO                   | गैर-सरकारी संगठन           | एनजीओ                      |
-| Dictatorship          | तानाशाही                   | तानाशाही                   |
-| Ministry of Education | शिक्षा मंत्रालय            | शिक्षा मंत्रालय            |
-| Ministry of           | मंत्रालय                   | मंत्रालय                   |
-| Sponsored links       | प्रायोजित लिंक             | स्पॉन्सर्ड लिंक            |
-| Sponsor               | प्रायोजक                   | प्रायोजक                   |
-| Hope                  | आशा, उम्मीद                | आशा                        |
-| Flop                  | असफलता, फ्लॉप              | असफलता / फ्लॉप             |
-| Barrier               | बाधा                       | बाधा                       |
-| Improvisation         | तात्कालिक समाधान / अनुकूलन | अनुकूलन / तात्कालिक समाधान |
-| Criticization         | आलोचना                     | आलोचना                     |
+---
+
+| English Word              | Hindi Meaning              | Hindi Word / Translation   | Example Sentences (2)                                                                                                              |
+| ------------------------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Influencer**            | प्रभाव डालने वाला व्यक्ति  | इन्फ्लुएंसर                | 1. She is a famous fashion **influencer** on Instagram.<br>2. Many people follow his advice because he is a health **influencer**. |
+| **Authority**             | अधिकार, सत्ता              | प्राधिकरण                  | 1. The teacher has full **authority** in the classroom.<br>2. You should take permission from the **authority**.                   |
+| **Protest against**       | के खिलाफ विरोध करना        | विरोध प्रदर्शन             | 1. People **protested against** the new law.<br>2. Students **protested against** fee hikes.                                       |
+| **Negotiation**           | बातचीत, समझौता             | वार्ता / बातचीत            | 1. The **negotiation** went well, and we got a fair deal.<br>2. After long **negotiation**, both parties agreed.                   |
+| **Justice**               | न्याय                      | न्याय                      | 1. Everyone deserves **justice**.<br>2. The court gave **justice** to the victim.                                                  |
+| **NGO**                   | गैर-सरकारी संगठन           | एनजीओ                      | 1. The **NGO** helps poor children get an education.<br>2. My sister works in an **NGO** that supports women.                      |
+| **Dictatorship**          | तानाशाही                   | तानाशाही                   | 1. People suffered under the **dictatorship**.<br>2. A **dictatorship** takes away people's freedom.                               |
+| **Ministry of Education** | शिक्षा मंत्रालय            | शिक्षा मंत्रालय            | 1. The **Ministry of Education** announced new rules for schools.<br>2. The **Ministry of Education** focuses on quality learning. |
+| **Ministry of**           | मंत्रालय                   | मंत्रालय                   | 1. The **Ministry of Health** launched a new campaign.<br>2. The **Ministry of Finance** prepared the budget.                      |
+| **Sponsored links**       | प्रायोजित लिंक             | स्पॉन्सर्ड लिंक            | 1. These are **sponsored links**, not real articles.<br>2. I clicked on a **sponsored link** for a new phone.                      |
+| **Sponsor**               | प्रायोजक                   | प्रायोजक                   | 1. The company will **sponsor** the event.<br>2. We need a **sponsor** for our school trip.                                        |
+| **Hope**                  | आशा, उम्मीद                | आशा                        | 1. Never lose **hope** in difficult times.<br>2. I **hope** you get the job soon.                                                  |
+| **Flop**                  | असफलता, फ्लॉप              | असफलता / फ्लॉप             | 1. The movie was a total **flop**.<br>2. His plan **flopped** badly.                                                               |
+| **Barrier**               | बाधा                       | बाधा                       | 1. Language can be a big **barrier** while traveling.<br>2. He broke all **barriers** to achieve success.                          |
+| **Improvisation**         | तात्कालिक समाधान / अनुकूलन | अनुकूलन / तात्कालिक समाधान | 1. His quick **improvisation** saved the show.<br>2. We need some **improvisation** to fix this problem fast.                      |
+| **Criticization**         | आलोचना                     | आलोचना                     | 1. She faced a lot of **criticization** for her decision.<br>2. Constructive **criticization** helps us improve.                   |
+
+---
+
 
 Here’s your complete list in the format you requested👇
 
