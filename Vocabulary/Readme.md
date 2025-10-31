@@ -180,4 +180,41 @@ Sure! I’ll create a table with all the words/phrases you listed, provide **Hin
 
 ---
 
+---
+
+| **English Word**               | **Hindi Meaning**      | **Hindi Word / Translation** | **Example Sentences (2)**                                                                                               |
+| ------------------------------ | ---------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Negotiation**                | बातचीत, मोलभाव         | बातचीत                       | 1. We are still in negotiation about the rent. <br> 2. The company is in negotiation with a new client.                 |
+| **Deserves**                   | हकदार है               | योग्य है                     | 1. She deserves a reward for her hard work. <br> 2. Everyone deserves respect.                                          |
+| **Takes away**                 | छीन लेता है            | दूर कर देता है               | 1. Too much stress takes away your happiness. <br> 2. The teacher takes away the phone during class.                    |
+| **Freedom**                    | आज़ादी                 | स्वतंत्रता                   | 1. We should never take our freedom for granted. <br> 2. Everyone wants the freedom to choose.                          |
+| **Apologizes**                 | माफ़ी मांगता है        | क्षमा माँगता है              | 1. He always apologizes when he is wrong. <br> 2. She apologizes for coming late.                                       |
+| **After that**                 | उसके बाद               | उसके पश्चात                  | 1. We went to the park, and after that, we had dinner. <br> 2. He finished his homework, and after that, he watched TV. |
+| **Confidential information**   | गोपनीय जानकारी         | रहस्यपूर्ण सूचना             | 1. Please don’t share confidential information. <br> 2. The report contains confidential information.                   |
+| **Great excitement**           | बहुत उत्साह            | अत्यधिक उत्साह               | 1. The children waited for the fair with great excitement. <br> 2. She opened the gift with great excitement.           |
+| **Vines**                      | बेलें                  | लताएँ                        | 1. The vines grew all over the wall. <br> 2. Grapes grow on vines.                                                      |
+| **Swing**                      | झूला                   | झूलना                        | 1. The kids are playing on the swing. <br> 2. She loves to swing in the garden.                                         |
+| **This is how I have decided** | यही मेरा निर्णय है     | मैंने ऐसा ही तय किया है      | 1. This is how I have decided to live my life. <br> 2. This is how I have decided to spend my weekend.                  |
+| **From which date**            | किस तारीख से           | किस दिनांक से                | 1. From which date will the new rule start? <br> 2. From which date is your vacation?                                   |
+| **Ashamed of**                 | शर्मिंदा होना          | लज्जित होना                  | 1. He felt ashamed of his mistake. <br> 2. You should not be ashamed of your past.                                      |
+| **Has anyone**                 | क्या किसी ने           | किसी ने                      | 1. Has anyone seen my keys? <br> 2. Has anyone called you today?                                                        |
+| **Ever**                       | कभी                    | कभी भी                       | 1. Have you ever been to Delhi? <br> 2. Nobody has ever told me this before.                                            |
+| **Ever truly**                 | वास्तव में कभी         | सच्चे मन से कभी              | 1. Have you ever truly forgiven someone? <br> 2. I wonder if he ever truly cared.                                       |
+| **His intentions with us**     | उसके इरादे हमारे प्रति | उसके मकसद हमारे साथ          | 1. I don’t understand his intentions with us. <br> 2. His intentions with us are not clear.                             |
+| **Realized that**              | यह महसूस किया कि       | समझा कि                      | 1. I realized that I was wrong. <br> 2. She realized that he was lying.                                                 |
+| **Sleepy**                     | नींद में               | उनींदा                       | 1. I feel sleepy after lunch. <br> 2. The baby looks sleepy.                                                            |
+| **Nap**                        | झपकी                   | थोड़ी नींद                   | 1. I took a short nap in the afternoon. <br> 2. He needs a nap before the meeting.                                      |
+| **Minority**                   | अल्पसंख्यक             | कम संख्या में                | 1. Only a small minority agreed with the plan. <br> 2. The minority group raised their voice for equality.              |
+| **Curious to hear from you**   | आपसे सुनने के इच्छुक   | जानने के इच्छुक              | 1. I’m curious to hear from you soon. <br> 2. We are curious to hear your opinion.                                      |
+| **Access rights**              | पहुँच अधिकार           | पहुँच अनुमति                 | 1. You don’t have access rights to this folder. <br> 2. The admin manages access rights for all users.                  |
+| **Curious**                    | उत्सुक                 | जिज्ञासु                     | 1. The child is curious about everything. <br> 2. I’m curious to know the result.                                       |
+| **Appear**                     | दिखना                  | प्रकट होना                   | 1. He didn’t appear for the test. <br> 2. The moon will appear after sunset.                                            |
+| **Grateful**                   | आभारी                  | कृतज्ञ                       | 1. I’m grateful for your help. <br> 2. She felt grateful for the support.                                               |
+| **Seems**                      | लगता है                | प्रतीत होता है               | 1. It seems like a good idea. <br> 2. He seems tired today.                                                             |
+| **Cheat**                      | धोखा देना              | छल करना                      | 1. You should never cheat in exams. <br> 2. He cheated his best friend.                                                 |
+| **Never get distracted**       | ध्यान न भटकाओ          | ध्यान केंद्रित रखो           | 1. Never get distracted while studying. <br> 2. She never gets distracted during meetings.                              |
+
+---
+
+
 
