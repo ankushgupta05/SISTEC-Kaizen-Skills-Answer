@@ -525,3 +525,264 @@ Do you want **Next 3 letters**, **Next 5 letters**, or **Complete remaining Varn
 | **ऐ (ai)** | नै → **nae** | nae           | **name (nae)** |
 |            |              |               |                |
 
+
+
+
+
+
+# Matra Tables (21 to 27)
+
+## **21) TABLE FOR प (PA — प)**
+
+| Matra       | प + Matra      | English Sound | Example Word  |
+| ----------- | -------------- | ------------- | ------------- |
+| **अ (a)**   | प → pa         | pa            | पानी          |
+| **आ (aa)**  | पा → paa       | paa           | पाल           |
+| **इ (i)**   | पि → pi        | pi            | pin           |
+| **ई (ii)**  | पी → pii       | pee           | peel          |
+| **उ (u)**   | पु → pu        | pu            | put (approx)  |
+| **ऊ (oo)**  | पू → poo       | poo           | pool          |
+| **ऋ (ri)**  | पृ → pri       | pri           | rare          |
+| **ए (e)**   | पे → pe        | pe            | pen           |
+| **ऐ (ai)**  | पै → pai       | pai           | pair          |
+| **ओ (o)**   | पो → po        | po            | pot           |
+| **औ (au)**  | पौ → pao / pau | pau           | paul (approx) |
+| **अं (an)** | पं → pan       | pan           | pan           |
+| **अः (ah)** | पः → pah       | pah           | rare          |
+
+---
+
+## **22) TABLE FOR फ (PHA / FA — फ)**
+
+| Matra       | फ + Matra         | English Sound | Example Word |
+| ----------- | ----------------- | ------------- | ------------ |
+| **अ (a)**   | फ → fa/pha        | fa / pha      | fan          |
+| **आ (aa)**  | फ़ा/फा → faa/phaa | faa/phaa      | फाक          |
+| **इ (i)**   | फि → fi/phi       | fi            | fit          |
+| **ई (ii)**  | फी → fii/phii     | fee           | feel         |
+| **उ (u)**   | फु → fu/phu       | fu            | full         |
+| **ऊ (oo)**  | फू → foo/phoo     | foo           | fool         |
+| **ऋ (ri)**  | फृ → fri/phri     | fri           | rare         |
+| **ए (e)**   | फे → fe/phe       | fe            | fame         |
+| **ऐ (ai)**  | फै → fai/phai     | fai           | fair         |
+| **ओ (o)**   | फो → fo/pho       | fo            | phone        |
+| **औ (au)**  | फौ → fau/phao     | fau           | approx       |
+| **अं (an)** | फं → fan          | fan           | fan          |
+| **अः (ah)** | फः → fah          | fah           | rare         |
+
+---
+
+## **23) TABLE FOR ब (BA — ब)**
+
+| Matra       | ब + Matra    | English Sound | Example Word |
+| ----------- | ------------ | ------------- | ------------ |
+| **अ (a)**   | ब → ba       | ba            | bus          |
+| **आ (aa)**  | बा → baa     | baa           | bar          |
+| **इ (i)**   | बि → bi      | bi            | bin          |
+| **ई (ii)**  | बी → bii     | bee           | bee          |
+| **उ (u)**   | बु → bu      | bu            | bull         |
+| **ऊ (oo)**  | बू → boo     | boo           | book         |
+| **ऋ (ri)**  | बृ → bri     | bri           | rare         |
+| **ए (e)**   | बे → be      | be            | bed          |
+| **ऐ (ai)**  | बै → bai     | bai           | bail         |
+| **ओ (o)**   | बो → bo      | bo            | boat         |
+| **औ (au)**  | बौ → bao/bau | bau           | approx       |
+| **अं (an)** | बं → ban     | ban           | ban          |
+| **अः (ah)** | बः → bah     | bah           | rare         |
+
+---
+
+## **24) TABLE FOR भ (BHA — भ)**
+
+| Matra       | भ + Matra      | English Sound | Example Word |
+| ----------- | -------------- | ------------- | ------------ |
+| **अ (a)**   | भ → bha        | bha           | भवन          |
+| **आ (aa)**  | भा → bhaa      | bhaa          | ---          |
+| **इ (i)**   | भि → bhi       | bhi           | अभी          |
+| **ई (ii)**  | भी → bhii      | bhee          | be (approx)  |
+| **उ (u)**   | भु → bhu       | bhu           | भुन          |
+| **ऊ (oo)**  | भू → bhoo      | bhoo          | भूमि         |
+| **ऋ (ri)**  | भृ → bhri      | bhri          | rare         |
+| **ए (e)**   | भे → bhe       | bhe           | भेद          |
+| **ऐ (ai)**  | भै → bhai      | bhai          | भाई          |
+| **ओ (o)**   | भो → bho       | bho           | भोला         |
+| **औ (au)**  | भौ → bhao/bhau | bhau          | ---          |
+| **अं (an)** | भं → bhan      | bhan          | ---          |
+| **अः (ah)** | भः → bhah      | bhah          | rare         |
+
+---
+
+## **25) TABLE FOR म (MA — म)**
+
+| Matra       | म + Matra | English Sound | Example Word |
+| ----------- | --------- | ------------- | ------------ |
+| **अ (a)**   | म → ma    | ma            | man          |
+| **आ (aa)**  | मा → maa  | maa           | master       |
+| **इ (i)**   | मि → mi   | mi            | milk         |
+| **ई (ii)**  | मी → mii  | mee           | meet         |
+| **उ (u)**   | मु → mu   | mu            | mud          |
+| **ऊ (oo)**  | मू → moo  | moo           | moon         |
+| **ऋ (ri)**  | मृ → mri  | mri           | rare         |
+| **ए (e)**   | मे → me   | me            | make         |
+| **ऐ (ai)**  | मै → mai  | mai           | mail         |
+| **ओ (o)**   | मो → mo   | mo            | more         |
+| **औ (au)**  | मौ → mau  | mau           | mouse        |
+| **अं (an)** | मं → man  | man           | man          |
+| **अः (ah)** | मः → mah  | mah           | rare         |
+
+---
+
+## **26) TABLE FOR य (YA — य)**
+
+| Matra       | य + Matra | English Sound | Example Word |
+| ----------- | --------- | ------------- | ------------ |
+| **अ (a)**   | य → ya    | ya            | yak          |
+| **आ (aa)**  | या → yaa  | yaa           | yard         |
+| **इ (i)**   | यि → yi   | yi            | rare         |
+| **ई (ii)**  | यी → yii  | yee           | yield        |
+| **उ (u)**   | यु → yu   | yu            | you          |
+| **ऊ (oo)**  | यू → yoo  | yoo           | youth        |
+| **ऋ (ri)**  | यृ → yri  | yri           | rare         |
+| **ए (e)**   | ये → ye   | ye            | yes          |
+| **ऐ (ai)**  | यै → yai  | yai           | ---          |
+| **ओ (o)**   | यो → yo   | yo            | yoga         |
+| **औ (au)**  | यौ → yau  | yau           | ---          |
+| **अं (an)** | यं → yan  | yan           | यंत्र        |
+| **अः (ah)** | यः → yah  | yah           | rare         |
+
+---
+
+## **27) TABLE FOR र (RA — र)**
+
+| Matra       | र + Matra   | English Sound | Example Word |
+| ----------- | ----------- | ------------- | ------------ |
+| **अ (a)**   | र → ra      | ra            | run          |
+| **आ (aa)**  | रा → raa    | raa           | ram          |
+| **इ (i)**   | रि → ri     | ri            | ribbon       |
+| **ई (ii)**  | री → rii    | ree           | reed         |
+| **उ (u)**   | रु → ru     | ru            | rule         |
+| **ऊ (oo)**  | रू → roo    | roo           | roof         |
+| **ऋ (ri)**  | ऋ → r̥ / ri | r̥/ri         | ऋषि          |
+| **ए (e)**   | रे → re     | re            | red          |
+| **ऐ (ai)**  | रै → rai    | rai           | rail         |
+| **ओ (o)**   | रो → ro     | ro            | road         |
+| **औ (au)**  | रौ → rau    | rau           | ---          |
+| **अं (an)** | रं → ran    | ran           | ran          |
+| **अः (ah)** | रः → rah    | rah           | rare         |
+
+# **21) TABLE FOR प (PA — प)**
+
+| Matra       | प + Matra          | English Sound | Example Word  |
+| ----------- | ------------------ | ------------- | ------------- |
+| **अ (a)**   | प → **pa**         | pa            | (Hindi: पानी) |
+| **आ (aa)**  | पा → **paa**       | paa           | (Hindi: पाल)  |
+| **इ (i)**   | पि → **pi**        | pi            | pin           |
+| **ई (ii)**  | पी → **pii**       | pee           | peel          |
+| **उ (u)**   | पु → **pu**        | pu            | put (approx)  |
+| **ऊ (oo)**  | पू → **poo**       | poo           | pool          |
+| **ऋ (ri)**  | पृ → **pri**       | pri           | (rare)        |
+| **ए (e)**   | पे → **pe**        | pe            | pen           |
+| **ऐ (ai)**  | पै → **pai**       | pai           | pair          |
+| **ओ (o)**   | पो → **po**        | po            | pot           |
+| **औ (au)**  | पौ → **pao / pau** | pau           | paul (approx) |
+| **अं (an)** | पं → **pan**       | pan           | pan           |
+| **अः (ah)** | पः → **pah**       | pah           | (breathy)     |
+
+---
+
+# **22) TABLE FOR फ (PHA / FA — फ)**
+
+| Matra       | फ + Matra             | English Sound | Example Word |
+| ----------- | --------------------- | ------------- | ------------ |
+| **अ (a)**   | फ → **fa/pha**        | fa / pha      | fan          |
+| **आ (aa)**  | फ़ा/फा → **faa/phaa** | faa/phaa      | (Hindi: फाक) |
+| **इ (i)**   | फि → **fi/phi**       | fi            | fit          |
+| **ई (ii)**  | फी → **fii/phii**     | fee           | feel         |
+| **उ (u)**   | फु → **fu/phu**       | fu            | full         |
+| **ऊ (oo)**  | फू → **foo/phoo**     | foo           | fool         |
+| **ऋ (ri)**  | फृ → **fri/phri**     | fri           | (rare)       |
+| **ए (e)**   | फे → **fe/phe**       | fe            | fame         |
+| **ऐ (ai)**  | फै → **fai/phai**     | fai           | fair         |
+| **ओ (o)**   | फो → **fo/pho**       | fo            | phone        |
+| **औ (au)**  | फौ → **fau/phao**     | fau           | (approx)     |
+| **अं (an)** | फं → **fan**          | fan           | fan          |
+| **अः (ah)** | फः → **fah**          | fah           | (breathy)    |
+
+---
+
+# **23) TABLE FOR ब (BA — ब)**
+
+| Matra       | ब + Matra        | English Sound | Example Word |
+| ----------- | ---------------- | ------------- | ------------ |
+| **अ (a)**   | ब → **ba**       | ba            | bus          |
+| **आ (aa)**  | बा → **baa**     | baa           | bar          |
+| **इ (i)**   | बि → **bi**      | bi            | bin          |
+| **ई (ii)**  | बी → **bii**     | bee           | bee          |
+| **उ (u)**   | बु → **bu**      | bu            | bull         |
+| **ऊ (oo)**  | बू → **boo**     | boo           | book         |
+| **ऋ (ri)**  | बृ → **bri**     | bri           | (rare)       |
+| **ए (e)**   | बे → **be**      | be            | bed          |
+| **ऐ (ai)**  | बै → **bai**     | bai           | bail         |
+| **ओ (o)**   | बो → **bo**      | bo            | boat         |
+| **औ (au)**  | बौ → **bao/bau** | bau           | (approx)     |
+| **अं (an)** | बं → **ban**     | ban           | ban          |
+| **अः (ah)** | बः → **bah**     | bah           | (breathy)    |
+
+---
+
+# **24) TABLE FOR भ (BHA — भ)**
+
+| Matra       | भ + Matra          | English Sound | Example Word |
+| ----------- | ------------------ | ------------- | ------------ |
+| **अ (a)**   | भ → **bha**        | bha           | (Hindi: भवन) |
+| **आ (aa)**  | भा → **bhaa**      | bhaa          | (Hindi)      |
+| **इ (i)**   | भि → **bhi**       | bhi           | (Hindi: अभी) |
+| **ई (ii)**  | भी → **bhii**      | bhee          | be (approx)  |
+| **उ (u)**   | भु → **bhu**       | bhu           | (Hindi: भुन) |
+| **ऊ (oo)**  | भू → **bhoo**      | bhoo          | bhoomi       |
+| **ऋ (ri)**  | भृ → **bhri**      | bhri          | (rare)       |
+| **ए (e)**   | भे → **bhe**       | bhe           | (Hindi: भेद) |
+| **ऐ (ai)**  | भै → **bhai**      | bhai          | bhai         |
+| **ओ (o)**   | भो → **bho**       | bho           | bholenath    |
+| **औ (au)**  | भौ → **bhao/bhau** | bhau          | (Hindi)      |
+| **अं (an)** | भं → **bhan**      | bhan          | (Hindi)      |
+| **अः (ah)** | भः → **bhah**      | bhah          | (breathy)    |
+
+---
+
+# **25) TABLE FOR म (MA — म)**
+
+| Matra       | म + Matra    | English Sound | Example Word |
+| ----------- | ------------ | ------------- | ------------ |
+| **अ (a)**   | म → **ma**   | ma            | man          |
+| **आ (aa)**  | मा → **maa** | maa           | master       |
+| **इ (i)**   | मि → **mi**  | mi            | milk         |
+| **ई (ii)**  | मी → **mii** | mee           | meet         |
+| **उ (u)**   | मु → **mu**  | mu            | mud          |
+| **ऊ (oo)**  | मू → **moo** | moo           | moon         |
+| **ऋ (ri)**  | मृ → **mri** | mri           | (rare)       |
+| **ए (e)**   | मे → **me**  | me            | make         |
+| **ऐ (ai)**  | मै → **mai** | mai           | mail         |
+| **ओ (o)**   | मो → **mo**  | mo            | more         |
+| **औ (au)**  | मौ → **mau** | mau           | mouse        |
+| **अं (an)** | मं → **man** | man           | man          |
+| **अः (ah)** | मः → **mah** | mah           | (breathy)    |
+
+---
+
+# **26) TABLE FOR य (YA — य)**
+
+| Matra      | य + Matra    | English Sound | Example Word    |
+| ---------- | ------------ | ------------- | --------------- |
+| **अ (a)**  | य → **ya**   | ya            | yak             |
+| **आ (aa)** | या → **yaa** | yaa           | yard            |
+| **इ (i)**  | यि → **yi**  | yi            | (rare in Hindi) |
+| **ई (ii)** | यी → **yii** | yee           | yield           |
+| **उ (u)**  | यु → **yu**  | yu            | you             |
+| **ऊ (oo)** | यू → **yoo** | yoo           | youth           |
+| **ऋ (ri)** | यृ → **yri** | yri           | (rare)          |
+| **ए (e)**  | ये → **ye**  | ye            | yes             |
+| **ऐ (ai)** | यै → **yai** | yai           | (approx)        |
+|            |              |               |                 |
+
+
