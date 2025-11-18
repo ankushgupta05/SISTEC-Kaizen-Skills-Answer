@@ -190,3 +190,79 @@ Just tell me:
 # 👉 Tell me:
 
 Do you want **Next 3 letters**, **Next 5 letters**, or **Complete remaining Varnamala in one message**?
+
+# ✅ **6) TABLE FOR च (CA)**
+
+| Matra       | च + Matra    | English Sound | Example Word     |
+| ----------- | ------------ | ------------- | ---------------- |
+| **अ (a)**   | च → **ca**   | cha/ca        | **cup (ca)**     |
+| **आ (aa)**  | चा → **caa** | chaa          | **chart (cha)**  |
+| **इ (i)**   | चि → **ci**  | chi           | **chip**         |
+| **ई (ii)**  | ची → **cii** | chee          | **cheese**       |
+| **उ (u)**   | चु → **cu**  | chu           | **choose (chu)** |
+| **ऊ (oo)**  | चू → **coo** | choo          | **choo-choo**    |
+| **ऋ (ri)**  | कृ → **cri** | cri           | *(rare)*         |
+| **ए (e)**   | चे → **ce**  | che           | **chain**        |
+| **ऐ (ae)**  | चै → **cae** | chae          | *(approx)*       |
+| **ओ (o)**   | चो → **co**  | cho           | **chore**        |
+| **औ (ao)**  | चौ → **cao** | chao          | **chow**         |
+| **अं (am)** | चं → **cam** | cham          | **champ**        |
+| **अः (ah)** | चः → **cah** | chah          | *(breathy)*      |
+
+---
+
+# ⭐ Extra practice words for च
+
+**cheese, chain, chat, champ, chip**
+
+---
+
+# ✅ **7) TABLE FOR छ (CHHA)**
+
+| Matra       | छ + Matra      | English Sound | Example Word          |
+| ----------- | -------------- | ------------- | --------------------- |
+| **अ (a)**   | छ → **chha**   | chha          | *(no direct English)* |
+| **आ (aa)**  | छा → **chhaa** | chhaa         | **chhaap** (Hindi)    |
+| **इ (i)**   | छु → **chhi**  | chhi          | *(approx)*            |
+| **ई (ii)**  | छू → **chhii** | chhee         | **chilli (chi)**      |
+| **उ (u)**   | छु → **chhu**  | chhu          | **chhu (Hindi)**      |
+| **ऊ (oo)**  | छू → **chhoo** | chhoo         | **choo** (approx)     |
+| **ऋ (ri)**  | छृ → **chhri** | chhri         | *(approx)*            |
+| **ए (e)**   | छु → **chhe**  | chhe          | **che (approx)**      |
+| **ऐ (ae)**  | छै → **chhae** | chhae         | **chai (chae)**       |
+| **ओ (o)**   | छो → **chho**  | chho          | **chhore (Hin)**      |
+| **औ (ao)**  | छौ → **chhao** | chhao         | *(approx)*            |
+| **अं (am)** | छं → **chham** | chham         | **chhamm (sound)**    |
+| **अः (ah)** | छः → **chhah** | chhah         | *(breathy)*           |
+
+---
+
+# ⭐ Extra practice words for छ
+
+**chai, chhaya, chhadi, chhorna**
+
+---
+
+# ✅ **8) TABLE FOR ज (JA)**
+
+| Matra       | ज + Matra    | English Sound | Example Word      |
+| ----------- | ------------ | ------------- | ----------------- |
+| **अ (a)**   | ज → **ja**   | ja            | **jug**           |
+| **आ (aa)**  | जा → **jaa** | jaa           | **jar (jaa)**     |
+| **इ (i)**   | जि → **ji**  | ji            | **gym (ji)**      |
+| **ई (ii)**  | जी → **jii** | jee           | **jeep**          |
+| **उ (u)**   | जु → **ju**  | ju            | **jump (ju)**     |
+| **ऊ (oo)**  | जू → **joo** | joo           | **jewel**         |
+| **ऋ (ri)**  | जृ → **jri** | jri           | *(rare)*          |
+| **ए (e)**   | जे → **je**  | je            | **jail (je)**     |
+| **ऐ (ae)**  | जै → **jae** | jae           | **jazz (approx)** |
+| **ओ (o)**   | जो → **jo**  | jo            | **joke**          |
+| **औ (ao)**  | जौ → **jao** | jao           | **jao (Hindi)**   |
+| **अं (am)** | जं → **jam** | jam           | **jam**           |
+| **अः (ah)** | जः → **jah** | jah           | *(breathy)*       |
+
+---
+
+# ⭐ Extra practice words for ज
+
+**jeep, jail, jam, joke, jump**
