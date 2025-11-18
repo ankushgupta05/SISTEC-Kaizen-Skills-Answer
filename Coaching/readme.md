@@ -403,3 +403,125 @@ Do you want **Next 3 letters**, **Next 5 letters**, or **Complete remaining Varn
 | अं (am) | ढं → **dhan** | dhan          | dhan         |
 | अः (ah) | ढः → **dhah** | dhah          | *(breathy)*  |
 
+
+
+
+# Tables 15 to 20 (Separate Sections)
+
+---
+
+## **15) TABLE FOR ण (ṆA — Retroflex Na)**
+
+| Matra       | ण + Matra          | English Sound | Example Word                |
+| ----------- | ------------------ | ------------- | --------------------------- |
+| **अ (a)**   | ण → **nạ / ṇa**   | hard n        | *(Hindi only)*              |
+| **आ (aa)**  | णा → **naa / ṇaa** | naa           | *(Hindi: होना → ho**naa**)* |
+| **इ (i)**   | णि → **ni / ṇi**   | ni            | *(approx)*                  |
+| **ई (ii)**  | णी → **nii / ṇii** | nee           | **knee (nee)**              |
+| **उ (u)**   | णु → **nu / ṇu**   | nu            | *(approx)*                  |
+| **ऊ (oo)**  | णू → **noo / ṇoo** | noo           | *(approx)*                  |
+| **ऋ (ri)**  | णृ → **nri / ṇri** | nri           | *(rare)*                    |
+| **ए (e)**   | णे → **ne / ṇe**   | ne            | **name (ne)**               |
+| **ऐ (ai)**  | णै → **nae / ṇae** | nae           | *(approx)*                  |
+| **ओ (o)**   | णो → **no / ṇo**   | no            | **no (no)**                 |
+| **औ (au)**  | णौ → **nau / ṇau** | nau           | **now (nau)**               |
+| **अं (an)** | णं → **nan / ṇan** | nan           | **none (nan)**              |
+| **अः (ah)** | णः → **nah / ṇah** | nah           | *(breathy)*                 |
+
+---
+
+## **16) TABLE FOR त (TA — Dental Ta)**
+
+| Matra       | त + Matra    | English Sound | Example Word   |
+| ----------- | ------------ | ------------- | -------------- |
+| **अ (a)**   | त → **ta**   | ta            | **tap (ta)**   |
+| **आ (aa)**  | ता → **taa** | taa           | **task (taa)** |
+| **इ (i)**   | ति → **ti**  | ti            | **tip (ti)**   |
+| **ई (ii)**  | ती → **tii** | tee           | **tea (tee)**  |
+| **उ (u)**   | तु → **tu**  | tu            | **tube (tu)**  |
+| **ऊ (oo)**  | तू → **too** | too           | **tool (too)** |
+| **ऋ (ri)**  | तृ → **tri** | tri           | **tree (tri)** |
+| **ए (e)**   | ते → **te**  | te            | **ten (te)**   |
+| **ऐ (ai)**  | नै → **tae** | tae           | *(approx)*     |
+| **ओ (o)**   | तो → **to**  | to            | **top (to)**   |
+| **औ (au)**  | तौ → **tau** | tau           | **town (tau)** |
+| **अं (an)** | तं → **tan** | tan           | **tank (tan)** |
+| **अः (ah)** | तः → **tah** | tah           | *(breathy)*    |
+
+---
+
+## **17) TABLE FOR थ (THA — Dental Tha)**
+
+| Matra       | थ + Matra     | English Sound | Example Word        |
+| ----------- | ------------- | ------------- | ------------------- |
+| **अ (a)**   | थ → **tha**   | tha (soft)    | **thumb (tha)**     |
+| **आ (aa)**  | था → **thaa** | thaa          | *(Hindi: थाली)*     |
+| **इ (i)**   | थि → **thi**  | thi           | **think (thi)**     |
+| **ई (ii)**  | थी → **thii** | thee          | **thee (old Eng.)** |
+| **उ (u)**   | थु → **thu**  | thu           | *(approx)*          |
+| **ऊ (oo)**  | थू → **thoo** | thoo          | **through (thru)**  |
+| **ऋ (ri)**  | थृ → **thri** | thri          | *(rare)*            |
+| **ए (e)**   | थे → **the**  | the           | *(English: THE)*    |
+| **ऐ (ai)**  | नै → **thae** | thae          | *(approx)*          |
+| **ओ (o)**   | थो → **tho**  | tho           | **though (tho)**    |
+| **औ (au)**  | थौ → **thau** | thau          | *(approx)*          |
+| **अं (an)** | थं → **than** | than          | **than (than)**     |
+| **अः (ah)** | थः → **thah** | thah          | *(breathy)*         |
+
+---
+
+## **18) TABLE FOR द (DA — Dental Da)**
+
+| Matra       | द + Matra    | English Sound | Example Word    |
+| ----------- | ------------ | ------------- | --------------- |
+| **अ (a)**   | द → **da**   | da            | **dust (da)**   |
+| **आ (aa)**  | दा → **daa** | daa           | **dance (daa)** |
+| **इ (i)**   | दि → **di**  | di            | **dip (di)**    |
+| **ई (ii)**  | दी → **dii** | dee           | **deep (dee)**  |
+| **उ (u)**   | दु → **du**  | du            | **duty (du)**   |
+| **ऊ (oo)**  | दू → **doo** | doo           | **doom (doo)**  |
+| **ऋ (ri)**  | दृ → **dri** | dri           | **drive (dri)** |
+| **ए (e)**   | दे → **de**  | de            | **desk (de)**   |
+| **ऐ (ai)**  | नै → **dae** | dae           | *(approx)*      |
+| **ओ (o)**   | दो → **do**  | do            | **don’t (do)**  |
+| **औ (au)**  | दौ → **dau** | dau           | **down (dau)**  |
+| **अं (an)** | दं → **dan** | dan           | **dance (dan)** |
+| **अः (ah)** | दः → **dah** | dah           | *(breathy)*     |
+
+---
+
+## **19) TABLE FOR ध (DHA — Aspirated Dha)**
+
+| Matra       | ध + Matra     | English Sound | Example Word      |
+| ----------- | ------------- | ------------- | ----------------- |
+| **अ (a)**   | ध → **dha**   | dha           | *(Hindi: धागा)*   |
+| **आ (aa)**  | धा → **dhaa** | dhaa          | *(Hindi)*         |
+| **इ (i)**   | धि → **dhi**  | dhi           | *(approx)*        |
+| **ई (ii)**  | धी → **dhii** | dhee          | *(approx)*        |
+| **उ (u)**   | धु → **dhu**  | dhu           | **thew (approx)** |
+| **ऊ (oo)**  | धू → **dhoo** | dhoo          | *(approx)*        |
+| **ऋ (ri)**  | धृ → **dhri** | dhri          | *(rare)*          |
+| **ए (e)**   | धे → **dhe**  | dhe           | *(approx)*        |
+| **ऐ (ai)**  | नै → **dhae** | dhae          | *(approx)*        |
+| **ओ (o)**   | धो → **dho**  | dho           | **dhol (Hindi)**  |
+| **औ (au)**  | धौ → **dhao** | dhao          | *(approx)*        |
+| **अं (an)** | धं → **dhan** | dhan          | **dhan (Hindi)**  |
+| **अः (ah)** | धः → **dhah** | dhah          | *(breathy)*       |
+
+---
+
+## **20) TABLE FOR न (NA)**
+
+| Matra      | न + Matra    | English Sound | Example Word   |
+| ---------- | ------------ | ------------- | -------------- |
+| **अ (a)**  | न → **na**   | na            | **nut (na)**   |
+| **आ (aa)** | ना → **naa** | naa           | **name (naa)** |
+| **इ (i)**  | नि → **ni**  | ni            | **nip (ni)**   |
+| **ई (ii)** | नी → **nii** | nee           | **knee (nee)** |
+| **उ (u)**  | नु → **nu**  | nu            | **new (nu)**   |
+| **ऊ (oo)** | नू → **noo** | noo           | **noon (noo)** |
+| **ऋ (ri)** | नृ → **nri** | nri           | *(rare)*       |
+| **ए (e)**  | ने → **ne**  | ne            | **net (ne)**   |
+| **ऐ (ai)** | नै → **nae** | nae           | **name (nae)** |
+|            |              |               |                |
+
