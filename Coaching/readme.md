@@ -263,6 +263,143 @@ Do you want **Next 3 letters**, **Next 5 letters**, or **Complete remaining Varn
 
 ---
 
-# ⭐ Extra practice words for ज
+# Matra Tables for Letters 8 to 14
 
-**jeep, jail, jam, joke, jump**
+## 8) TABLE FOR ज (JA)
+
+| Matra   | ज + Matra    | English Sound | Example Word  |
+| ------- | ------------ | ------------- | ------------- |
+| अ (a)   | ज → **ja**   | ja            | jug           |
+| आ (aa)  | जा → **jaa** | jaa           | jar           |
+| इ (i)   | जि → **ji**  | ji            | gym           |
+| ई (ii)  | जी → **jii** | jee           | jeep          |
+| उ (u)   | जु → **ju**  | ju            | jump          |
+| ऊ (oo)  | जू → **joo** | joo           | jewel         |
+| ऋ (ri)  | जृ → **jri** | jri           | *(rare)*      |
+| ए (e)   | जे → **je**  | je            | jail          |
+| ऐ (ae)  | जै → **jae** | jae           | jazz (approx) |
+| ओ (o)   | जो → **jo**  | jo            | joke          |
+| औ (ao)  | जौ → **jao** | jao           | jao (Hindi)   |
+| अं (am) | जं → **jam** | jam           | jam           |
+| अः (ah) | जः → **jah** | jah           | *(breathy)*   |
+
+---
+
+## 9) TABLE FOR झ (JHA)
+
+| Matra   | झ + Matra     | English Sound | Example Word   |
+| ------- | ------------- | ------------- | -------------- |
+| अ (a)   | झ → **jha**   | jha           | jhaadu (Hindi) |
+| आ (aa)  | झा → **jhaa** | jhaa          | jhaad          |
+| इ (i)   | झि → **jhi**  | jhi           | *(approx)*     |
+| ई (ii)  | झी → **jhii** | jhee          | jheel          |
+| उ (u)   | झु → **jhu**  | jhu           | *(approx)*     |
+| ऊ (oo)  | झू → **jhoo** | jhoo          | jhoom          |
+| ऋ (ri)  | झृ → **jhri** | jhri          | *(rare)*       |
+| ए (e)   | झे → **jhe**  | jhe           | *(approx)*     |
+| ऐ (ae)  | झै → **jhae** | jhae          | *(approx)*     |
+| ओ (o)   | झो → **jho**  | jho           | jhopdi         |
+| औ (ao)  | झौ → **jhau** | jhau          | *(approx)*     |
+| अं (am) | झं → **jhan** | jhan          | jhanak         |
+| अः (ah) | झः → **jhah** | jhah          | *(breathy)*    |
+
+---
+
+## 10) TABLE FOR ञ (NYA)
+
+| Matra   | ञ + Matra     | English Sound | Example Word |
+| ------- | ------------- | ------------- | ------------ |
+| अ (a)   | ञ → **nya**   | nya           | canyon (ny)  |
+| आ (aa)  | ञा → **nyaa** | nyaa          | *(approx)*   |
+| इ (i)   | ञि → **nyi**  | nyi           | *(rare)*     |
+| ई (ii)  | ञी → **nyii** | nyee          | *(approx)*   |
+| उ (u)   | ञु → **nyu**  | nyu           | new (nyu)    |
+| ऊ (oo)  | ञू → **nyoo** | nyoo          | *(approx)*   |
+| ऋ (ri)  | ञृ → **nyri** | nyri          | *(rare)*     |
+| ए (e)   | ञे → **nye**  | nye           | canyon (ny)  |
+| ऐ (ae)  | ञै → **nyae** | nyae          | *(approx)*   |
+| ओ (o)   | ञो → **nyo**  | nyo           | *(approx)*   |
+| औ (ao)  | ञौ → **nyau** | nyau          | *(approx)*   |
+| अं (am) | ञं → **nyan** | nyan          | nyan (sound) |
+| अः (ah) | ञः → **nyah** | nyah          | *(breathy)*  |
+
+---
+
+## 11) TABLE FOR ट (ṬA)
+
+| Matra   | ट + Matra    | English Sound | Example Word |
+| ------- | ------------ | ------------- | ------------ |
+| अ (a)   | ट → **ṭa**   | hard T        | top          |
+| आ (aa)  | टा → **ṭaa** | taa           | tall         |
+| इ (i)   | टि → **ṭi**  | ti            | tip          |
+| ई (ii)  | टी → **ṭii** | tee           | tea          |
+| उ (u)   | टु → **ṭu**  | tu            | tube         |
+| ऊ (oo)  | टू → **ṭoo** | too           | tool         |
+| ऋ (ri)  | टृ → **ṭri** | tri           | *(rare)*     |
+| ए (e)   | टे → **ṭe**  | te            | table        |
+| ऐ (ai)  | टै → **ṭae** | tae           | tag          |
+| ओ (o)   | टो → **ṭo**  | to            | toy          |
+| औ (ao)  | टौ → **ṭau** | tau           | town         |
+| अं (am) | टं → **ṭan** | tan           | tank         |
+| अः (ah) | टः → **ṭah** | tah           | *(breathy)*  |
+
+---
+
+## 12) TABLE FOR ठ (THH)
+
+| Matra   | ठ + Matra      | English Sound | Example Word |
+| ------- | -------------- | ------------- | ------------ |
+| अ (a)   | ठ → **thh**    | hard th       | *(none)*     |
+| आ (aa)  | ठा → **thhaa** | thhaa         | *(Hindi)*    |
+| इ (i)   | ठि → **thhi**  | thhi          | *(approx)*   |
+| ई (ii)  | ठी → **thhii** | thhee         | *(approx)*   |
+| उ (u)   | ठु → **thhu**  | thhu          | *(approx)*   |
+| ऊ (oo)  | ठू → **thhoo** | thhoo         | *(approx)*   |
+| ऋ (ri)  | ठृ → **thhri** | thhri         | *(rare)*     |
+| ए (e)   | ठे → **thhe**  | thhe          | *(approx)*   |
+| ऐ (ai)  | ठै → **thhae** | thhae         | *(approx)*   |
+| ओ (o)   | ठो → **thho**  | thho          | *(Hindi)*    |
+| औ (ao)  | ठौ → **thhau** | thhau         | *(approx)*   |
+| अं (am) | ठं → **thhan** | thhan         | *(sound)*    |
+| अः (ah) | ठः → **thhah** | thhah         | *(breathy)*  |
+
+---
+
+## 13) TABLE FOR ड (DA)
+
+| Matra   | ड + Matra    | English Sound | Example Word |
+| ------- | ------------ | ------------- | ------------ |
+| अ (a)   | ड → **ḍa**   | hard D        | dog          |
+| आ (aa)  | डा → **ḍaa** | daa           | dark         |
+| इ (i)   | डि → **ḍi**  | di            | dip          |
+| ई (ii)  | डी → **ḍii** | dee           | deep         |
+| उ (u)   | डु → **ḍu**  | du            | dust         |
+| ऊ (oo)  | डू → **ḍoo** | doo           | doom         |
+| ऋ (ri)  | डृ → **ḍri** | dri           | *(rare)*     |
+| ए (e)   | डे → **ḍe**  | de            | day          |
+| ऐ (ai)  | डै → **ḍae** | dae           | dance        |
+| ओ (o)   | डो → **ḍo**  | do            | door         |
+| औ (ao)  | डौ → **ḍau** | dau           | doubt        |
+| अं (am) | डं → **ḍan** | dan           | dunk         |
+| अः (ah) | डः → **ḍah** | dah           | *(breathy)*  |
+
+---
+
+## 14) TABLE FOR ढ (DHA)
+
+| Matra   | ढ + Matra     | English Sound | Example Word |
+| ------- | ------------- | ------------- | ------------ |
+| अ (a)   | ढ → **ḍha**   | strong dh     | *(Hindi)*    |
+| आ (aa)  | ढा → **ḍhaa** | dhaa          | dhaal        |
+| इ (i)   | ढि → **dhi**  | dhi           | *(approx)*   |
+| ई (ii)  | ढी → **dhii** | dhee          | dheer        |
+| उ (u)   | ढु → **dhu**  | dhu           | *(approx)*   |
+| ऊ (oo)  | ढू → **dhoo** | dhoo          | dhoop        |
+| ऋ (ri)  | ढृ → **dhri** | dhri          | *(rare)*     |
+| ए (e)   | ढे → **dhe**  | dhe           | *(approx)*   |
+| ऐ (ai)  | ढै → **dhae** | dhae          | *(approx)*   |
+| ओ (o)   | ढो → **dho**  | dho           | dhol         |
+| औ (ao)  | ढौ → **dhau** | dhau          | *(approx)*   |
+| अं (am) | ढं → **dhan** | dhan          | dhan         |
+| अः (ah) | ढः → **dhah** | dhah          | *(breathy)*  |
+
