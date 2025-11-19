@@ -195,6 +195,14 @@ Here is **the exact question and perfect answer** you should say in the intervie
 
 **“After completing my 12th in 2022, I worked on improving my English communication and computer skills. I also had some family responsibilities during that period. Now I’m fully prepared and looking for a stable job opportunity.”**
 
+
+
+
+
+
+### **✅ Your Answer (Retail Version):**
+
+**“After completing my 12th in 2022, I was working in the retail sector. My main role was helping customers, handling billing, and assisting with daily store operations. During this time I improved my communication and customer service skills. Now I want to grow in a better and more stable role, so I’m applying here.”**
 ---
 
 
