@@ -180,6 +180,26 @@ Of course 👍 Here are your answers (10–13) rewritten in **very simple Englis
 
 ---
 
-Would you like me to also prepare **questions 14–15** in the same easy point style?
+
+
+
+Here is **the exact question and perfect answer** you should say in the interview — short, clean, professional.
+
+---
+
+# ✅ **Question ✅ 13)**
+
+**“You completed your 12th in 2022, and now it’s 2026. What were you doing during 2022 to 2025?”**
+
+### **✅ Your Answer:**
+
+**“After completing my 12th in 2022, I worked on improving my English communication and computer skills. I also had some family responsibilities during that period. Now I’m fully prepared and looking for a stable job opportunity.”**
+
+---
+
+
+
+
+
 
 
