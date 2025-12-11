@@ -213,7 +213,16 @@ Here is **the exact question and perfect answer** you should say in the intervie
 **Answer:**
 "I am from Bhopal, Madhya Pradesh. It is also called the City of Lakes. Bhopal is clean, peaceful, and full of greenery. The Upper Lake is a famous place where people go for boating and relaxing. one things i would like to share i like bhopal as well I like to live in bhopla .Growing up in Bhopal has given me a simple and balanced lifestyle, which helps me stay focused and confident in my work."
 
+---
 
+### ✅ **Question 15) Why do you want to join BPO?**
+
+**Answer:**
+"Honestly, I want to join the BPO sector because I feel it's a good place to start my career. I’ve seen that this field offers a good salary, a professional work environment, and a lot of learning. Here I can improve my communication skills, learn how to handle customers, and understand their queries in a better way. If I grow in this domain, it will be a great opportunity for my career.
+
+I just want a place where I can learn, perform, and grow — and BPO gives me that."
+
+---
 
 
 
