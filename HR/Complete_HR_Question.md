@@ -208,6 +208,12 @@ Here is **the exact question and perfect answer** you should say in the intervie
 
 
 
+### **Question 14: Tell me about your Bhopal.**
+
+**Answer:**
+"I am from Bhopal, Madhya Pradesh. It is also called the City of Lakes. Bhopal is clean, peaceful, and full of greenery. The Upper Lake is a famous place where people go for boating and relaxing. Growing up in Bhopal has given me a simple and balanced lifestyle, which helps me stay focused and confident in my work."
+
+
 
 
 
