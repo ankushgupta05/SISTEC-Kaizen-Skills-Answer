@@ -228,3 +228,9 @@ I just want a place where I can learn, perform, and grow — and BPO gives me th
 
 
 
+
+You: What does CSA mean in a BPO?
+Me: CSA means Customer Service Associate.
+You: What do they do?
+Me: They help customers with questions or problems—through phone, email, or chat.
+
