@@ -314,4 +314,21 @@ Got it 👍
 
 अगर चाहो तो मैं इसे **README.md format**, **PDF**, या **exam-ready notes** में भी बना दूँ 😊
 
+यह रहा **same content table format में** 👇
+(English | Hindi | Daily-life Examples)
+
+---
+
+### 📘 Meanings & Sentence (Table)
+
+| English                                                                                  | Hindi                                                                                   | Daily-life Examples (English)                                                                                   |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Humility**                                                                             | विनम्रता / नम्रता                                                                       | 1. He spoke with humility. <br> 2. Humility earns respect. <br> 3. She accepted success with humility.          |
+| **Humiliation**                                                                          | अपमान / बेइज्ज़ती                                                                       | 1. Public humiliation hurts. <br> 2. He felt humiliation after the insult. <br> 3. No one deserves humiliation. |
+| **Humanity**                                                                             | मानवता / इंसानियत                                                                       | 1. We should show humanity. <br> 2. Humanity unites people. <br> 3. Kindness reflects humanity.                 |
+| **Shyam slapped Mukesh, and I, Ankush, was present there as a witness to the incident.** | श्याम ने मुकेश को थप्पड़ मारा, और मैं, अंकुश, वहाँ उस घटना का गवाह के रूप में मौजूद था। | 1. I was present as a witness. <br> 2. She witnessed the accident. <br> 3. He saw the incident.                 |
+
+---
+
+अगर आप चाहें तो मैं इसे **README.md**, **PDF notes**, या **exam-oriented short table** में भी बना दूँ 😊
 
