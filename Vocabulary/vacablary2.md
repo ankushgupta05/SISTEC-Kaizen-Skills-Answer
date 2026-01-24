@@ -250,3 +250,68 @@ Here is the **table in 3 columns** exactly as you requested:
 ---
 
 
+Got it 👍
+नीचे **same content** रखा गया है,
+**2nd column = Hindi translation**
+**3rd column = ~3 daily-life examples (English)**
+
+---
+
+| English (Same)                                  | Hindi Translation                      | Daily Life Examples (English)                                                                                       |
+| ----------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Your perspective changes everything             | आपका नज़रिया सब कुछ बदल देता है        | 1. Your perspective can solve problems. 2. Perspective matters in life. 3. Change your perspective, change results. |
+| I am blessed to meet you                        | आपसे मिलकर मैं धन्य हूँ                | 1. I am blessed to have good friends. 2. She feels blessed today. 3. He is blessed with a good job.                 |
+| I am glad I get the chance to work              | मुझे काम करने का मौका मिलने की खुशी है | 1. I am glad to work here. 2. Glad I got this opportunity. 3. She is glad to help.                                  |
+| I know that you take care of everyone           | मुझे पता है आप सबका ख्याल रखते हैं     | 1. He takes care of his family. 2. Nurses take care of patients. 3. She takes care of details.                      |
+| This is low budget and high happiness           | यह कम बजट और ज्यादा खुशी वाला है       | 1. A picnic is low budget fun. 2. Home food gives high happiness. 3. Simple trips are joyful.                       |
+| This song is dedicated to my love               | यह गाना मेरे प्यार को समर्पित है       | 1. This gift is for you. 2. Song dedicated to parents. 3. Movie dedicated to soldiers.                              |
+| Did you make appointment                        | क्या आपने अपॉइंटमेंट लिया?             | 1. Did you make an appointment with doctor? 2. Appointment is required. 3. Please confirm appointment.              |
+| Sharp mind                                      | तेज दिमाग                              | 1. He has a sharp mind. 2. Sharp minds learn fast. 3. She solved it quickly.                                        |
+| Sharp stones                                    | नुकीले पत्थर                           | 1. Sharp stones can hurt feet. 2. Avoid sharp stones. 3. Path has sharp stones.                                     |
+| Rock                                            | चट्टान / पत्थर                         | 1. The rock is heavy. 2. Kids climb rocks. 3. A rock blocked the road.                                              |
+| Aside                                           | अलग / एक तरफ                           | 1. Keep it aside. 2. Put the bag aside. 3. He stood aside.                                                          |
+| We didn't care and moved on                     | हमने परवाह नहीं की और आगे बढ़ गए       | 1. Ignore negativity and move on. 2. He failed but moved on. 3. Life goes on.                                       |
+| Ahead, there was a fear of losing the way       | आगे रास्ता भटकने का डर था              | 1. Fear of getting lost. 2. There was uncertainty ahead. 3. Journey felt risky.                                     |
+| Prove / proved / proved                         | सिद्ध करना                             | 1. Prove your skills. 2. He proved his point. 3. Results proved him right.                                          |
+| We must act wisely                              | हमें समझदारी से काम लेना होगा          | 1. Act wisely in crisis. 2. Spend money wisely. 3. Choose wisely.                                                   |
+| Atmosphere of unity and cooperation             | एकता और सहयोग का माहौल                 | 1. Teamwork brings unity. 2. Cooperation helps success. 3. Office needs unity.                                      |
+| Cooperation                                     | सहयोग                                  | 1. Cooperation is important. 2. Thanks for cooperation. 3. Team needs cooperation.                                  |
+| You know what                                   | तुम्हें पता है क्या                    | 1. You know what, I agree. 2. You know what happened? 3. You know what I mean.                                      |
+| Strength                                        | ताकत                                   | 1. Physical strength matters. 2. Mental strength is powerful. 3. Inner strength helps.                              |
+| Strength is yours, speed is mine                | ताकत आपकी है, रफ़्तार मेरी             | 1. Everyone has strengths. 2. Speed wins races. 3. Team uses strengths.                                             |
+| Barren                                          | बंजर                                   | 1. Barren land needs water. 2. Desert is barren. 3. Fields became barren.                                           |
+| Dry / dried / dried                             | सूखा / सुखाया हुआ                      | 1. Clothes dried fast. 2. Dry weather today. 3. Dry fruits are healthy.                                             |
+| Both of them                                    | वे दोनों                               | 1. Both of them agreed. 2. I like both of them. 3. Both are ready.                                                  |
+| All of them                                     | उन सभी को                              | 1. All of them passed. 2. I invited all of them. 3. All are waiting.                                                |
+| No matter how many times I watch it, it’s funny | कितनी भी बार देखूं, फिर भी मज़ेदार है  | 1. That video is funny. 2. Comedy never gets old. 3. Jokes repeat well.                                             |
+| Thank for being online                          | ऑनलाइन रहने के लिए धन्यवाद             | 1. Thanks for being online. 2. Support is online. 3. Agent is online.                                               |
+| Sorry for long hold                             | लंबा इंतज़ार कराने के लिए माफ़ कीजिए   | 1. Sorry for delay. 2. Thanks for waiting. 3. Apologies for hold.                                                   |
+| Safe and action                                 | सुरक्षित और सक्रिय                     | 1. Safe and active life. 2. Follow safety actions. 3. Act safely.                                                   |
+| Different qualities make companions             | अलग गुण दोस्त बनाते हैं                | 1. Differences build teams. 2. Qualities complement. 3. Opposites work together.                                    |
+| Comprehensible                                  | समझने योग्य                            | 1. Instructions are comprehensible. 2. Language is easy. 3. Explanation was clear.                                  |
+| We will notify you                              | हम आपको सूचित करेंगे                   | 1. We will notify soon. 2. You’ll be notified. 3. Notification sent.                                                |
+| We are getting it ready for you                 | हम इसे आपके लिए तैयार कर रहे हैं       | 1. Order is getting ready. 2. Food is preparing. 3. Service is ready.                                               |
+| Pre-check before proceeding ahead               | आगे बढ़ने से पहले जाँच                 | 1. Pre-check documents. 2. Check before submit. 3. Verify details.                                                  |
+| Despite trying our best                         | पूरी कोशिश के बावजूद                   | 1. Tried our best. 2. Despite efforts, failed. 3. Best attempt made.                                                |
+| क्रिया की परिभाषा एवं भेद                       | Verb definition & types                | 1. Action words are verbs. 2. Run is a verb. 3. Study verbs daily.                                                  |
+| Is not like that                                | ऐसा नहीं है                            | 1. It’s not like that. 2. Situation differs. 3. Don’t misunderstand.                                                |
+| Irritating nut                                  | चिड़चिड़ा व्यक्ति                      | 1. He is irritating. 2. Noise is irritating. 3. Habit is annoying.                                                  |
+| You got made                                    | तुम्हें फँसाया गया                     | 1. He was tricked. 2. Got fooled once. 3. Be careful.                                                               |
+| Simultaneously ask                              | एक साथ पूछना                           | 1. Ask simultaneously. 2. Questions came together. 3. Speak one by one.                                             |
+| Escalate                                        | बढ़ाना / आगे बढ़ाना                    | 1. Escalate issue to manager. 2. Problem escalated. 3. Conflict escalated.                                          |
+| Dispute                                         | विवाद                                  | 1. Legal dispute. 2. Family dispute. 3. Settle dispute.                                                             |
+| This is beneficial for you                      | यह आपके लिए लाभदायक है                 | 1. Exercise is beneficial. 2. Course is useful. 3. Advice helps.                                                    |
+| You should have finished the work by now        | अब तक काम पूरा हो जाना चाहिए था        | 1. Task should be done. 2. Deadline passed. 3. Work expected.                                                       |
+| We should prepared                              | हमें तैयार रहना चाहिए                  | 1. We should be prepared. 2. Stay ready. 3. Prepared for exam.                                                      |
+| We should have prepare                          | हमें तैयारी कर लेनी चाहिए थी           | 1. Should have studied. 2. Should have prepared. 3. Missed chance.                                                  |
+| Intention matters                               | नीयत मायने रखती है                     | 1. Good intention counts. 2. Intent matters. 3. Pure intentions help.                                               |
+| Affordable                                      | किफ़ायती                               | 1. Affordable price. 2. Budget-friendly phone. 3. Affordable housing.                                               |
+| Take a look                                     | ज़रा देखिए                             | 1. Take a look here. 2. Look at this. 3. Check this out.                                                            |
+| He falls down                                   | वह गिर जाता है                         | 1. He fell down stairs. 2. Kids fall often. 3. Be careful.                                                          |
+| Don’t worry brother, I will take care of them   | चिंता मत करो भाई, मैं संभाल लूँगा      | 1. I’ll take care. 2. Don’t worry. 3. I’ve got this.                                                                |
+
+---
+
+अगर चाहो तो मैं इसे **README.md format**, **PDF**, या **exam-ready notes** में भी बना दूँ 😊
+
+
