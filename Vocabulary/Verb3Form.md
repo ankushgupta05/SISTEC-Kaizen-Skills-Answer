@@ -171,3 +171,47 @@ If you want, I can also explain:
 * **There is / There are**
 * **Exam-based questions** 😊
 
+
+Ahh, you want **“hesitated” used with *is / are*** 👍
+Important thing first:
+
+### ❌ **Wrong**
+
+* *He **is/are hesitated*** ❌
+
+### ✅ **Correct rule**
+
+**Hesitated** is a **verb (past tense)**, so it **cannot** be used with **is / are**.
+
+---
+
+## ✅ Correct ways to use it
+
+### 1️⃣ Simple Past (most common)
+
+* **He hesitated before speaking.**
+* **They hesitated to answer.**
+
+---
+
+### 2️⃣ Using **is / are** → use **hesitating** (–ing form)
+
+* **He is hesitating to reply.** ✅
+* **They are hesitating before entering.** ✅
+
+---
+
+## 🧠 Easy trick
+
+* **is / are + verb-ing** ✔
+* **hesitated** → use alone (past) ✔
+
+---
+
+### 🔥 Quick comparison
+
+* *He **hesitated*** → past
+* *He **is hesitating*** → happening now
+
+If you want, I can give **very easy daily-life examples** or **exam-style sentences** 😊
+
