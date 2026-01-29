@@ -17,3 +17,157 @@ Got it! You want **verbs with their past forms (V1, V2, V3)** and **2 daily-life
 | bear      | bore      | borne                | 1. I cannot bear this noise.<br>2. Bear the pain patiently.                                  | 1. She bore all the difficulties bravely.<br>2. He bore the weight of the luggage alone. | 1. This burden has been borne by him for years.<br>2. The responsibility has been borne well by the team. |
 
 ---
+
+Got it 🙂 These words *look* confusing, but in daily life they’re super easy once you see them in real sentences. Let’s keep it simple 👌
+
+---
+
+## 1️⃣ **There**
+
+👉 Used for **place** or to **point something out**
+
+**Daily life examples:**
+
+* *I left my phone **there** on the table.*
+* *There is a meeting today.*
+* *Put the bag **there**, near the door.*
+
+🧠 Trick: **There = place**
+
+---
+
+## 2️⃣ **Their**
+
+👉 Shows **ownership** (something belongs to them)
+
+**Daily life examples:**
+
+* *That is **their** house.*
+* *Students forgot **their** books.*
+* *The team celebrated **their** win.*
+
+🧠 Trick: **Their = belongs to them**
+
+---
+
+## 3️⃣ **Who**
+
+👉 Used for **people** (asking or telling about a person)
+
+**Daily life examples:**
+
+* *Who is calling you?*
+* *She is the teacher **who** helped me.*
+* *Do you know **who** broke the glass?*
+
+🧠 Trick: **Who = person**
+
+---
+
+## 4️⃣ **Whose**
+
+👉 Used to ask **ownership** (who something belongs to)
+
+**Daily life examples:**
+
+* *Whose bag is this?*
+* *Whose phone is ringing?*
+* *I know the boy **whose** bike was stolen.*
+
+🧠 Trick: **Whose = belongs to whom**
+
+---
+
+## 5️⃣ **One more** (since you asked 😉) → **Then vs Than**
+
+### **Then**
+
+👉 Time / sequence
+
+* *Finish your work, **then** go home.*
+* *Back **then**, life was simple.*
+
+### **Than**
+
+👉 Comparison
+
+* *She is taller **than** me.*
+* *This phone is better **than** the old one.*
+
+🧠 Trick:
+**Then = time** ⏰
+**Than = comparison** ⚖️
+
+---
+
+### 🔥 Super Short Summary
+
+* **There** → place
+* **Their** → ownership
+* **Who** → person
+* **Whose** → ownership of a person
+* **Then** → time
+* **Than** → comparison
+
+If you want, I can give you **1-line Hindi meaning**, **practice questions**, or **daily conversation examples** next 😄
+
+
+Nice question 👍 This is a very common daily-life doubt.
+
+### ✅ Rule (very simple):
+
+* **Here is** → use with **singular** (one thing)
+* **Here are** → use with **plural** (more than one)
+
+---
+
+## 🔹 **Here is** (ONE thing)
+
+**Examples:**
+
+* *Here is your book.*
+* *Here is the key.*
+* *Here is my phone.*
+
+👉 One item → **is**
+
+---
+
+## 🔹 **Here are** (MORE than one)
+
+**Examples:**
+
+* *Here are your books.*
+* *Here are the keys.*
+* *Here are my documents.*
+
+👉 Many items → **are**
+
+---
+
+## 🧠 Easy Trick
+
+Look at the **noun after “here”**
+
+* one → **is**
+* many → **are**
+
+---
+
+## ❌ Common Mistake
+
+❌ *Here is your documents*
+✅ *Here are your documents*
+
+---
+
+### 🔥 Daily-life speaking tip
+
+In casual spoken English, people **say “Here’s” for both**, but in **correct English (exam, office, writing)** follow the rule above.
+
+If you want, I can also explain:
+
+* **Here was / Here were**
+* **There is / There are**
+* **Exam-based questions** 😊
+
