@@ -332,3 +332,25 @@ Got it 👍
 
 अगर आप चाहें तो मैं इसे **README.md**, **PDF notes**, या **exam-oriented short table** में भी बना दूँ 😊
 
+
+
+
+Here are your sentences in the **requested format (English | Hindi | Daily-life Examples)**. I kept the meaning simple and natural for daily conversation.
+
+| English     | Hindi                    | Daily-life Examples (English)                                                                                                                         |
+| ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Get rid of  | छुटकारा पाना             | 1. You cannot get rid of me easily. <br>2. He wants to get rid of his bad habits. <br>3. She tried to get rid of unnecessary things.                  |
+| Shameless   | बेशर्म                   | 1. He behaved in a shameless way. <br>2. It was a shameless lie. <br>3. The scam was shameless.                                                       |
+| Hopeless    | निराशाजनक / निराश        | 1. He felt hopeless after failing the exam. <br>2. The situation looked hopeless. <br>3. Don't be hopeless, try again.                                |
+| Worthless   | बेकार / मूल्यहीन         | 1. This broken pen is worthless. <br>2. He thinks the idea is worthless. <br>3. Don’t treat people like they are worthless.                           |
+| Demotivated | हतोत्साहित / मनोबल गिरना | 1. I felt demotivated after the rejection. <br>2. Negative comments can make anyone demotivated. <br>3. He looked demotivated after losing the match. |
+| Memories    | यादें                    | 1. Some relationships become only memories. <br>2. Childhood memories are special. <br>3. Photos keep our memories alive.                             |
+| Blushing    | शरमाना / लाल होना        | 1. Shyam is blushing after the compliment. <br>2. She started blushing in front of everyone. <br>3. He was blushing with embarrassment.               |
+| Deserve     | हकदार होना / योग्य होना  | 1. You deserve this trophy. <br>2. She deserves appreciation. <br>3. Hard work deserves success.                                                      |
+| Struggling  | संघर्ष करना              | 1. The champ was struggling to speak. <br>2. He is struggling with English. <br>3. Many students struggle in the beginning.                           |
+| Express     | व्यक्त करना              | 1. He could not express his feelings. <br>2. She expressed her opinion clearly. <br>3. Art helps people express emotions.                             |
+| Fumbling    | हकलाना / शब्द खोजते रहना | 1. He was fumbling during the call. <br>2. She kept fumbling while answering. <br>3. Nervous people often start fumbling.                             |
+
+---
+
+If you want, I can also make **100 daily-use English words in this same format** so you can improve your **spoken English faster**.
