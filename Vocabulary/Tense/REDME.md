@@ -492,3 +492,135 @@ The issue would have been fixed by them. (यह समस्या उनके
 - Would have been → किया गया होता ❌  
 
 ---
+
+
+
+# ✅ Have & Be Structures (Basic Tense Patterns)
+
+---
+
+# ✅ 1️⃣ HAVE (Possession / पास होना)
+
+---
+
+### 🔹 1) Present (पास है)
+👉 Structure: Subject + has/have + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I have a car. | मेरे पास एक कार है |
+| She has a laptop. | उसके पास एक लैपटॉप है |
+| We have a house. | हमारे पास एक घर है |
+| He has a bike. | उसके पास एक बाइक है |
+| They have money. | उनके पास पैसे हैं |
+
+---
+
+### 🔹 2) Negative Present  
+👉 Structure: Subject + do not / does not + have + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I do not have a car. | मेरे पास कार नहीं है |
+| She does not have a laptop. | उसके पास लैपटॉप नहीं है |
+| We do not have time. | हमारे पास समय नहीं है |
+| He does not have a bike. | उसके पास बाइक नहीं है |
+| They do not have money. | उनके पास पैसे नहीं हैं |
+
+---
+
+### 🔹 3) Past (था / थे)
+👉 Structure: Subject + had + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I had a car. | मेरे पास एक कार थी |
+| She had a laptop. | उसके पास एक लैपटॉप था |
+| We had a house. | हमारे पास एक घर था |
+| He had a bike. | उसके पास एक बाइक थी |
+| They had money. | उनके पास पैसे थे |
+
+---
+
+### 🔹 4) Negative Past  
+👉 Structure: Subject + did not have + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I did not have a car. | मेरे पास कार नहीं थी |
+| She did not have a laptop. | उसके पास लैपटॉप नहीं था |
+| We did not have time. | हमारे पास समय नहीं था |
+| He did not have a bike. | उसके पास बाइक नहीं थी |
+| They did not have money. | उनके पास पैसे नहीं थे |
+
+---
+
+### 🔹 5) Future (होगा / होंगे)
+👉 Structure: Subject + will have + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I will have a car. | मेरे पास कार होगी |
+| She will have a laptop. | उसके पास लैपटॉप होगा |
+| We will have a house. | हमारे पास घर होगा |
+| He will have a bike. | उसके पास बाइक होगी |
+| They will have money. | उनके पास पैसे होंगे |
+
+---
+
+# ✅ 2️⃣ BE (Is/Am/Are / Was/Were / Will Be)
+
+---
+
+### 🔹 1) Present (है / हैं)
+👉 Structure: Subject + is/am/are + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I am happy. | मैं खुश हूँ |
+| She is a teacher. | वह एक टीचर है |
+| We are ready. | हम तैयार हैं |
+| He is strong. | वह मजबूत है |
+| They are friends. | वे दोस्त हैं |
+
+---
+
+### 🔹 2) Past (था / थे)
+👉 Structure: Subject + was/were + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I was happy. | मैं खुश था |
+| She was a teacher. | वह एक टीचर थी |
+| We were ready. | हम तैयार थे |
+| He was strong. | वह मजबूत था |
+| They were friends. | वे दोस्त थे |
+
+---
+
+### 🔹 3) Future (होगा / होंगे)
+👉 Structure: Subject + will be + object  
+
+| Sentence | Hindi Meaning |
+|---------|--------------|
+| I will be happy. | मैं खुश रहूँगा |
+| She will be a teacher. | वह टीचर होगी |
+| We will be ready. | हम तैयार होंगे |
+| He will be strong. | वह मजबूत होगा |
+| They will be friends. | वे दोस्त होंगे |
+
+---
+
+# 🔥 Quick Revision
+
+## HAVE
+- has/have → पास है  
+- had → पास था  
+- will have → पास होगा  
+
+## BE
+- is/am/are → है / हैं  
+- was/were → था / थे  
+- will be → होगा / होंगे  
+
+---
