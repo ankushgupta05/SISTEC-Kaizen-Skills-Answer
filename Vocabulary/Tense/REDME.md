@@ -693,3 +693,88 @@ How big is your house? (तुम्हारा घर कितना बड�
 How difficult is this exam? (यह परीक्षा कितनी कठिन है?)  
 
 ---
+
+# ✅ How (Different Types of Questions)
+
+---
+
+# ✅ 1) How Long (कितने समय तक / कितना समय)
+
+👉 Structure: How long + will/did/is + subject + verb ?
+
+How long will you stay here?  
+(तुम यहाँ कितने समय तक रहोगे?)  
+
+How long did you study?  
+(तुमने कितने समय तक पढ़ाई की?)  
+
+How long is the movie?  
+(फिल्म कितनी लंबी है?)  
+
+---
+
+# ✅ 2) How Far (कितनी दूरी)
+
+👉 Structure: How far + is/are + place ?
+
+How far is the station?  
+(स्टेशन कितनी दूर है?)  
+
+How far is your house from here?  
+(तुम्हारा घर यहाँ से कितनी दूर है?)  
+
+How far is the school?  
+(स्कूल कितनी दूर है?)  
+
+---
+
+# ❌ 3) How Away (Wrong)
+
+❌ how away (गलत है, English में use नहीं होता)
+
+✔ Use:
+- How far (distance)
+- How long (time)
+
+---
+
+# ✅ 4) How Many + Countable Nouns (गिनने योग्य)
+
+👉 Structure: How many + plural noun + do/does + subject + have ?
+
+How many books do you have?  
+(तुम्हारे पास कितनी किताबें हैं?)  
+
+How many students are in the class?  
+(क्लास में कितने छात्र हैं?)  
+
+How many apples did you buy?  
+(तुमने कितने सेब खरीदे?)  
+
+---
+
+# ✅ 5) How Much + Uncountable Noun (न गिने जाने वाले)
+
+👉 Structure: How much + noun + do/does + subject + have ?
+
+How much money do you have?  
+(तुम्हारे पास कितना पैसा है?)  
+
+How much water do you drink daily?  
+(तुम रोज कितना पानी पीते हो?)  
+
+How much time do we have?  
+(हमारे पास कितना समय है?)  
+
+---
+
+# 🔥 Important Rule
+
+- How many → countable (books, apples, students)  
+- How much → uncountable (water, money, time)  
+- How far → distance  
+- How long → time / duration  
+- how away → ❌ wrong  
+
+---
+
