@@ -624,3 +624,72 @@ The issue would have been fixed by them. (यह समस्या उनके
 - will be → होगा / होंगे  
 
 ---
+
+
+# ✅ How + Adjective (Question Pattern)
+
+---
+
+# ✅ Structure  
+👉 How + adjective + is/are + subject ?
+
+---
+
+# ✅ Examples
+
+### 🔹 Height
+**How tall is this building?**  
+👉 यह बिल्डिंग कितनी ऊँची है?  
+
+---
+
+### 🔹 Creativity  
+**How creative is he?**  
+👉 वह कितना क्रिएटिव है?  
+
+---
+
+### 🔹 Quality (Good)  
+**How good is this product?**  
+👉 यह प्रोडक्ट कितना अच्छा है?  
+
+---
+
+### 🔹 Quality (Bad)  
+**How bad is the situation?**  
+👉 स्थिति कितनी खराब है?  
+
+---
+
+### 🔹 Intelligence  
+**How smart are you?**  
+👉 तुम कितने स्मार्ट हो?  
+
+---
+
+### 🔹 Price (Expensive)  
+**How expensive is this phone?**  
+👉 यह फोन कितना महंगा है?  
+
+---
+
+### 🔹 Price (Cheap)  
+**How cheap is this item?**  
+👉 यह चीज कितनी सस्ती है?  
+
+---
+
+# 🔥 Important Rule
+
+❌ how creative (wrong / incomplete)  
+✔ how creative is he (correct)  
+
+---
+
+# ⚡ More Practice
+
+How fast is this car? (यह कार कितनी तेज है?)  
+How big is your house? (तुम्हारा घर कितना बड़ा है?)  
+How difficult is this exam? (यह परीक्षा कितनी कठिन है?)  
+
+---
