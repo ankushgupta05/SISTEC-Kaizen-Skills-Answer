@@ -778,3 +778,146 @@ How much time do we have?
 
 ---
 
+# ✅ Day 4 – WH Questions Practice
+
+---
+
+# ✅ 1) How
+
+How are you today? (तुम आज कैसे हो?)  
+How do you go to college? (तुम कॉलेज कैसे जाते हो?)  
+How was your exam? (तुम्हारा एग्जाम कैसा था?)  
+How can I help you? (मैं तुम्हारी कैसे मदद कर सकता हूँ?)  
+How did you learn English? (तुमने अंग्रेजी कैसे सीखी?)  
+
+---
+
+# ✅ 2) What
+
+What are you doing? (तुम क्या कर रहे हो?)  
+What is your name? (तुम्हारा नाम क्या है?)  
+What do you want? (तुम क्या चाहते हो?)  
+What is your plan? (तुम्हारी योजना क्या है?)  
+What happened yesterday? (कल क्या हुआ?)  
+
+---
+
+# ✅ 3) For What (किस लिए)
+
+For what are you studying? (तुम किस लिए पढ़ाई कर रहे हो?)  
+For what did you call me? (तुमने मुझे किस लिए कॉल किया?)  
+For what is this money? (यह पैसा किस लिए है?)  
+For what are you waiting? (तुम किस लिए इंतजार कर रहे हो?)  
+For what did he come here? (वह यहाँ किस लिए आया?)  
+
+---
+
+# ✅ 4) At What Time (किस समय)
+
+At what time do you wake up? (तुम किस समय उठते हो?)  
+At what time does the class start? (क्लास किस समय शुरू होती है?)  
+At what time will you come? (तुम किस समय आओगे?)  
+At what time is the meeting? (मीटिंग किस समय है?)  
+At what time did he leave? (वह किस समय गया?)  
+
+---
+
+# ✅ 5) Which (कौन सा)
+
+Which book do you like? (तुम्हें कौन सी किताब पसंद है?)  
+Which color is your favorite? (तुम्हारा पसंदीदा रंग कौन सा है?)  
+Which subject do you study? (तुम कौन सा विषय पढ़ते हो?)  
+Which movie did you watch? (तुमने कौन सी फिल्म देखी?)  
+Which phone do you use? (तुम कौन सा फोन इस्तेमाल करते हो?)  
+
+---
+
+# ✅ 6) In Which (किस में)
+
+In which class do you study? (तुम किस क्लास में पढ़ते हो?)  
+In which city do you live? (तुम किस शहर में रहते हो?)  
+In which room are you? (तुम किस कमरे में हो?)  
+In which company do you work? (तुम किस कंपनी में काम करते हो?)  
+In which subject are you good? (तुम किस विषय में अच्छे हो?)  
+
+---
+
+# ✅ 7) By Which (किस से / किस माध्यम से)
+
+By which bus do you travel? (तुम किस बस से यात्रा करते हो?)  
+By which method did you solve this? (तुमने इसे किस तरीके से हल किया?)  
+By which train will you go? (तुम किस ट्रेन से जाओगे?)  
+By which app do you study? (तुम किस ऐप से पढ़ाई करते हो?)  
+By which road did you come? (तुम किस रास्ते से आए?)  
+
+---
+
+# ✅ 8) With Which (किसके साथ / किससे)
+
+With which pen do you write? (तुम किस पेन से लिखते हो?)  
+With which friend did you go? (तुम किस दोस्त के साथ गए?)  
+With which tool did he fix it? (उसने इसे किस टूल से ठीक किया?)  
+With which team are you working? (तुम किस टीम के साथ काम कर रहे हो?)  
+With which device are you learning? (तुम किस डिवाइस से सीख रहे हो?)  
+
+---
+
+# ✅ 9) Which One
+
+Which one do you want? (तुम कौन सा चाहते हो?)  
+Which one is better? (कौन सा बेहतर है?)  
+Which one is yours? (कौन सा तुम्हारा है?)  
+Which one should I buy? (मुझे कौन सा खरीदना चाहिए?)  
+Which one do you prefer? (तुम कौन सा पसंद करते हो?)  
+
+---
+
+# ✅ 10) What Kind of Dress / What Kinds of Dresses
+
+What kind of dress do you like? (तुम किस तरह की ड्रेस पसंद करते हो?)  
+What kind of dress is this? (यह किस तरह की ड्रेस है?)  
+What kind of dress should I wear? (मुझे किस तरह की ड्रेस पहननी चाहिए?)  
+What kinds of dresses are trending? (किस तरह की ड्रेसेस ट्रेंड में हैं?)  
+What kinds of dresses do you have? (तुम्हारे पास किस तरह की ड्रेसेस हैं?)  
+
+---
+
+# ✅ 11) What Type of Animal / What Types of Animals
+
+What type of animal is this? (यह किस प्रकार का जानवर है?)  
+What type of animal do you like? (तुम किस प्रकार का जानवर पसंद करते हो?)  
+What type of animal is dangerous? (कौन सा जानवर खतरनाक है?)  
+What types of animals live in the jungle? (जंगल में किस प्रकार के जानवर रहते हैं?)  
+What types of animals do you see here? (तुम यहाँ किस प्रकार के जानवर देखते हो?)  
+
+---
+
+# ✅ 12) What Sort of
+
+What sort of job do you want? (तुम किस तरह की नौकरी चाहते हो?)  
+What sort of food do you eat? (तुम किस तरह का खाना खाते हो?)  
+What sort of problems do you face? (तुम किस तरह की समस्याओं का सामना करते हो?)  
+What sort of music do you like? (तुम किस तरह का संगीत पसंद करते हो?)  
+What sort of person is he? (वह किस तरह का व्यक्ति है?)  
+
+---
+
+# ✅ 13) Whose
+
+Whose book is this? (यह किसकी किताब है?)  
+Whose phone is ringing? (किसका फोन बज रहा है?)  
+Whose bag is this? (यह किसका बैग है?)  
+Whose idea was this? (यह किसका विचार था?)  
+Whose car is parked outside? (बाहर किसकी कार खड़ी है?)  
+
+---
+
+# ✅ 14) How Often
+
+How often do you exercise? (तुम कितनी बार एक्सरसाइज करते हो?)  
+How often do you go to the gym? (तुम कितनी बार जिम जाते हो?)  
+How often do you watch movies? (तुम कितनी बार फिल्म देखते हो?)  
+How often do you call your parents? (तुम कितनी बार अपने माता-पिता को कॉल करते हो?)  
+How often do you travel? (तुम कितनी बार यात्रा करते हो?)  
+
+---
