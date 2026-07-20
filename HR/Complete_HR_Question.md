@@ -8,7 +8,7 @@ My name is Ankush Gupta, and I'm from Bhopal, Madhya Pradesh.
 
 I passed my 10th and 12th from the MP Board. Recently, I completed my Bachelor of Computer Applications (BCA) from RKDF College, Bhopal.
 
-I have 10 months of experience as an Email Process Executive at TTBS – Technotask Business Solutions in Bhopal. My responsibilities included replying to customer emails, resolving customer queries, coordinating with internal teams, and providing good customer support through email.
+I have 10 months of experience as an Email Process Executive at TTBS – Technotask Business Solutions in Bhopal. My responsibilities were replying to customer emails, resolving customer queries, and providing good customer support through email. 
 
 My father is a contractor, and my mother is a homemaker.
 
