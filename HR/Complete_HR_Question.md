@@ -2,15 +2,21 @@ Sure! Here’s your text with numbering added:
 
 ---
 
-**✅ 1) Tell me about yourself (Improved version):**
+Good morning, Sir.
 
-1. Good morning, Sir. My name is **Ankush Gupta**, and I’m from **Bhopal, Madhya Pradesh**.
-2. I completed my **12th** from *Prerna Kiran Public Higher Secondary School*. In my **10th and 12th**, I scored **81% and 83%** with the **Science stream**.
-3. My **father** is a **contractor**, and my **mother** is a **homemaker**.
-4. My **strengths** are that I am **self-motivated**, **disciplined**, and always **eager to learn new things**.
-5. I see myself as a **successful person** in the near future, and my **motto** is to **earn well and support my family**.
+My name is Ankush Gupta, and I'm from Bhopal, Madhya Pradesh.
 
-That’s all about me. Thank you. 🙏
+I passed my 10th and 12th from the MP Board. Recently, I completed my Bachelor of Computer Applications (BCA) from RKDF College, Bhopal.
+
+I have 10 months of experience as an Email Process Executive at TTBS – Technotask Business Solutions in Bhopal. My responsibilities included replying to customer emails, resolving customer queries, coordinating with internal teams, and providing good customer support through email.
+
+My father is a contractor, and my mother is a homemaker.
+
+My strengths are that I am self-motivated, disciplined, and always eager to learn new things.
+
+I see myself as a successful person in the near future, and my motto is to earn well and support my family.
+
+Thank you.
 
 ---
 
