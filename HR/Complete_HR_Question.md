@@ -18,6 +18,10 @@ I see myself as a successful person in the near future, and my motto is to earn 
 
 Thank you.
 
+
+
+I always think about my family because I want to give them a better life. Whenever I feel tired or demotivated, I remind myself why I started. That gives me the motivation to keep working hard and do better every day.
+
 ---
 
 **✅ 2) Why should we hire you?**
