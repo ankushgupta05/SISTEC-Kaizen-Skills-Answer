@@ -921,3 +921,25 @@ How often do you call your parents? (तुम कितनी बार अप�
 How often do you travel? (तुम कितनी बार यात्रा करते हो?)  
 
 ---
+The difference is:
+
+With whom → Used for people.
+
+With whom are you going?
+
+With whom did you speak?
+
+
+With which → Used for things, objects, or choices.
+
+With which pen did you write this?
+
+With which company are you interviewing? (less common in conversation)
+
+
+
+In everyday English, people usually say:
+
+Who are you going with? (instead of "With whom are you going?")
+
+Which company are you interviewing with? (more natural than "With which company...")
