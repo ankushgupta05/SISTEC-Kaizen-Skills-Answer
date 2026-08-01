@@ -139,3 +139,21 @@
 | **above** | ऊपर | The fan is **above** us. (पंखा हमारे ऊपर है।) | The picture is **above** the table. (तस्वीर मेज़ के ऊपर है।) | Temperatures are **above** 30°C. (तापमान 30°C से ऊपर है।) |
 | **even** | यहाँ तक कि | **Even** he agreed. (यहाँ तक कि वह भी मान गया।) | **Even** children know this. (यहाँ तक कि बच्चे भी यह जानते हैं।) | I don't **even** know her. (मैं उसे जानता तक नहीं हूँ।) |
 | **before** | पहले | Wash your hands **before** eating. (खाने से पहले हाथ धोओ।) | I met him **before** class. (मैं उससे क्लास से पहले मिला।) | Think **before** you speak. (बोलने से पहले सोचो।) |
+
+
+
+
+# Common English Words with Hindi Meaning & Daily-Life Examples
+
+| Word | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|------|--------------|-----------|-----------|-----------|
+| **Suddenly** | अचानक | It **suddenly** started raining. (अचानक बारिश शुरू हो गई।) | He **suddenly** stood up. (वह अचानक खड़ा हो गया।) | The lights went off **suddenly**. (अचानक लाइट चली गई।) |
+| **Immediately** | तुरंत | Call me **immediately**. (मुझे तुरंत कॉल करो।) | Please reply **immediately**. (कृपया तुरंत जवाब दें।) | The doctor came **immediately**. (डॉक्टर तुरंत आ गए।) |
+| **Recently** | हाल ही में | I **recently** changed my job. (मैंने हाल ही में नौकरी बदली है।) | She **recently** moved to Bengaluru. (वह हाल ही में बेंगलुरु आई है।) | We **recently** met. (हम हाल ही में मिले।) |
+| **Already** | पहले से ही | I have **already** eaten. (मैं पहले से ही खाना खा चुका हूँ।) | She has **already** left. (वह पहले से ही जा चुकी है।) | I **already** know the answer. (मुझे जवाब पहले से ही पता है।) |
+| **Otherwise** | वरना | Hurry up, **otherwise** you'll be late. (जल्दी करो, वरना देर हो जाएगी।) | Wear a helmet, **otherwise** it's unsafe. (हेलमेट पहनो, वरना सुरक्षित नहीं है।) | Finish your work, **otherwise** you'll miss the deadline. (काम पूरा करो, वरना समय निकल जाएगा।) |
+| **So** | इसलिए | I was tired, **so** I slept early. (मैं थका हुआ था, इसलिए जल्दी सो गया।) | It was raining, **so** we stayed home. (बारिश हो रही थी, इसलिए हम घर पर रहे।) | I was hungry, **so** I ordered food. (मुझे भूख लगी थी, इसलिए मैंने खाना मंगाया।) |
+| **Although** | हालाँकि | **Although** it was raining, we went out. (हालाँकि बारिश हो रही थी, फिर भी हम बाहर गए।) | **Although** he is young, he is very responsible. (हालाँकि वह युवा है, फिर भी बहुत जिम्मेदार है।) | **Although** I was busy, I helped him. (हालाँकि मैं व्यस्त था, फिर भी मैंने उसकी मदद की।) |
+| **Habit** | आदत | Reading is a good **habit**. (पढ़ना एक अच्छी आदत है।) | Smoking is a bad **habit**. (धूम्रपान एक बुरी आदत है।) | Make it a **habit** to exercise. (व्यायाम करने की आदत बनाओ।) |
+| **Opportunity** | मौका | This is a great **opportunity**. (यह एक शानदार मौका है।) | Don't miss this **opportunity**. (यह मौका मत गंवाओ।) | I got an **opportunity** to work abroad. (मुझे विदेश में काम करने का मौका मिला।) |
+| **Clever** | चालाक | She is very **clever**. (वह बहुत चालाक है।) | He gave a **clever** answer. (उसने एक चालाक जवाब दिया।) | Be **clever**, not careless. (चालाक बनो, लापरवाह नहीं।) |
