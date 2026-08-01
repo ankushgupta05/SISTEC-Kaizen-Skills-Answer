@@ -88,3 +88,31 @@
 | Add some **ginger** to the tea. | चाय में थोड़ा अदरक डालो। |
 | I don't eat **garlic**. | मैं लहसुन नहीं खाता। |
 | Add some **carom seeds** to the dough. | आटे में थोड़ा अजवाइन डालो। |
+
+
+
+
+# Reaction Words with 3 Daily-Life Examples
+
+| English Reaction | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|---|---|---|---|---|
+| That's amazing! | कमाल है! | You got the job? **That's amazing!** | You learned English so fast. **That's amazing!** | You finished the project in one day? **That's amazing!** |
+| Awesome! | ज़बरदस्त! | Your new bike is **awesome!** | The food is **awesome!** | Your idea is **awesome!** |
+| Incredible! | ग़ज़ब! | You ran 10 km? **Incredible!** | That's an **incredible** performance. | **Incredible!** I can't believe it. |
+| Really? | सच में? | **Really?** You met him? | **Really?** Is it true? | **Really?** You're leaving today? |
+| Wonderful! | वाह, क्या बात है! | Your singing is **wonderful!** | What a **wonderful** place! | You did a **wonderful** job. |
+| Excellent! | बहुत बढ़िया! | **Excellent!** Keep it up. | Your presentation was **excellent!** | You answered every question. **Excellent!** |
+| Fantastic! | मज़ेदार! | The movie was **fantastic!** | We had a **fantastic** trip. | The food tastes **fantastic!** |
+| Perfect! | बिल्कुल सही! | Your answer is **perfect!** | This dress is **perfect** for you. | The timing is **perfect!** |
+| Mind-blowing! | हैरान कर दिया! | The magic show was **mind-blowing!** | Your artwork is **mind-blowing!** | That view is **mind-blowing!** |
+| Outstanding! | लाजवाब! | Your work is **outstanding!** | She gave an **outstanding** speech. | His performance was **outstanding!** |
+| Superb! | वाह, कमाल! | Your cooking is **superb!** | The hotel service is **superb!** | Your English is **superb!** |
+| Fabulous! | झकास! | You look **fabulous!** | The party was **fabulous!** | What a **fabulous** idea! |
+| Impressive! | दिल जीत लिया! | Your confidence is **impressive!** | That's an **impressive** score. | Your work is **impressive!** |
+| Unbelievable! | विश्वास नहीं होता! | **Unbelievable!** You won? | That's **unbelievable!** | **Unbelievable!** It happened so quickly. |
+| Amazing! | मज़ा आ गया! | The concert was **amazing!** | Your dance was **amazing!** | We had an **amazing** weekend. |
+| Brilliant! | धमाकेदार! | **Brilliant!** That's a great idea. | You did a **brilliant** job. | Your solution is **brilliant!** |
+| Top class! | टॉप क्लास! | Your service is **top class!** | This restaurant is **top class!** | The quality is **top class!** |
+| Magnificent! | शानदार! | The palace is **magnificent!** | What a **magnificent** view! | The building looks **magnificent!** |
+| What a thing! | कमाल की चीज़ है! | **What a thing!** This phone is so fast. | **What a thing!** This car is beautiful. | **What a thing!** This watch looks premium. |
+| Remarkable! | उल्लेखनीय! | Your progress is **remarkable!** | That's a **remarkable** achievement. | She has done a **remarkable** job. |
