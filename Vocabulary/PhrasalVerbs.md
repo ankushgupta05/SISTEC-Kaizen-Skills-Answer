@@ -41,3 +41,50 @@
 - **Pick up** your keys. → अपनी चाबियाँ उठाओ।
 - **Put in** your PIN. → अपना PIN डालो।
 - **Put on** your seat belt. → अपनी सीट बेल्ट बाँध लो।
+
+
+
+
+# Common Spice Names (English - Hindi)
+
+| No. | Hindi | English | Pronunciation |
+|----:|--------|---------|---------------|
+| 1 | हल्दी | Turmeric | टर्मरिक |
+| 2 | जीरा | Cumin | क्यूमिन |
+| 3 | धनिया | Coriander | कॉरिएंडर |
+| 4 | लौंग | Clove | क्लोव |
+| 5 | इलायची | Cardamom | कार्डमम |
+| 6 | काली मिर्च | Black Pepper | ब्लैक पेपर |
+| 7 | लाल मिर्च | Red Chili | रेड चिली |
+| 8 | दालचीनी | Cinnamon | सिनेमन |
+| 9 | जायफल | Nutmeg | नटमेग |
+| 10 | हींग | Asafoetida | असाफेटिडा |
+| 11 | सौंफ | Fennel | फेनल |
+| 12 | मेथी | Fenugreek | फेन्यूग्रीक |
+| 13 | तेज पत्ता | Bay Leaf | बे लीफ |
+| 14 | कलौंजी | Nigella Seeds | नाइजेला सीड्स |
+| 15 | केसर | Saffron | सैफ्रन |
+| 16 | अदरक | Ginger | जिंजर |
+| 17 | लहसुन | Garlic | गार्लिक |
+| 18 | अजवाइन | Carom Seeds | कैरम सीड्स |
+
+## Daily-Life Examples
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| Add some **turmeric** to the curry. | सब्ज़ी में थोड़ी हल्दी डालो। |
+| We need more **cumin**. | हमें और जीरे की ज़रूरत है। |
+| Sprinkle some **coriander** on the food. | खाने पर थोड़ा धनिया डालो। |
+| Add two **cloves** to the tea. | चाय में दो लौंग डालो। |
+| This dessert contains **cardamom**. | इस मिठाई में इलायची है। |
+| I like **black pepper** in my soup. | मुझे सूप में काली मिर्च पसंद है। |
+| Don't add too much **red chili**. | ज़्यादा लाल मिर्च मत डालो। |
+| **Cinnamon** gives a nice flavor. | दालचीनी अच्छा स्वाद देती है। |
+| Add a pinch of **asafoetida**. | एक चुटकी हींग डालो। |
+| I drink **fennel** water every morning. | मैं हर सुबह सौंफ का पानी पीता हूँ। |
+| **Fenugreek** is good for health. | मेथी स्वास्थ्य के लिए अच्छी होती है। |
+| Put a **bay leaf** in the rice. | चावल में एक तेज पत्ता डालो। |
+| **Saffron** is expensive. | केसर महँगा होता है। |
+| Add some **ginger** to the tea. | चाय में थोड़ा अदरक डालो। |
+| I don't eat **garlic**. | मैं लहसुन नहीं खाता। |
+| Add some **carom seeds** to the dough. | आटे में थोड़ा अजवाइन डालो। |
