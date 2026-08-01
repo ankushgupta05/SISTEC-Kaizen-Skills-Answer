@@ -116,3 +116,26 @@
 | Magnificent! | शानदार! | The palace is **magnificent!** | What a **magnificent** view! | The building looks **magnificent!** |
 | What a thing! | कमाल की चीज़ है! | **What a thing!** This phone is so fast. | **What a thing!** This car is beautiful. | **What a thing!** This watch looks premium. |
 | Remarkable! | उल्लेखनीय! | Your progress is **remarkable!** | That's a **remarkable** achievement. | She has done a **remarkable** job. |
+
+# Common English Words with Hindi Meaning & Daily-Life Examples
+
+| Word | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|------|--------------|-----------|-----------|-----------|
+| **almost** | लगभग | I'm **almost** ready. (मैं लगभग तैयार हूँ।) | It's **almost** 8 o'clock. (लगभग 8 बजे हैं।) | I **almost** missed the bus. (मैं बस लगभग छोड़ ही देता।) |
+| **as** | जैसा / जैसे | Do **as** I say. (जैसा मैं कहूँ वैसा करो।) | She is **as** tall as me. (वह मेरी जितनी लंबी है।) | It works **as** expected. (यह उम्मीद के अनुसार काम करता है।) |
+| **only** | केवल | I have **only** ₹100. (मेरे पास केवल ₹100 हैं।) | **Only** you can help me. (केवल तुम मेरी मदद कर सकते हो।) | This shop accepts cash **only**. (यह दुकान केवल नकद लेती है।) |
+| **tonight** | आज रात | I'll call you **tonight**. (मैं तुम्हें आज रात कॉल करूँगा।) | We're going out **tonight**. (हम आज रात बाहर जा रहे हैं।) | See you **tonight**. (आज रात मिलते हैं।) |
+| **meanwhile** | इस बीच | I'll cook; **meanwhile**, set the table. (इस बीच मेज़ लगा दो।) | **Meanwhile**, finish your work. (इस बीच अपना काम पूरा करो।) | Wait here. **Meanwhile**, I'll check. (यहीं रुको, इस बीच मैं देखता हूँ।) |
+| **nowhere** | कहीं नहीं | I found it **nowhere**. (मुझे यह कहीं नहीं मिला।) | He is **nowhere** to be seen. (वह कहीं दिखाई नहीं दे रहा।) | There's **nowhere** to sit. (बैठने की कहीं जगह नहीं है।) |
+| **altogether** | कुल मिलाकर | **Altogether**, it was a good day. (कुल मिलाकर दिन अच्छा था।) | We have 20 people **altogether**. (कुल मिलाकर 20 लोग हैं।) | **Altogether**, I'm happy. (कुल मिलाकर मैं खुश हूँ।) |
+| **alike** | एक जैसा | The twins look **alike**. (जुड़वाँ बच्चे एक जैसे दिखते हैं।) | They think **alike**. (वे एक जैसा सोचते हैं।) | These shirts are **alike**. (ये शर्ट एक जैसी हैं।) |
+| **usually** | आम तौर पर | I **usually** wake up at 6. (मैं आम तौर पर 6 बजे उठता हूँ।) | She **usually** drinks tea. (वह आम तौर पर चाय पीती है।) | We **usually** eat together. (हम आम तौर पर साथ खाते हैं।) |
+| **rarely** | बहुत कम / शायद ही कभी | I **rarely** eat junk food. (मैं बहुत कम जंक फूड खाता हूँ।) | He **rarely** gets angry. (उसे बहुत कम गुस्सा आता है।) | We **rarely** watch TV. (हम बहुत कम टीवी देखते हैं।) |
+| **actually** | असल में | **Actually**, I was busy. (असल में मैं व्यस्त था।) | **Actually**, he's my cousin. (असल में वह मेरा चचेरा भाई है।) | **Actually**, I don't know. (असल में मुझे नहीं पता।) |
+| **easily** | आसानी से | I solved it **easily**. (मैंने इसे आसानी से हल किया।) | You can **easily** do it. (तुम इसे आसानी से कर सकते हो।) | She **easily** passed the exam. (वह आसानी से परीक्षा पास कर गई।) |
+| **hardly** | मुश्किल से | I **hardly** slept. (मैं मुश्किल से सो पाया।) | We **hardly** know each other. (हम एक-दूसरे को मुश्किल से जानते हैं।) | He **hardly** speaks. (वह मुश्किल से बोलता है।) |
+| **quickly** | जल्दी | Finish it **quickly**. (इसे जल्दी पूरा करो।) | She walks **quickly**. (वह जल्दी चलती है।) | Come **quickly**. (जल्दी आओ।) |
+| **slowly** | धीरे | Walk **slowly**. (धीरे चलो।) | Speak **slowly**. (धीरे बोलो।) | Drive **slowly**. (धीरे गाड़ी चलाओ।) |
+| **above** | ऊपर | The fan is **above** us. (पंखा हमारे ऊपर है।) | The picture is **above** the table. (तस्वीर मेज़ के ऊपर है।) | Temperatures are **above** 30°C. (तापमान 30°C से ऊपर है।) |
+| **even** | यहाँ तक कि | **Even** he agreed. (यहाँ तक कि वह भी मान गया।) | **Even** children know this. (यहाँ तक कि बच्चे भी यह जानते हैं।) | I don't **even** know her. (मैं उसे जानता तक नहीं हूँ।) |
+| **before** | पहले | Wash your hands **before** eating. (खाने से पहले हाथ धोओ।) | I met him **before** class. (मैं उससे क्लास से पहले मिला।) | Think **before** you speak. (बोलने से पहले सोचो।) |
