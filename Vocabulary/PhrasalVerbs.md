@@ -249,3 +249,20 @@
 | **Put away** | वापस रखना | **Put away** your books. (अपनी किताबें वापस रख दो।) | **Put away** the toys. (खिलौने वापस रख दो।) | **Put away** your clothes after folding them. (कपड़े मोड़कर वापस रख दो।) |
 | | बचाकर रखना (पैसे) | I **put away** ₹500 every month. (मैं हर महीने ₹500 बचाता हूँ।) | She **puts away** money for emergencies. (वह आपातकाल के लिए पैसे बचाती है।) | We are **putting away** money for a new bike. (हम नई बाइक के लिए पैसे बचा रहे हैं।) |
 | | खाना खत्म करना (अनौपचारिक) | He **put away** two burgers. (उसने दो बर्गर खत्म कर दिए।) | She **put away** a whole pizza. (उसने पूरी पिज़्ज़ा खत्म कर दी।) | The kids **put away** all the snacks. (बच्चों ने सारे स्नैक्स खत्म कर दिए।) |
+
+
+# Food & Water Quality – Daily Life Sentences
+
+| Word / Phrase | Meaning (Hindi) | Example 1 | Example 2 | Example 3 |
+|---|---|---|---|---|
+| **The water is contaminated.** | पानी दूषित/प्रदूषित है। | The water is contaminated. Don't drink it. (पानी दूषित है। इसे मत पियो।) | The river water is contaminated. (नदी का पानी दूषित है।) | The tap water became contaminated after the flood. (बाढ़ के बाद नल का पानी दूषित हो गया।) |
+| **The water is dirty.** | पानी गंदा है। | The water is dirty. (पानी गंदा है।) | Don't drink dirty water. (गंदा पानी मत पियो।) | This bucket has dirty water. (इस बाल्टी में गंदा पानी है।) |
+| **The water is not clean.** | पानी साफ़ नहीं है। | This water is not clean. (यह पानी साफ़ नहीं है।) | The water doesn't look clean. (पानी साफ़ नहीं लग रहा।) | Please bring clean water. (कृपया साफ़ पानी लाओ।) |
+| **The water is contaminated.** | पानी दूषित है। | The water may be contaminated. (पानी दूषित हो सकता है।) | Contaminated water can make you sick. (दूषित पानी आपको बीमार कर सकता है।) | Don't use contaminated water. (दूषित पानी का उपयोग मत करो।) |
+| **The water has been sipped.** *(or)* **Someone has already drunk from this water.** | पानी जूठा है। | **Someone has already drunk from this bottle.** (इस बोतल से कोई पहले ही पी चुका है।) | **This water has been sipped.** (यह पानी जूठा है।) | **I don't drink water that someone else has drunk from.** (मैं किसी और का जूठा पानी नहीं पीता।) |
+| **The food has gone bad.** | खाना खराब हो गया है। | The food has gone bad. Throw it away. (खाना खराब हो गया है। इसे फेंक दो।) | The milk has gone bad. (दूध खराब हो गया है।) | The curry has gone bad. (सब्ज़ी खराब हो गई है।) |
+| **The food is spoiled.** | खाना सड़/खराब गया है। | The food is spoiled. (खाना खराब है।) | The meat is spoiled. (मांस खराब है।) | Don't eat spoiled food. (खराब खाना मत खाओ।) |
+| **The food is stale.** | खाना बासी है। | The bread is stale. (ब्रेड बासी है।) | This rice is stale. (यह चावल बासी है।) | I don't like stale food. (मुझे बासी खाना पसंद नहीं है।) |
+| **The milk is sour.** | दूध खट्टा हो गया है। | The milk is sour. (दूध खट्टा है।) | Don't drink the sour milk. (खट्टा दूध मत पियो।) | The milk turned sour overnight. (दूध रातभर में खट्टा हो गया।) |
+| **The food smells bad.** | खाने से बदबू आ रही है। | The food smells bad. (खाने से बदबू आ रही है।) | This fish smells bad. (इस मछली से बदबू आ रही है।) | If it smells bad, don't eat it. (अगर बदबू आ रही है, तो मत खाओ।) |
+| **The food is fresh.** | खाना ताज़ा है। | The food is fresh. (खाना ताज़ा है।) | These vegetables are fresh. (ये सब्ज़ियाँ ताज़ी हैं।) | I always prefer fresh food. (मैं हमेशा ताज़ा खाना पसंद करता हूँ।) |
