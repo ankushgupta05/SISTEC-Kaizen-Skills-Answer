@@ -266,3 +266,82 @@
 | **The milk is sour.** | दूध खट्टा हो गया है। | The milk is sour. (दूध खट्टा है।) | Don't drink the sour milk. (खट्टा दूध मत पियो।) | The milk turned sour overnight. (दूध रातभर में खट्टा हो गया।) |
 | **The food smells bad.** | खाने से बदबू आ रही है। | The food smells bad. (खाने से बदबू आ रही है।) | This fish smells bad. (इस मछली से बदबू आ रही है।) | If it smells bad, don't eat it. (अगर बदबू आ रही है, तो मत खाओ।) |
 | **The food is fresh.** | खाना ताज़ा है। | The food is fresh. (खाना ताज़ा है।) | These vegetables are fresh. (ये सब्ज़ियाँ ताज़ी हैं।) | I always prefer fresh food. (मैं हमेशा ताज़ा खाना पसंद करता हूँ।) |
+
+
+
+
+
+
+
+# Legend – Meanings, Hindi, and Daily-Life Examples
+
+## Meaning of **Legend**
+
+| Meaning | Hindi | English Example | Hindi Meaning |
+|---|---|---|---|
+| A very famous and respected person | दिग्गज, महान व्यक्ति | Sachin Tendulkar is a cricket **legend**. | सचिन तेंदुलकर क्रिकेट के दिग्गज हैं। |
+| Someone who does something amazing (informal/slang) | कमाल का इंसान, लाजवाब व्यक्ति | You're a **legend** for helping me. | मेरी मदद करके तुम कमाल के इंसान हो। |
+| An old traditional story | किंवदंती, लोककथा | This is an ancient **legend**. | यह एक प्राचीन किंवदंती है। |
+| The key on a map or chart | संकेत सूची | Read the map **legend** first. | पहले नक्शे की संकेत सूची पढ़ो। |
+
+---
+
+# "Brother to legend nikla" – Meaning
+
+> **Brother to legend nikla.**
+
+### Natural Hindi Meanings
+- भाई तो कमाल का निकला।
+- भाई तो दिग्गज निकला।
+- भाई अलग ही लेवल का निकला।
+- भाई ने तो गज़ब कर दिया।
+- भाई तो उम्मीद से भी बेहतर निकला।
+
+> This is **internet slang**. People say it when someone unexpectedly does something impressive.
+
+---
+
+# Daily-Life Examples
+
+| English Sentence | Hindi Meaning |
+|---|---|
+| Bro, you're a legend! | भाई, तुम तो कमाल हो! |
+| He's a legend. | वह तो कमाल का इंसान है। |
+| What a legend! | क्या कमाल का इंसान है! |
+| You're an absolute legend! | तुम तो सच में कमाल हो! |
+| She's a legend for helping everyone. | सबकी मदद करने के लिए वह कमाल की इंसान है। |
+| You fixed my laptop in five minutes. You're a legend! | तुमने 5 मिनट में मेरा लैपटॉप ठीक कर दिया। तुम तो कमाल हो! |
+| He paid for everyone's dinner. What a legend! | उसने सबका डिनर भर दिया। क्या कमाल का इंसान है! |
+| She found my lost phone. She's a legend! | उसने मेरा खोया हुआ फोन ढूँढ लिया। वह कमाल की इंसान है! |
+| You stayed late to help me. You're a legend! | तुम मेरी मदद के लिए देर तक रुके। तुम तो कमाल हो! |
+| He solved the problem in one minute. He's a legend! | उसने एक मिनट में समस्या हल कर दी। वह कमाल का इंसान है! |
+
+---
+
+# Common Internet Slang
+
+| English | Hindi Meaning | Example |
+|---|---|---|
+| Bro is a legend. | भाई तो कमाल का है। | Bro is a legend for helping everyone. |
+| What a legend! | क्या कमाल का इंसान है! | He returned the lost wallet. What a legend! |
+| Absolute legend! | बिल्कुल कमाल! | You saved the project. Absolute legend! |
+| You're a legend. | तुम कमाल हो। | Thanks for your help. You're a legend! |
+| Living legend. | जीवित दिग्गज | He is a living legend in music. |
+| Local legend. | स्थानीय दिग्गज/मशहूर व्यक्ति | Everyone knows him. He's a local legend. |
+
+---
+
+# Similar Expressions
+
+| English | Hindi |
+|---|---|
+| You're amazing! | तुम कमाल हो! |
+| You're awesome! | तुम ज़बरदस्त हो! |
+| You're incredible! | तुम गज़ब हो! |
+| You're the best! | तुम सबसे बेहतरीन हो! |
+| You nailed it! | तुमने कमाल कर दिया! |
+| You're a lifesaver! | तुमने मेरी बड़ी मदद कर दी! |
+| You're something else! | तुम अलग ही लेवल के हो! |
+| You outdid yourself! | इस बार तुमने खुद को भी पीछे छोड़ दिया! |
+| I'm impressed! | मैं प्रभावित हूँ! |
+| That was brilliant! | वह कमाल था! |
