@@ -234,3 +234,18 @@
 
 - **The meeting is being recorded.**  
   **मीटिंग रिकॉर्ड की जा रही है।**
+
+
+
+# Phrasal Verbs: Put On & Put Away
+
+| Phrasal Verb | Meaning (Hindi) | Example 1 | Example 2 | Example 3 |
+|--------------|-----------------|-----------|-----------|-----------|
+| **Put on** | पहनना | **Put on** your shoes. (अपने जूते पहन लो।) | **Put on** your jacket. (अपनी जैकेट पहन लो।) | **Put on** your helmet before riding. (बाइक चलाने से पहले हेलमेट पहन लो।) |
+| | चालू करना | **Put on** the TV. (टीवी चालू करो।) | **Put on** the fan. (पंखा चालू करो।) | **Put on** some music. (थोड़ा संगीत चला दो।) |
+| | लगाना (क्रीम/मेकअप आदि) | **Put on** some sunscreen. (थोड़ा सनस्क्रीन लगा लो।) | **Put on** some lotion. (थोड़ा लोशन लगा लो।) | **Put on** your perfume. (अपना परफ्यूम लगा लो।) |
+| | वजन बढ़ना | I have **put on** 3 kg. (मेरा 3 किलो वजन बढ़ गया है।) | He has **put on** some weight. (उसका थोड़ा वजन बढ़ गया है।) | She **put on** weight during the holidays. (छुट्टियों में उसका वजन बढ़ गया।) |
+| | आयोजन करना | They are **putting on** a show. (वे एक शो आयोजित कर रहे हैं।) | The school **put on** a play. (स्कूल ने एक नाटक आयोजित किया।) | They **put on** a concert. (उन्होंने एक कॉन्सर्ट आयोजित किया।) |
+| **Put away** | वापस रखना | **Put away** your books. (अपनी किताबें वापस रख दो।) | **Put away** the toys. (खिलौने वापस रख दो।) | **Put away** your clothes after folding them. (कपड़े मोड़कर वापस रख दो।) |
+| | बचाकर रखना (पैसे) | I **put away** ₹500 every month. (मैं हर महीने ₹500 बचाता हूँ।) | She **puts away** money for emergencies. (वह आपातकाल के लिए पैसे बचाती है।) | We are **putting away** money for a new bike. (हम नई बाइक के लिए पैसे बचा रहे हैं।) |
+| | खाना खत्म करना (अनौपचारिक) | He **put away** two burgers. (उसने दो बर्गर खत्म कर दिए।) | She **put away** a whole pizza. (उसने पूरी पिज़्ज़ा खत्म कर दी।) | The kids **put away** all the snacks. (बच्चों ने सारे स्नैक्स खत्म कर दिए।) |
