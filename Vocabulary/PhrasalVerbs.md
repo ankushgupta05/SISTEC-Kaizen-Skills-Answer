@@ -157,3 +157,80 @@
 | **Habit** | आदत | Reading is a good **habit**. (पढ़ना एक अच्छी आदत है।) | Smoking is a bad **habit**. (धूम्रपान एक बुरी आदत है।) | Make it a **habit** to exercise. (व्यायाम करने की आदत बनाओ।) |
 | **Opportunity** | मौका | This is a great **opportunity**. (यह एक शानदार मौका है।) | Don't miss this **opportunity**. (यह मौका मत गंवाओ।) | I got an **opportunity** to work abroad. (मुझे विदेश में काम करने का मौका मिला।) |
 | **Clever** | चालाक | She is very **clever**. (वह बहुत चालाक है।) | He gave a **clever** answer. (उसने एक चालाक जवाब दिया।) | Be **clever**, not careless. (चालाक बनो, लापरवाह नहीं।) |
+
+
+
+
+
+# Being – Daily Life Examples
+
+## 1. Being = "होने के कारण" (Reason)
+
+**Formula:**
+> Being + adjective/noun, + main clause
+
+| English | Hindi |
+|---------|--------|
+| Being tired, I went to bed early. | थका होने के कारण, मैं जल्दी सो गया। |
+| Being late, I took a taxi. | देर होने के कारण, मैंने टैक्सी ली। |
+| Being hungry, I ordered food. | भूख लगने के कारण, मैंने खाना ऑर्डर किया। |
+
+---
+
+## 2. Is/Am/Are being + Adjective
+**Meaning:** इस समय ऐसा व्यवहार करना / अभी ऐसा होना
+
+**Formula:**
+> Subject + is/am/are + being + adjective
+
+| English | Hindi |
+|---------|--------|
+| He is being rude. | वह इस समय बदतमीज़ी कर रहा है। |
+| She is being very helpful. | वह इस समय बहुत मददगार है। |
+| Why are you being so quiet? | तुम आज इतने चुप क्यों हो? |
+
+---
+
+## 3. Is/Am/Are being + Past Participle (Passive Voice)
+**Meaning:** कोई काम किया जा रहा है
+
+**Formula:**
+> Subject + is/am/are + being + V³
+
+| English | Hindi |
+|---------|--------|
+| The room is being cleaned. | कमरे की सफाई की जा रही है। |
+| The food is being prepared. | खाना तैयार किया जा रहा है। |
+| The documents are being checked. | दस्तावेज़ों की जाँच की जा रही है। |
+
+---
+
+# Quick Revision
+
+| Pattern | Meaning | Example |
+|---------|---------|---------|
+| Being + adjective | होने के कारण | Being tired, I slept early. |
+| Is/Am/Are being + adjective | इस समय ऐसा व्यवहार करना | He is being rude. |
+| Is/Am/Are being + V³ | कोई काम किया जा रहा है | The room is being cleaned. |
+
+---
+
+# Daily Conversation Examples
+
+- **Are you being serious?**  
+  **क्या तुम सच में गंभीर हो?**
+
+- **Stop being lazy.**  
+  **आलसी होना बंद करो।**
+
+- **Thank you for being kind.**  
+  **दयालु होने के लिए धन्यवाद।**
+
+- **He's being nice to everyone today.**  
+  **वह आज सबके साथ अच्छा व्यवहार कर रहा है।**
+
+- **I'm being careful while driving.**  
+  **मैं गाड़ी चलाते समय सावधानी बरत रहा हूँ।**
+
+- **The meeting is being recorded.**  
+  **मीटिंग रिकॉर्ड की जा रही है।**
