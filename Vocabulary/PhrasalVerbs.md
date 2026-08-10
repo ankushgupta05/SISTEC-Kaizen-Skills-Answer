@@ -410,3 +410,67 @@
 | I didn't waste any time. | मैंने बिल्कुल समय बर्बाद नहीं किया। |
 | I walked fast to save time. | समय बचाने के लिए मैं तेज चला। |
 | I reached the office feeling exhausted. | मैं थका हुआ ऑफिस पहुँचा। |
+
+
+
+
+
+
+# "Did you have lunch?" – Daily Life Examples
+
+| Situation | English Sentence | Hindi Meaning |
+|-----------|------------------|---------------|
+| Asking someone | Have you had lunch? | क्या तुमने/आपने लंच कर लिया है? |
+| Asking (past) | Did you have lunch? | क्या तुमने/आपने लंच किया? |
+| Casual | Did you eat lunch? | क्या तुमने लंच खाया? |
+| Asking if not yet | Have you eaten yet? | क्या तुमने अभी तक खाना खाया है? |
+
+## Positive Answers
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| Yes, I had lunch. | हाँ, मैंने लंच किया। |
+| Yes, I've had lunch. | हाँ, मैंने लंच कर लिया है। |
+| Yes, I already had lunch. | हाँ, मैं पहले ही लंच कर चुका हूँ। |
+| Yes, I just had lunch. | हाँ, मैंने अभी-अभी लंच किया है। |
+| Yes, I had lunch with my colleagues. | हाँ, मैंने अपने सहकर्मियों के साथ लंच किया। |
+| Yes, I had lunch at my PG. | हाँ, मैंने अपने पीजी में लंच किया। |
+| Yes, I had rice and dal for lunch. | हाँ, मैंने लंच में दाल और चावल खाए। |
+| Yes, I finished my lunch quickly. | हाँ, मैंने जल्दी-जल्दी लंच खत्म किया। |
+
+## Negative Answers
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| No, I haven't had lunch yet. | नहीं, मैंने अभी तक लंच नहीं किया है। |
+| No, I didn't have lunch today. | नहीं, मैंने आज लंच नहीं किया। |
+| I'm about to have lunch. | मैं अभी लंच करने वाला हूँ। |
+| I'll have lunch later. | मैं बाद में लंच करूँगा। |
+| I skipped lunch today. | मैंने आज लंच छोड़ दिया। |
+| I don't feel like having lunch. | मेरा लंच करने का मन नहीं है। |
+
+## Follow-up Questions
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| What did you have for lunch? | तुमने लंच में क्या खाया? |
+| Where did you have lunch? | तुमने लंच कहाँ किया? |
+| Who did you have lunch with? | तुमने किसके साथ लंच किया? |
+| When did you have lunch? | तुमने लंच कब किया? |
+| Was the food good? | क्या खाना अच्छा था? |
+| Was the food hot? | क्या खाना गरम था? |
+| Did you enjoy your lunch? | क्या तुम्हें लंच अच्छा लगा? |
+
+## Office Conversation
+
+| English | Hindi |
+|---------|--------|
+| Have you had lunch? | क्या तुमने लंच कर लिया है? |
+| Yes, I just had lunch. | हाँ, मैंने अभी-अभी लंच किया है। |
+| What did you have? | तुमने क्या खाया? |
+| I had rice and dal. | मैंने दाल और चावल खाए। |
+| Was the food good? | क्या खाना अच्छा था? |
+| Yes, but it was very hot. | हाँ, लेकिन बहुत गरम था। |
+| I rushed back to the office after lunch. | मैं लंच के बाद जल्दी-जल्दी ऑफिस वापस आया। |
+| I was completely drenched in sweat. | मैं पूरी तरह पसीने से भीग गया था। |
+| My shirt smelled of sweat. | मेरी शर्ट से पसीने की बदबू आ रही थी। |
