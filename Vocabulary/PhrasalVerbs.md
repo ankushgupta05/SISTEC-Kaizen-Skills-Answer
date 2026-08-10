@@ -345,3 +345,68 @@
 | You outdid yourself! | इस बार तुमने खुद को भी पीछे छोड़ दिया! |
 | I'm impressed! | मैं प्रभावित हूँ! |
 | That was brilliant! | वह कमाल था! |
+
+
+
+
+
+
+# Daily Life Sentences - "Sweat", "Rush", "Hot Food" (with Hindi)
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| I was completely drenched in sweat. | मैं पूरी तरह पसीने से भीग गया था। |
+| My shirt smelled of sweat. | मेरी शर्ट से पसीने की बदबू आ रही थी। |
+| I was sweating a lot. | मुझे बहुत पसीना आ रहा था। |
+| I was soaked in sweat after walking. | चलने के बाद मैं पसीने से तर हो गया था। |
+| I got sweaty because I was in a hurry. | जल्दी की वजह से मुझे बहुत पसीना आ गया। |
+| My T-shirt became wet with sweat. | मेरी टी-शर्ट पसीने से गीली हो गई। |
+| I need to change my shirt because it's sweaty. | मुझे अपनी शर्ट बदलनी चाहिए क्योंकि वह पसीने से भीग गई है। |
+| I could smell sweat on my shirt. | मुझे अपनी शर्ट से पसीने की बदबू आ रही थी। |
+| My face was covered in sweat. | मेरा चेहरा पसीने से भर गया था। |
+| I was out of breath and sweating. | मेरी सांस फूल गई थी और मुझे पसीना आ रहा था। |
+
+## Rush / Hurry
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| I rushed back to the office. | मैं जल्दी-जल्दी ऑफिस वापस गया। |
+| I rushed home for lunch. | मैं लंच के लिए जल्दी घर गया। |
+| I was in a hurry. | मैं जल्दी में था। |
+| Don't rush. | जल्दी मत करो। |
+| I hurried to catch the bus. | मैं बस पकड़ने के लिए जल्दी गया। |
+| I left in a hurry. | मैं जल्दी में निकल गया। |
+| I rushed because I was getting late. | मैं जल्दी कर रहा था क्योंकि मुझे देर हो रही थी। |
+| We rushed to finish our work. | हमने अपना काम जल्दी खत्म किया। |
+| She rushed to the hospital. | वह जल्दी से अस्पताल गई। |
+| He rushed into the meeting room. | वह जल्दी से मीटिंग रूम में गया। |
+
+## Hot Food
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| The food was very hot. | खाना बहुत गरम था। |
+| The rice was piping hot. | चावल बहुत गरम थे। |
+| The dal was still hot. | दाल अभी भी गरम थी। |
+| I ate the food while it was hot. | मैंने खाना गरम-गरम खाया। |
+| The food burned my tongue. | गरम खाने से मेरी जीभ जल गई। |
+| Please let the food cool down. | कृपया खाने को थोड़ा ठंडा होने दें। |
+| I couldn't eat because it was too hot. | मैं नहीं खा पाया क्योंकि खाना बहुत गरम था। |
+| The tea is too hot to drink. | चाय पीने के लिए बहुत गरम है। |
+| Be careful, the soup is hot. | सावधान रहो, सूप गरम है। |
+| I like eating hot food. | मुझे गरम खाना पसंद है। |
+
+## Office & Lunch
+
+| English Sentence | Hindi Meaning |
+|------------------|---------------|
+| I left the office for lunch. | मैं लंच के लिए ऑफिस से निकला। |
+| I reached my PG quickly. | मैं जल्दी अपने पीजी पहुँच गया। |
+| I had my lunch and came back. | मैंने लंच किया और वापस आ गया। |
+| I reached the office on time. | मैं समय पर ऑफिस पहुँच गया। |
+| I almost got late. | मैं लगभग देर से पहुँचा। |
+| I finished my lunch in a hurry. | मैंने जल्दी-जल्दी लंच खत्म किया। |
+| I came back immediately after lunch. | मैं लंच के तुरंत बाद वापस आ गया। |
+| I didn't waste any time. | मैंने बिल्कुल समय बर्बाद नहीं किया। |
+| I walked fast to save time. | समय बचाने के लिए मैं तेज चला। |
+| I reached the office feeling exhausted. | मैं थका हुआ ऑफिस पहुँचा। |
