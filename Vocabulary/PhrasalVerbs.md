@@ -537,64 +537,17 @@
 | She isn't about to apologize. | वह अभी माफी मांगने वाली नहीं है। |
 | They aren't about to start. | वे अभी शुरू करने वाले नहीं हैं। |
 
+ 
 
 
 
-# "I am about to..." = मैं अभी... वाला हूँ / बस... करने वाला हूँ
-
-## Meaning
-
-**"About to"** is used when something is going to happen **very soon** (in a few seconds or minutes).
-
-**Structure:**
-
-**Subject + am/is/are + about to + Verb (V1)**
-
----
-
-## Daily Life Examples
+# "Sacrifices himself for ice cream"
 
 | English Sentence | Hindi Meaning |
-|------------------|---------------|
-| I am about to have lunch. | मैं अभी लंच करने वाला हूँ। |
-| I am about to eat. | मैं अभी खाने वाला हूँ। |
-| I am about to leave. | मैं अभी निकलने वाला हूँ। |
-| I am about to go home. | मैं अभी घर जाने वाला हूँ। |
-| I am about to reach the office. | मैं अभी ऑफिस पहुँचने वाला हूँ। |
-| I am about to start my work. | मैं अभी अपना काम शुरू करने वाला हूँ। |
-| I am about to finish my work. | मैं अभी अपना काम खत्म करने वाला हूँ। |
-| I am about to make a call. | मैं अभी कॉल करने वाला हूँ। |
-| I am about to answer the phone. | मैं अभी फोन उठाने वाला हूँ। |
-| I am about to send the email. | मैं अभी ईमेल भेजने वाला हूँ। |
-| I am about to attend the meeting. | मैं अभी मीटिंग में शामिल होने वाला हूँ। |
-| I am about to catch the bus. | मैं अभी बस पकड़ने वाला हूँ। |
-| I am about to board the train. | मैं अभी ट्रेन में चढ़ने वाला हूँ। |
-| I am about to take a shower. | मैं अभी नहाने वाला हूँ। |
-| I am about to sleep. | मैं अभी सोने वाला हूँ। |
-| I am about to wake him up. | मैं अभी उसे जगाने वाला हूँ। |
-| I am about to study. | मैं अभी पढ़ने वाला हूँ। |
-| I am about to watch a movie. | मैं अभी फिल्म देखने वाला हूँ। |
-| I am about to cook dinner. | मैं अभी रात का खाना बनाने वाला हूँ। |
-| I am about to order food. | मैं अभी खाना ऑर्डर करने वाला हूँ। |
-
----
-
-## Questions
-
-| English Sentence | Hindi Meaning |
-|------------------|---------------|
-| Are you about to leave? | क्या तुम अभी निकलने वाले हो? |
-| Are you about to have lunch? | क्या तुम अभी लंच करने वाले हो? |
-| Is she about to cry? | क्या वह अभी रोने वाली है? |
-| Are they about to arrive? | क्या वे अभी पहुँचने वाले हैं? |
-
----
-
-## Negative Sentences
-
-| English Sentence | Hindi Meaning |
-|------------------|---------------|
-| I am not about to leave. | मैं अभी निकलने वाला नहीं हूँ। |
-| I am not about to give up. | मैं अभी हार मानने वाला नहीं हूँ। |
-| She isn't about to apologize. | वह अभी माफी मांगने वाली नहीं है। |
-| They aren't about to start. | वे अभी शुरू करने वाले नहीं हैं। |
+|---|---|
+| He sacrifices himself for ice cream. | वह आइसक्रीम के लिए कुछ भी करने को तैयार है। |
+| She would sacrifice anything for chocolate. | वह चॉकलेट के लिए कुछ भी छोड़ सकती है। |
+| He sacrificed his weekend to finish the project. | उसने प्रोजेक्ट पूरा करने के लिए अपना वीकेंड कुर्बान कर दिया। |
+| Parents sacrifice a lot for their children. | माता-पिता अपने बच्चों के लिए बहुत त्याग करते हैं। |
+| I sacrificed my sleep to study for the exam. | मैंने परीक्षा की तैयारी के लिए अपनी नींद की कुर्बानी दी। |
+| He sacrificed his comfort to help his friend. | उसने अपने दोस्त की मदद के लिए अपना आराम छोड़ दिया। |
