@@ -551,3 +551,138 @@
 | Parents sacrifice a lot for their children. | माता-पिता अपने बच्चों के लिए बहुत त्याग करते हैं। |
 | I sacrificed my sleep to study for the exam. | मैंने परीक्षा की तैयारी के लिए अपनी नींद की कुर्बानी दी। |
 | He sacrificed his comfort to help his friend. | उसने अपने दोस्त की मदद के लिए अपना आराम छोड़ दिया। |
+
+
+
+
+# Has Been vs Have Been vs Had Been
+
+| Structure | Hindi Meaning | Used With | Time |
+|-----------|---------------|-----------|------|
+| **Has been** | रहा है / रही है / हो चुका है | He, She, It, Name | Present |
+| **Have been** | रहा हूँ / रहे हैं / रही हैं | I, You, We, They | Present |
+| **Had been** | रहा था / रही थी / रहे थे / हो चुका था | All Subjects | Past |
+
+---
+
+# 1. HAS BEEN
+
+## Formula
+
+```text
+Subject (He/She/It/Name) + has been + Adjective
+Subject (He/She/It/Name) + has been + V-ing
+Subject (He/She/It/Name) + has been + V³
+```
+
+### A. Has been + Adjective
+
+| English | Hindi |
+|---------|--------|
+| He has been busy all day. | वह पूरे दिन व्यस्त रहा है। |
+| She has been sick since Monday. | वह सोमवार से बीमार है। |
+| My phone has been slow lately. | मेरा फोन आजकल धीमा चल रहा है। |
+
+### B. Has been + V-ing
+
+| English | Hindi |
+|---------|--------|
+| He has been studying for two hours. | वह दो घंटे से पढ़ रहा है। |
+| She has been cooking since morning. | वह सुबह से खाना बना रही है। |
+| It has been raining all day. | पूरे दिन बारिश हो रही है। |
+
+### C. Has been + V³ (Passive)
+
+| English | Hindi |
+|---------|--------|
+| The work has been completed. | काम पूरा हो चुका है। |
+| The room has been cleaned. | कमरे की सफाई हो चुकी है। |
+| The parcel has been delivered. | पार्सल पहुँचाया जा चुका है। |
+
+---
+
+# 2. HAVE BEEN
+
+## Formula
+
+```text
+Subject (I/You/We/They) + have been + Adjective
+Subject (I/You/We/They) + have been + V-ing
+Subject (I/You/We/They) + have been + V³
+```
+
+### A. Have been + Adjective
+
+| English | Hindi |
+|---------|--------|
+| I have been busy today. | मैं आज व्यस्त रहा हूँ। |
+| We have been happy lately. | हम हाल ही में खुश रहे हैं। |
+| They have been tired all week. | वे पूरे सप्ताह थके रहे हैं। |
+
+### B. Have been + V-ing
+
+| English | Hindi |
+|---------|--------|
+| I have been working since morning. | मैं सुबह से काम कर रहा हूँ। |
+| We have been waiting for you. | हम तुम्हारा इंतज़ार कर रहे हैं। |
+| They have been playing cricket. | वे क्रिकेट खेल रहे हैं। |
+
+### C. Have been + V³ (Passive)
+
+| English | Hindi |
+|---------|--------|
+| The files have been uploaded. | फाइलें अपलोड की जा चुकी हैं। |
+| The documents have been checked. | दस्तावेज़ों की जाँच हो चुकी है। |
+| The invitations have been sent. | निमंत्रण भेजे जा चुके हैं। |
+
+---
+
+# 3. HAD BEEN
+
+## Formula
+
+```text
+Subject + had been + Adjective
+Subject + had been + V-ing
+Subject + had been + V³
+```
+
+### A. Had been + Adjective
+
+| English | Hindi |
+|---------|--------|
+| I had been tired before I slept. | सोने से पहले मैं थक गया था। |
+| She had been sick for a week. | वह एक सप्ताह से बीमार थी। |
+| They had been happy before the bad news. | बुरी खबर आने से पहले वे खुश थे। |
+
+### B. Had been + V-ing
+
+| English | Hindi |
+|---------|--------|
+| I had been working for five hours before lunch. | दोपहर के खाने से पहले मैं पाँच घंटे से काम कर रहा था। |
+| She had been waiting for an hour before the bus arrived. | बस आने से पहले वह एक घंटे से इंतज़ार कर रही थी। |
+| They had been playing cricket before it started raining. | बारिश शुरू होने से पहले वे क्रिकेट खेल रहे थे। |
+
+### C. Had been + V³ (Passive)
+
+| English | Hindi |
+|---------|--------|
+| The work had been completed before I arrived. | मेरे आने से पहले काम पूरा हो चुका था। |
+| The room had been cleaned before the guests came. | मेहमानों के आने से पहले कमरे की सफाई हो चुकी थी। |
+| The food had been prepared before everyone arrived. | सभी के आने से पहले खाना तैयार किया जा चुका था। |
+
+---
+
+# Quick Revision
+
+| Structure | Meaning | Example |
+|-----------|---------|---------|
+| **Has been** | रहा है / हो चुका है | He has been busy. |
+| **Have been** | रहा हूँ / रहे हैं | I have been busy. |
+| **Had been** | रहा था / हो चुका था | I had been busy before the meeting. |
+
+## Easy Trick
+
+- **Has been** → He / She / It / Name
+- **Have been** → I / You / We / They
+- **Had been** → Any subject + Past event
