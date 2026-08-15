@@ -686,3 +686,137 @@ Subject + had been + V³
 - **Has been** → He / She / It / Name
 - **Have been** → I / You / We / They
 - **Had been** → Any subject + Past event
+
+
+
+
+# 🗣️ Daily English Practice — Hindi to English
+
+## 1. UNTIL — "जब तक"
+
+> **Important:** When talking about the future, use **present simple** after **until**, not **will**.
+
+| Hindi | English |
+|---|---|
+| जब तक मैं न आऊँ, कहीं मत जाना। | **Don't go anywhere until I come.** |
+| जब तक वह नहीं आएगा, मैं वहाँ नहीं जाऊँगा। | **I won't go there until he comes.** |
+| जब तक बारिश नहीं रुकेगी, हम बाहर नहीं जा सकते। | **We can't go outside until the rain stops.** |
+| जब तक तुम नहीं कहोगे, वह मेरी मदद नहीं करेगा। | **He won't help me until you tell him to.** |
+
+### More Daily-Life Examples
+
+| Hindi | English |
+|---|---|
+| जब तक मैं वापस न आऊँ, मेरा इंतज़ार करना। | **Wait for me until I come back.** |
+| जब तक मैं न कहूँ, शुरू मत करना। | **Don't start until I tell you.** |
+| जब तक वह फोन न करे, उसे मत बताना। | **Don't tell him until he calls.** |
+| जब तक खाना तैयार न हो जाए, इंतज़ार करो। | **Wait until the food is ready.** |
+| जब तक तुम अपना काम पूरा नहीं कर लेते, बाहर मत जाना। | **Don't go outside until you finish your work.** |
+
+---
+
+# 2. WHAT IF...? — "ऐसा हो जाता तो? / अगर ऐसा हो जाए तो?"
+
+### Basic Pattern
+
+**What if + Present Simple...?**
+
+| Hindi | English |
+|---|---|
+| मैं गिर जाता तो? | **What if I fall?** |
+| फोन टूट जाता तो? | **What if the phone breaks?** |
+| उसे पता चल जाता तो? | **What if he finds out?** |
+| कोई हमें देख लेता तो? | **What if someone sees us?** |
+| मेरा एक्सीडेंट हो जाता तो? | **What if I have an accident?** |
+| बारिश हो जाती तो? | **What if it rains?** |
+| हम देर हो जाते तो? | **What if we're late?** |
+| वह मुझे कॉल करता तो? | **What if he calls me?** |
+| वे मना कर देते तो? | **What if they refuse?** |
+| मैं हार जाता तो? | **What if I lose?** |
+
+### Past / Unreal Situation
+
+जब बात किसी **काल्पनिक या पहले से हो चुकी situation** की हो, तो past forms भी इस्तेमाल कर सकते हैं:
+
+| Hindi | English |
+|---|---|
+| अगर मैं गिर जाता तो? | **What if I fell?** |
+| अगर उसने मुझे देख लिया होता तो? | **What if he had seen me?** |
+| अगर हम देर से पहुँचते तो? | **What if we were late?** |
+| अगर मैंने उसे बता दिया होता तो? | **What if I had told him?** |
+
+---
+
+# 3. TAKE YOUR TIME — आराम से / जल्दी नहीं है
+
+| Hindi | English |
+|---|---|
+| तुम आराम से सोचकर मुझे बता देना। | **Take your time and let me know.** |
+| जैसा तुम्हें ठीक लगे, वैसा कर लेना। | **Do whatever feels right to you.** |
+| जब फ्री हो जाओ, मुझे बता देना। | **Let me know when you're free.** |
+| सोच-समझकर फैसला लेना। | **Think carefully before you decide.** |
+| पहले अपना काम पूरा कर लो। | **Finish your work first.** |
+| जो भी फैसला करो, मुझे बता देना। | **Whatever you decide, let me know.** |
+| जैसा तुम्हें सही लगे, वैसा कर लेना। | **Do whatever feels right to you.** |
+| जितनी जल्दी हो सके, बता देना। | **Let me know as soon as you can.** |
+| मैं तुम्हारे मैसेज का इंतज़ार करूँगा। | **I'll wait for your message.** |
+| जितना हो सके, जल्दी आ जाना। | **Come as soon as you can.** |
+
+### Useful Patterns
+
+- **Take your time.** = आराम से करो / जल्दी मत करो।
+- **Let me know...** = मुझे बता देना...
+- **Whatever you decide...** = तुम जो भी फैसला करो...
+- **Do whatever feels right...** = जो सही लगे, वो करो।
+- **As soon as you can.** = जितनी जल्दी हो सके।
+- **Before you decide.** = फैसला लेने से पहले।
+
+---
+
+# 4. DAILY CONVERSATION — Useful Sentences
+
+| Hindi | English |
+|---|---|
+| तुम आते समय दूध लेते आना। | **Bring some milk when you come.** |
+| जाते समय दरवाज़ा बंद कर देना। | **Close the door before you leave.** |
+| तुमने ये बात पहले क्यों नहीं बताई? | **Why didn't you tell me earlier?** |
+| मुझे याद दिला देना, मैं भूल जाऊँगा। | **Remind me, or I'll forget.** |
+| मुझे अभी इसके बारे में पता चला। | **I just found out about this.** |
+| तुम मुझे बाद में फोन कर देना। | **Call me later.** |
+| ये काम आज पूरा होना चाहिए। | **This work should be completed today.** |
+| मुझे नहीं पता वो कहाँ गया। | **I don't know where he went.** |
+| मैं थोड़ी देर में वापस आ जाऊँगा। | **I'll be back in a while.** |
+| मुझे लगता है अब हमें चलना चाहिए। | **I think we should leave now.** |
+
+---
+
+## ⭐ Quick Grammar Revision
+
+### UNTIL
+**Don't + verb + until + Present Simple**
+
+> Don't leave until I come.  
+> जब तक मैं न आऊँ, मत जाना।
+
+> I won't go until he comes.  
+> जब तक वह नहीं आएगा, मैं नहीं जाऊँगा।
+
+### WHAT IF...?
+
+**What if + Present Simple?**
+
+> What if he calls?  
+> अगर वह फोन कर दे तो?
+
+> What if it rains?  
+> अगर बारिश हो जाए तो?
+
+### LET ME KNOW
+
+**Let me know + information/time**
+
+> Let me know when you're free.  
+> जब तुम फ्री हो जाओ, मुझे बता देना।
+
+> Let me know as soon as you can.  
+> जितनी जल्दी हो सके, मुझे बता देना।
