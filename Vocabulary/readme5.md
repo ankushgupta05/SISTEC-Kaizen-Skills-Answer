@@ -1,3 +1,13 @@
+| Hindi | English |
+|---|---|
+| मैं चुप हूँ, इसका मतलब यह नहीं कि मुझे फ़र्क नहीं पड़ता। | I am silent, but that doesn't mean I don't care. |
+| हाँ, मैं तुम्हें पसंद करता हूँ। | Yes, I like you. |
+| लेकिन मुझे पता है कि कहाँ रुकना है। | But I know where to stop. |
+| मुझे अपनी जगह, अपनी लिमिट और वह लाइन पता है जिसे मुझे पार नहीं करना चाहिए। | I know my place, my limits, and the line I shouldn't cross. |
+| इसलिए मैं तुम्हारा पीछा नहीं करूँगा या तुम्हें कबूल नहीं करूँगा। | So I won't chase you or confess my feelings. |
+| मैं बस चुपचाप दूर से तुम्हारी तारीफ़ करूँगा। | I'll just quietly admire you from a distance. |
+
+
 
 # 🗣️ Daily English Vocabulary & Expressions
 
