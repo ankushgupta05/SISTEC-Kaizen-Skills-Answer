@@ -120,3 +120,44 @@
 
 **I talked ABOUT my problem.**  
 → मैंने **अपनी समस्या के बारे में** बात की।
+
+
+
+# 💪 Willpower — इच्छाशक्ति / मनोबल
+
+**Willpower** = the ability to control yourself and keep doing something even when it is difficult.  
+**Willpower** = मुश्किल होने के बावजूद खुद को नियंत्रित करने और अपने लक्ष्य पर टिके रहने की क्षमता।
+
+| English | Hindi |
+|---|---|
+| **I need more willpower.** | मुझे और इच्छाशक्ति की जरूरत है। |
+| **You need strong willpower to achieve your goals.** | अपने लक्ष्य हासिल करने के लिए मजबूत इच्छाशक्ति चाहिए। |
+| **I don't have enough willpower to stop eating junk food.** | मुझमें जंक फूड खाना बंद करने की पर्याप्त इच्छाशक्ति नहीं है। |
+| **She has incredible willpower.** | उसमें गजब की इच्छाशक्ति है। |
+| **His willpower helped him overcome the challenge.** | उसकी इच्छाशक्ति ने उसे चुनौती से उबरने में मदद की। |
+
+## 🔹 More Daily-Life Examples
+
+| English | Hindi |
+|---|---|
+| **I need more willpower to stay focused.** | मुझे ध्यान केंद्रित रखने के लिए और इच्छाशक्ति चाहिए। |
+| **It takes a lot of willpower to wake up early every day.** | हर दिन जल्दी उठने के लिए बहुत इच्छाशक्ति चाहिए। |
+| **He has the willpower to keep going.** | उसमें आगे बढ़ते रहने की इच्छाशक्ति है। |
+| **I'm trying to build my willpower.** | मैं अपनी इच्छाशक्ति मजबूत करने की कोशिश कर रहा हूँ। |
+| **She used her willpower to quit smoking.** | उसने अपनी इच्छाशक्ति का इस्तेमाल करके धूम्रपान छोड़ दिया। |
+| **Don't underestimate the power of willpower.** | इच्छाशक्ति की ताकत को कम मत समझो। |
+| **Strong willpower can help you overcome bad habits.** | मजबूत इच्छाशक्ति बुरी आदतों पर काबू पाने में मदद कर सकती है। |
+| **I lost my willpower and ate the whole cake.** | मैंने अपनी इच्छाशक्ति खो दी और पूरा केक खा लिया। |
+| **He never gives up because he has strong willpower.** | वह कभी हार नहीं मानता क्योंकि उसमें मजबूत इच्छाशक्ति है। |
+| **Your willpower gets stronger when you practice self-control.** | जब तुम आत्म-नियंत्रण का अभ्यास करते हो तो तुम्हारी इच्छाशक्ति मजबूत होती है। |
+
+## ⭐ Common Patterns
+
+- **have willpower** = इच्छाशक्ति होना
+- **need willpower** = इच्छाशक्ति की जरूरत होना
+- **build willpower** = इच्छाशक्ति मजबूत करना
+- **use willpower** = इच्छाशक्ति का इस्तेमाल करना
+- **lose willpower** = इच्छाशक्ति खो देना
+- **strong willpower** = मजबूत इच्छाशक्ति
+- **lack of willpower** = इच्छाशक्ति की कमी
+- **a lot of willpower** = बहुत सारी इच्छाशक्ति
