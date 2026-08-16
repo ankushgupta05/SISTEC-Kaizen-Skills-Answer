@@ -1,4 +1,19 @@
 
+| Word / Phrase | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|---|---|---|---|---|
+| **Who dares to...?** | किसकी हिम्मत है...? | **Who dares to fight him?** → उसकी लड़ने की हिम्मत किसकी है? | **Who dares to challenge him?** → उसे चुनौती देने की हिम्मत किसकी है? | **Who dares to question me?** → मुझसे सवाल करने की हिम्मत किसकी है? |
+| **get used to** | आदत हो जाना | **I got used to it.** → मुझे इसकी आदत हो गई। | **I got used to waking up early.** → मुझे सुबह जल्दी उठने की आदत हो गई। | **I got used to living alone.** → मुझे अकेले रहने की आदत हो गई। |
+| **What the heck...?** | आखिर... क्या कर रहे हो? / यह क्या बकवास है? | **What the heck are you doing?** → तुम यह क्या कर रहे हो? | **What the heck is going on?** → आखिर हो क्या रहा है? | **What the heck were you thinking?** → आखिर तुम क्या सोच रहे थे? |
+| **take advantage of** | फायदा उठाना | **Some people take advantage of your forgiveness.** → कुछ लोग आपकी माफ़ी का फायदा उठाते हैं। | **Don't let people take advantage of your kindness.** → लोगों को आपकी अच्छाई का फायदा मत उठाने दो। | **He took advantage of my trust.** → उसने मेरे भरोसे का फायदा उठाया। |
+| **God's plans** | भगवान की योजनाएँ | **God's plans are always better.** → भगवान की योजनाएँ हमेशा बेहतर होती हैं। | **I trust God's plan.** → मुझे भगवान की योजना पर भरोसा है। | **Sometimes God's plans are different from ours.** → कभी-कभी भगवान की योजनाएँ हमारी योजनाओं से अलग होती हैं। |
+| **drenched in sweat** | पसीने से पूरी तरह भीगा हुआ | **I was completely drenched in sweat.** → मैं पूरी तरह पसीने से भीग गया था। | **I got drenched in sweat after running.** → दौड़ने के बाद मैं पसीने से पूरी तरह भीग गया। | **He was drenched in sweat after working outside.** → बाहर काम करने के बाद वह पसीने से पूरी तरह भीग गया था। |
+| **smelled of sweat** | पसीने की बदबू आना | **My shirt smelled of sweat.** → मेरी शर्ट से पसीने की बदबू आ रही थी। | **His clothes smelled of sweat.** → उसके कपड़ों से पसीने की बदबू आ रही थी। | **After the workout, my T-shirt smelled of sweat.** → वर्कआउट के बाद मेरी टी-शर्ट से पसीने की बदबू आ रही थी। |
+| **quite good** | काफी अच्छा | **The food was quite good.** → खाना काफी अच्छा था। | **Your English is quite good.** → तुम्हारी अंग्रेज़ी काफी अच्छी है। | **The movie was quite good.** → फिल्म काफी अच्छी थी। |
+| **have a rough day** | मुश्किल दिन होना | **If you're having a rough day, take some rest.** → अगर आपका दिन मुश्किल जा रहा है, तो थोड़ा आराम करो। | **I had a rough day at work.** → ऑफिस में मेरा दिन काफी मुश्किल रहा। | **If you had a rough day, don't be too hard on yourself.** → अगर आपका दिन मुश्किल रहा है, तो खुद पर ज्यादा सख्ती मत करो। |
+
+
+
+
 # 📝 English Practice Notes
 
 ---
