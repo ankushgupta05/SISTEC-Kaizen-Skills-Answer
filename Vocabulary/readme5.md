@@ -1,6 +1,24 @@
 
 | Word / Phrase | Hindi Meaning | Example 1 | Example 2 | Example 3 |
 |---|---|---|---|---|
+| **Philosophy** | दर्शनशास्त्र / दर्शन / जीवन-दर्शन | **My philosophy is to be kind to everyone.** → मेरा जीवन-दर्शन है कि सभी के साथ दयालु रहो। | **He studies philosophy in college.** → वह कॉलेज में दर्शनशास्त्र पढ़ता है। | **What's your philosophy of life?** → आपका जीवन-दर्शन क्या है? |
+| **Philosopher** | दार्शनिक | **He wants to become a philosopher.** → वह दार्शनिक बनना चाहता है। | **The philosopher wrote many books.** → उस दार्शनिक ने कई किताबें लिखीं। | **Socrates was a famous philosopher.** → सुकरात एक प्रसिद्ध दार्शनिक थे। |
+| **Philosophical** | दार्शनिक / दार्शनिक दृष्टिकोण वाला | **He has a philosophical way of thinking.** → उसका सोचने का तरीका दार्शनिक है। | **She gave me some philosophical advice.** → उसने मुझे कुछ दार्शनिक सलाह दी। | **His answer was quite philosophical.** → उसका जवाब काफी दार्शनिक था। |
+| **Spiritual** | आध्यात्मिक | **She is a very spiritual person.** → वह बहुत आध्यात्मिक व्यक्ति है। | **I want to live a more spiritual life.** → मैं अधिक आध्यात्मिक जीवन जीना चाहता हूँ। | **He is on a spiritual journey.** → वह एक आध्यात्मिक यात्रा पर है। |
+| **Spirituality** | आध्यात्मिकता | **Meditation has deepened my spirituality.** → ध्यान ने मेरी आध्यात्मिकता को गहरा किया है। | **Spirituality is important to her.** → आध्यात्मिकता उसके लिए महत्वपूर्ण है। | **He is exploring spirituality.** → वह आध्यात्मिकता को समझने की कोशिश कर रहा है। |
+| **Spiritually** | आध्यात्मिक रूप से | **I feel spiritually connected to nature.** → मैं प्रकृति से आध्यात्मिक रूप से जुड़ा हुआ महसूस करता हूँ। | **Meditation helps me grow spiritually.** → ध्यान मुझे आध्यात्मिक रूप से विकसित होने में मदद करता है। | **She feels spiritually peaceful.** → वह आध्यात्मिक रूप से शांत महसूस करती है। |
+| **Blame** | दोष देना / जिम्मेदार ठहराना | **Don't blame me for the mistake.** → इस गलती के लिए मुझे दोष मत दो। | **She blamed him for being late.** → उसने देर होने के लिए उसे दोष दिया। | **Everyone blamed the weather for the delay.** → सभी ने देरी के लिए मौसम को जिम्मेदार ठहराया। |
+| **Accuse** | आरोप लगाना | **Don't accuse me without proof.** → बिना सबूत के मुझ पर आरोप मत लगाओ। | **She accused him of lying.** → उसने उस पर झूठ बोलने का आरोप लगाया। | **He accused me of stealing his phone.** → उसने मुझ पर उसका फोन चुराने का आरोप लगाया। |
+| **Accused** | आरोपी / जिस पर आरोप लगाया गया हो | **The accused denied all the allegations.** → आरोपी ने सभी आरोपों से इनकार किया। | **The police arrested the accused yesterday.** → पुलिस ने कल आरोपी को गिरफ्तार किया। | **He was falsely accused of stealing money.** → उस पर चोरी का झूठा आरोप लगाया गया। |
+| **Mocked** | मज़ाक उड़ाया / उपहास किया | **He mocked my accent.** → उसने मेरे उच्चारण का मज़ाक उड़ाया। | **The other students mocked him for his clothes.** → दूसरे छात्रों ने उसके कपड़ों का मज़ाक उड़ाया। | **She felt bad because her friends mocked her.** → उसे बुरा लगा क्योंकि उसके दोस्तों ने उसका मज़ाक उड़ाया। |
+| **Vulgar** | अश्लील / भद्दा / अभद्र | **Please don't use vulgar language in the office.** → कृपया ऑफिस में अभद्र भाषा का इस्तेमाल मत करें। | **His joke was vulgar, so nobody laughed.** → उसका मज़ाक भद्दा था, इसलिए कोई नहीं हँसा। | **The movie contains some vulgar words.** → उस फिल्म में कुछ अश्लील/अभद्र शब्द हैं। |
+| **Vomit** | उल्टी करना | **He vomited in the room.** → उसने कमरे में उल्टी कर दी। | **I felt sick and vomited.** → मुझे उल्टी जैसा महसूस हुआ और मैंने उल्टी कर दी। | **She vomited after eating something bad.** → कुछ खराब खाने के बाद उसने उल्टी कर दी। |
+
+
+
+
+| Word / Phrase | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|---|---|---|---|---|
 | **Who dares to...?** | किसकी हिम्मत है...? | **Who dares to fight him?** → उसकी लड़ने की हिम्मत किसकी है? | **Who dares to challenge him?** → उसे चुनौती देने की हिम्मत किसकी है? | **Who dares to question me?** → मुझसे सवाल करने की हिम्मत किसकी है? |
 | **get used to** | आदत हो जाना | **I got used to it.** → मुझे इसकी आदत हो गई। | **I got used to waking up early.** → मुझे सुबह जल्दी उठने की आदत हो गई। | **I got used to living alone.** → मुझे अकेले रहने की आदत हो गई। |
 | **What the heck...?** | आखिर... क्या कर रहे हो? / यह क्या बकवास है? | **What the heck are you doing?** → तुम यह क्या कर रहे हो? | **What the heck is going on?** → आखिर हो क्या रहा है? | **What the heck were you thinking?** → आखिर तुम क्या सोच रहे थे? |
