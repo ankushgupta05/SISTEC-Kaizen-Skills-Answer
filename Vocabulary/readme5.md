@@ -1,4 +1,45 @@
 
+# 🗣️ Daily English Vocabulary & Expressions
+
+| Word / Phrase | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|---|---|---|---|---|
+| **That is really sad.** | यह सच में दुखद है। | **That is really sad. I feel bad for him.** → यह सच में दुखद है। मुझे उसके लिए बुरा लग रहा है। | **That's really sad to hear.** → यह सुनकर सच में दुख हुआ। | **That's really sad. I didn't expect this.** → यह सच में दुखद है। मुझे इसकी उम्मीद नहीं थी। |
+| **careless** | लापरवाह | **Don't be careless with your phone.** → अपने फोन को लेकर लापरवाह मत बनो। | **He is careless about his work.** → वह अपने काम को लेकर लापरवाह है। | **I was careless and forgot my keys.** → मैं लापरवाह था और अपनी चाबियाँ भूल गया। |
+| **My respect is on the line.** | मेरी इज़्ज़त दाँव पर है। | **I can't make this mistake. My respect is on the line.** → मैं यह गलती नहीं कर सकता। मेरी इज़्ज़त दाँव पर है। | **My reputation is on the line.** → मेरी प्रतिष्ठा दाँव पर है। | **This is serious. My respect is on the line.** → यह गंभीर मामला है। मेरी इज़्ज़त दाँव पर है। |
+| **goosebumps moment** | रोंगटे खड़े कर देने वाला पल | **That was a goosebumps moment.** → वह रोंगटे खड़े कर देने वाला पल था। | **When everyone started cheering, it was a goosebumps moment.** → जब सबने चीयर करना शुरू किया, वह रोंगटे खड़े कर देने वाला पल था। | **That scene gave me goosebumps.** → उस सीन ने मेरे रोंगटे खड़े कर दिए। |
+| **I like you.** | मैं तुम्हें पसंद करता हूँ। | **Yes, I like you, but I know my limits.** → हाँ, मैं तुम्हें पसंद करता हूँ, लेकिन मुझे अपनी सीमाएँ पता हैं। | **I like you, but I don't want to make things awkward.** → मैं तुम्हें पसंद करता हूँ, लेकिन मैं चीज़ों को अजीब नहीं बनाना चाहता। | **I like you, but I respect your feelings.** → मैं तुम्हें पसंद करता हूँ, लेकिन मैं तुम्हारी भावनाओं का सम्मान करता हूँ। |
+| **know where to stop** | कहाँ रुकना है, यह जानना | **I know where to stop.** → मुझे पता है कहाँ रुकना है। | **You should know where to stop.** → तुम्हें पता होना चाहिए कि कहाँ रुकना है। | **I like her, but I know where to stop.** → मैं उसे पसंद करता हूँ, लेकिन मुझे पता है कहाँ रुकना है। |
+| **know my limits** | अपनी सीमाएँ जानना | **I know my limits.** → मुझे अपनी सीमाएँ पता हैं। | **I know my limits, so I won't push you.** → मुझे अपनी सीमाएँ पता हैं, इसलिए मैं तुम पर दबाव नहीं डालूँगा। | **Everyone should know their limits.** → हर किसी को अपनी सीमाएँ पता होनी चाहिए। |
+| **cross the line** | हद पार करना | **Don't cross the line.** → हद पार मत करो। | **I know the line I shouldn't cross.** → मुझे पता है वह हद जिसे मुझे पार नहीं करना चाहिए। | **He crossed the line this time.** → इस बार उसने हद पार कर दी। |
+| **chase** | पीछा करना / पीछे भागना | **I won't chase anyone.** → मैं किसी के पीछे नहीं भागूँगा। | **Stop chasing him.** → उसका पीछा करना बंद करो। | **She doesn't chase people who don't value her.** → वह उन लोगों के पीछे नहीं भागती जो उसकी कद्र नहीं करते। |
+| **confess** | भावना/प्यार का इज़हार करना | **I'm not going to confess my feelings.** → मैं अपनी भावनाओं का इज़हार नहीं करने वाला। | **He finally confessed that he liked her.** → उसने आखिरकार कबूल किया कि वह उसे पसंद करता था। | **She was too nervous to confess her feelings.** → वह अपनी भावनाएँ बताने के लिए बहुत घबरा रही थी। |
+| **admire** | प्रशंसा करना / पसंद करना | **I quietly admire her from a distance.** → मैं चुपचाप दूर से उसकी प्रशंसा करता हूँ। | **I really admire his confidence.** → मैं उसके आत्मविश्वास की बहुत प्रशंसा करता हूँ। | **She admires her teacher.** → वह अपने शिक्षक की प्रशंसा करती है। |
+| **from a distance** | दूर से | **I just watch her from a distance.** → मैं बस उसे दूर से देखता हूँ। | **He admired the view from a distance.** → उसने उस नज़ारे को दूर से देखा। | **Sometimes it's better to admire someone from a distance.** → कभी-कभी किसी की दूर से प्रशंसा करना बेहतर होता है। |
+| **Who was it?** | कौन था? | **Who was it on the phone?** → फोन पर कौन था? | **Who was it that called you?** → तुम्हें फोन करने वाला कौन था? | **Who was it at the door?** → दरवाज़े पर कौन था? |
+| **spy** | जासूस / जासूसी करना | **He works as a spy.** → वह जासूस के रूप में काम करता है। | **Are you spying on me?** → क्या तुम मेरी जासूसी कर रहे हो? | **Don't spy on people.** → लोगों की जासूसी मत करो। |
+| **face humiliation** | अपमान का सामना करना | **Nobody wants to face humiliation.** → कोई भी अपमान का सामना नहीं करना चाहता। | **He had to face humiliation in front of everyone.** → उसे सबके सामने अपमान का सामना करना पड़ा। | **I'm strong enough to face humiliation and move on.** → मैं अपमान का सामना करके आगे बढ़ने के लिए काफी मजबूत हूँ। |
+| **designation doesn't matter** | पद/पदनाम मायने नहीं रखता | **Designation doesn't matter to me.** → मेरे लिए पदनाम मायने नहीं रखता। | **Your designation doesn't matter; your skills do.** → तुम्हारा पदनाम मायने नहीं रखता; तुम्हारी skills मायने रखती हैं। | **In the end, designation doesn't matter.** → आखिर में पदनाम मायने नहीं रखता। |
+| **monster** | राक्षस / दानव | **The movie had a scary monster.** → फिल्म में एक डरावना राक्षस था। | **The child was afraid of the monster.** → बच्चा राक्षस से डरता था। | **He turned into a monster after losing control.** → नियंत्रण खोने के बाद वह राक्षस जैसा बन गया। |
+| **monsters** | राक्षस / दानव | **The story is about monsters.** → कहानी राक्षसों के बारे में है। | **The kids were pretending to be monsters.** → बच्चे राक्षस बनने का नाटक कर रहे थे। | **The movie is full of monsters.** → फिल्म राक्षसों से भरी हुई है। |
+| **evolving** | विकसित होना / बदलते रहना | **Technology is constantly evolving.** → तकनीक लगातार विकसित हो रही है। | **I'm still evolving as a person.** → एक इंसान के रूप में मैं अभी भी विकसित हो रहा हूँ। | **Our relationship is evolving slowly.** → हमारा रिश्ता धीरे-धीरे बदल रहा है। |
+| **I have a feeling...** | मुझे ऐसा लग रहा है... | **I have a feeling he is right.** → मुझे ऐसा लग रहा है कि वह सही है। | **I have a feeling something is wrong.** → मुझे ऐसा लग रहा है कि कुछ गलत है। | **I have a feeling she'll call tonight.** → मुझे ऐसा लग रहा है कि वह आज रात फोन करेगी। |
+
+---
+
+# ⭐ Important Natural Corrections
+
+| Your Phrase | More Natural English |
+|---|---|
+| **Humiliation face karne ka power** | **The strength to face humiliation.** |
+| **Degicnatio matter nahi karta** | **Designation doesn't matter.** |
+| **Who was it? Kon tha?** | **Who was it?** |
+| **He is right ka feeling** | **I have a feeling he is right.** |
+| **Goosebumps moment** | **That was a goosebumps moment.** / **That gave me goosebumps.** |
+
+
+
+
+
 # 👜 CARRY vs BRING — Daily English Conversation
 
 ## 1. CARRY — लेकर जाना / उठाकर ले जाना / साथ रखना
