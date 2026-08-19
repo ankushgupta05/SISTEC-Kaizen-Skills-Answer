@@ -1,3 +1,57 @@
+
+# Whether = या ... या नहीं
+
+### Structure
+
+```text
+Whether + Subject + Verb + or not
+```
+
+| Hindi | English |
+|---|---|
+| मैं जाऊँ या न जाऊँ। | Whether I go or not. |
+| राहुल बोले या न बोले। | Whether Rahul speaks or not. |
+| वह आए या न आए। | Whether he comes or not. |
+| तुम आओ या न आओ। | Whether you come or not. |
+| वह फोन करे या न करे। | Whether he calls or not. |
+| मैं खाना खाऊँ या न खाऊँ। | Whether I eat or not. |
+| वह मुझे बुलाए या न बुलाए। | Whether he calls me or not. |
+| तुम मेरी बात मानो या न मानो। | Whether you listen to me or not. |
+| बारिश हो या न हो। | Whether it rains or not. |
+| वह मुझे पसंद करे या न करे। | Whether she likes me or not. |
+| वे आएँ या न आएँ। | Whether they come or not. |
+| तुम नौकरी करो या न करो। | Whether you work or not. |
+
+## Daily Conversation Examples
+
+| English | Hindi |
+|---|---|
+| I will go whether you come or not. | तुम आओ या न आओ, मैं जाऊँगा। |
+| I will help you whether you want it or not. | तुम चाहो या न चाहो, मैं तुम्हारी मदद करूँगा। |
+| I don't know whether he will come or not. | मुझे नहीं पता कि वह आएगा या नहीं। |
+| I will call her whether she answers or not. | वह फोन उठाए या न उठाए, मैं उसे फोन करूँगा। |
+| We will continue whether they agree or not. | वे सहमत हों या न हों, हम जारी रखेंगे। |
+| Tell me whether you like it or not. | मुझे बताओ कि तुम्हें यह पसंद है या नहीं। |
+| I will do it whether you support me or not. | तुम मेरा साथ दो या न दो, मैं यह करूँगा। |
+| Whether he comes or not, we will start the meeting. | वह आए या न आए, हम मीटिंग शुरू करेंगे। |
+
+## Quick Rule
+
+**Whether = या ... या नहीं / चाहे ... या नहीं**
+
+**Whether + Subject + Verb + or not**
+
+Examples:
+
+- Whether **I go** or not.
+- Whether **he comes** or not.
+- Whether **you agree** or not.
+- Whether **they help** or not.
+
+
+
+
+
 | Word / Phrase | Hindi Meaning | Example 1 | Example 2 | Example 3 |
 |---|---|---|---|---|
 | **Sharpening** | तेज़ करना / नुकीला करना / कौशल निखारना | **I am sharpening my pencil.** → मैं अपनी पेंसिल तेज़ कर रहा हूँ। | **He is sharpening the knife.** → वह चाकू तेज़ कर रहा है। | **I'm sharpening my English skills.** → मैं अपनी अंग्रेज़ी की skills निखार रहा हूँ। |
