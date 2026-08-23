@@ -1,4 +1,41 @@
 
+# WH- Words — Daily-Life English
+
+| Word / Phrase | Hindi Meaning | Example 1 | Example 2 | Example 3 |
+|---|---|---|---|---|
+| **Whatever** | जो कुछ भी / जो भी | **Take whatever you want.** → तुम्हें जो भी चाहिए, ले लो। | **Whatever you decide, I'll support you.** → तुम जो भी फैसला करो, मैं तुम्हारा साथ दूँगा। | **Eat whatever you like.** → तुम्हें जो पसंद हो, वही खाओ। |
+| **Whenever** | जब कभी भी / जब भी | **Call me whenever you need me.** → जब भी तुम्हें मेरी ज़रूरत हो, मुझे फोन करना। | **Come whenever you're free.** → जब भी तुम फ्री हो, आ जाना। | **Whenever I see him, he smiles.** → जब भी मैं उसे देखता हूँ, वह मुस्कुराता है। |
+| **Wherever** | जहाँ कहीं भी / जहाँ भी | **Go wherever you want.** → जहाँ भी तुम जाना चाहते हो, जाओ। | **I'll follow you wherever you go.** → तुम जहाँ भी जाओगे, मैं तुम्हारे साथ चलूँगा। | **Keep it wherever you find some space.** → जहाँ भी जगह मिले, इसे वहीं रख दो। |
+| **Whoever** | जो कोई भी / जो भी व्यक्ति | **Whoever comes first can sit here.** → जो कोई भी पहले आए, यहाँ बैठ सकता है। | **Whoever told you that was wrong.** → जिसने भी तुम्हें यह बताया, वह गलत था। | **I'll help whoever needs help.** → जिसे भी मदद की ज़रूरत होगी, मैं उसकी मदद करूँगा। |
+| **Whomever** | जिसको भी / जिसे भी | **Give it to whomever you trust.** → इसे जिसे भी तुम भरोसा करते हो, उसे दे दो। | **Invite whomever you want.** → जिसे भी तुम चाहो, उसे बुला लो। | **You can choose whomever you like.** → तुम जिसे भी पसंद करो, उसे चुन सकते हो। |
+| **However** | लेकिन / फिर भी / हालांकि / जिस तरह भी | **However hard it is, don't give up.** → चाहे यह कितना भी मुश्किल हो, हार मत मानो। | **However, I don't agree with you.** → लेकिन, मैं तुमसे सहमत नहीं हूँ। | **Do it however you like.** → तुम इसे जिस तरह चाहो, वैसे करो। |
+| **Whosever** | जिस किसी का भी | **Whosever phone this is, please take it.** → यह फोन जिस किसी का भी है, कृपया ले जाइए। | **Whosever bag is lying here should take it.** → यहाँ जो भी बैग पड़ा है, उसका मालिक उसे ले जाए। | **Whosever idea it was, it worked well.** → यह विचार जिस किसी का भी था, यह बहुत अच्छा काम कर गया। |
+| **By whom** | किसके द्वारा / किसने | **By whom was this letter written?** → यह पत्र किसके द्वारा लिखा गया था? | **By whom were you informed?** → तुम्हें किसके द्वारा बताया गया? | **By whom was the decision made?** → यह फैसला किसके द्वारा लिया गया? |
+| **Upon whom** | जिस पर / किस पर | **Upon whom can we rely?** → हम किस पर भरोसा कर सकते हैं? | **Upon whom does this responsibility fall?** → यह जिम्मेदारी किस पर आती है? | **The person upon whom we depend is unavailable.** → जिस व्यक्ति पर हम निर्भर हैं, वह उपलब्ध नहीं है। |
+| **With whom** | जिसके साथ / किसके साथ | **With whom are you going?** → तुम किसके साथ जा रहे हो? | **With whom did you talk?** → तुमने किसके साथ बात की? | **Who did you go with?** → तुम किसके साथ गए थे? *(Daily English)* |
+| **From whom** | किससे / किस व्यक्ति से | **From whom did you get this message?** → तुम्हें यह मैसेज किससे मिला? | **From whom did you borrow the money?** → तुमने पैसे किससे उधार लिए? | **From whom should I ask for help?** → मुझे मदद के लिए किससे पूछना चाहिए? |
+| **For whom** | किसके लिए | **For whom did you buy this gift?** → तुमने यह गिफ्ट किसके लिए खरीदा? | **For whom are you waiting?** → तुम किसका इंतज़ार कर रहे हो? | **For whom is this message?** → यह मैसेज किसके लिए है? |
+| **In whom** | जिसमें / किसमें | **In whom do you trust?** → तुम किस पर भरोसा करते हो? | **The person in whom I trust is my brother.** → जिस व्यक्ति पर मुझे भरोसा है, वह मेरा भाई है। | **In whom should I place my trust?** → मुझे किस पर अपना भरोसा रखना चाहिए? |
+| **To whom** | किसको / किसे | **To whom should I send this email?** → मुझे यह ईमेल किसे भेजना चाहिए? | **To whom did you give the documents?** → तुमने दस्तावेज़ किसे दिए? | **Who should I give this to?** → मुझे यह किसे देना चाहिए? *(Daily English)* |
+| **Whichever** | जो भी / इनमें से जो भी | **Choose whichever you like.** → इनमें से जो भी तुम्हें पसंद हो, चुन लो। | **Take whichever seat is available.** → जो भी सीट खाली हो, उस पर बैठ जाओ। | **Whichever option you choose, I'll support you.** → तुम जो भी विकल्प चुनोगे, मैं तुम्हारा साथ दूँगा। |
+
+## Quick Patterns
+
+| Pattern | Hindi Meaning | Example |
+|---|---|---|
+| **Whatever + clause** | जो भी | **Whatever you say, I'll listen.** → तुम जो भी कहोगे, मैं सुनूँगा। |
+| **Whenever + clause** | जब भी | **Whenever you need me, call me.** → जब भी तुम्हें मेरी ज़रूरत हो, मुझे फोन करना। |
+| **Wherever + clause** | जहाँ भी | **Wherever you go, take care.** → तुम जहाँ भी जाओ, अपना ख्याल रखना। |
+| **Whoever + verb** | जो कोई भी | **Whoever calls, tell them I'm busy.** → जो भी फोन करे, उसे कहना कि मैं व्यस्त हूँ। |
+| **Whomever + subject/verb** | जिसे भी | **Choose whomever you trust.** → जिसे भी तुम भरोसा करते हो, उसे चुनो। |
+| **However + adjective/adverb** | कितना भी / जिस तरह भी | **However difficult it is, keep going.** → चाहे कितना भी मुश्किल हो, आगे बढ़ते रहो। |
+| **Whosever + noun** | जिस किसी का भी | **Whosever bag this is, please take it.** → यह बैग जिस किसी का भी है, कृपया ले जाइए। |
+
+> **Note:** Daily conversation में **whom, whomever, whosever, upon whom, by whom** जैसे forms formal लगते हैं। रोज़मर्रा की English में अक्सर **who, whoever, whose, who...with, who...to** ज्यादा natural होते हैं।
+
+
+
+
 # Whether = या ... या नहीं
 
 ### Structure
