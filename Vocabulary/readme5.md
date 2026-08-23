@@ -1,3 +1,59 @@
+# 🗣️ "Nothing left" — कुछ बचा ही नहीं
+
+### Pattern
+
+**Nothing left + to + V1 + other words**
+
+| Hindi | English |
+|---|---|
+| कहने के लिए कुछ बचा ही नहीं। | **There's nothing left to say.** |
+| सोचने के लिए कुछ बचा ही नहीं। | **There's nothing left to think about.** |
+| देने के लिए कुछ बचा ही नहीं। | **There's nothing left to give.** |
+| सुनने के लिए कुछ बचा ही नहीं। | **There's nothing left to hear.** |
+| खाने के लिए कुछ बचा ही नहीं। | **There's nothing left to eat.** |
+| पीने के लिए कुछ बचा ही नहीं। | **There's nothing left to drink.** |
+| करने के लिए कुछ बचा ही नहीं। | **There's nothing left to do.** |
+| देखने के लिए कुछ बचा ही नहीं। | **There's nothing left to see.** |
+| पूछने के लिए कुछ बचा ही नहीं। | **There's nothing left to ask.** |
+| सीखने के लिए कुछ बचा ही नहीं। | **There's nothing left to learn.** |
+| छिपाने के लिए कुछ बचा ही नहीं। | **There's nothing left to hide.** |
+| साबित करने के लिए कुछ बचा ही नहीं। | **There's nothing left to prove.** |
+| खोने के लिए कुछ बचा ही नहीं। | **There's nothing left to lose.** |
+| पाने के लिए कुछ बचा ही नहीं। | **There's nothing left to gain.** |
+| इंतज़ार करने के लिए कुछ बचा ही नहीं। | **There's nothing left to wait for.** |
+| कहने या समझाने के लिए कुछ बचा ही नहीं। | **There's nothing left to say or explain.** |
+
+## 🔹 Daily Conversation
+
+| Situation | English |
+|---|---|
+| सारी बातें हो चुकी हैं। | **There's nothing left to say.** |
+| खाना खत्म हो गया। | **There's nothing left to eat.** |
+| सारे काम पूरे हो गए। | **There's nothing left to do.** |
+| अब कोई उम्मीद नहीं बची। | **There's nothing left to hope for.** |
+| अब हमारे पास खोने के लिए कुछ नहीं है। | **There's nothing left for us to lose.** |
+| मैंने सब कुछ बता दिया। | **There's nothing left to explain.** |
+| अब फैसला करने के लिए कुछ नहीं बचा। | **There's nothing left to decide.** |
+| अब इंतज़ार करने का कोई कारण नहीं बचा। | **There's nothing left to wait for.** |
+
+### ⭐ Remember
+
+**There's nothing left to + V1**
+
+> **There's nothing left to say.**  
+> कहने के लिए कुछ बचा ही नहीं।
+
+> **There's nothing left to do.**  
+> करने के लिए कुछ बचा ही नहीं।
+
+> **There's nothing left to prove.**  
+> साबित करने के लिए कुछ बचा ही नहीं।
+
+> **There's nothing left to lose.**  
+> खोने के लिए कुछ बचा ही नहीं।
+
+
+
 
 # WH- Words — Daily-Life English
 
