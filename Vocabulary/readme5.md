@@ -1,4 +1,4 @@
-# 🗣️ "Nothing left" — कुछ बचा ही नहीं
+.# 🗣️ "Nothing left" — कुछ बचा ही नहीं
 
 ### Pattern
 
