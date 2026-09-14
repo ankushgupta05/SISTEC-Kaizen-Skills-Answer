@@ -4,6 +4,7 @@
 
 ### My Answer
 
+Sir you know what
 - Nobody is born with skills.
 - Everybody learns from their environment, culture, experience, and hard work.
 - I just need someone to give me a chance to prove myself.
