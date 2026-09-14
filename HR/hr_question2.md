@@ -71,7 +71,38 @@ I want them to learn from my journey.
 
 
 
+# Questions I Can Ask the Interviewer
 
+## Role & Responsibilities
+
+- **What will be my responsibilities if I get selected for this role?**
+- **What process will I be working in once I join the company?**
+- **What will be my day-to-day work?**
+- **What kind of customers or clients will I be handling?**
+
+## Training
+
+- **How long will the training period be?**
+
+## Target & Performance
+
+- **Is there any target that employees have to achieve?**
+- **Do you provide incentives based on performance or after achieving the target?**
+- **What happens if an employee is not able to achieve the target?**
+- **What are the main things you expect from a new employee in the first few months?**
+
+## Probation
+
+- **How many months is the probation period for new joiners?**
+
+## Shift & Working Hours
+
+- **What will be my shift timing?**
+- **Is the shift fixed or can it change according to the business requirement?**
+
+## Feedback & Improvement
+
+- **If I don't get selected today, could you please tell me which areas I need to improve?**
 
 ####################
 # 1. Why did you leave your previous job?
