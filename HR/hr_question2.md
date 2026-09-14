@@ -1,3 +1,27 @@
+### Interviewer Question
+
+**Interviewer:** Your English is not good right now. Why should we select you?
+
+### My Answer
+
+- Nobody is born with skills.
+- Everybody learns from their environment, culture, experience, and hard work.
+- I just need someone to give me a chance to prove myself.
+- So, please give me a chance to come inside your company and show what I can do.
+- I am very dedicated and serious about getting this opportunity.
+- I am ready to learn and work hard.
+- If I don't get selected this time, please tell me where I need to improve.
+- I will work on those areas seriously.
+- I will improve myself and come back after one month.
+- I will try again because I really want this opportunity.
+- I don't want to give up just because I was not selected once.
+- I believe if someone gives me a chance, I can prove myself through my hard work and dedication.
+
+
+
+
+
+
 ### My Experience at Money View
 
 **Money View is a good company**, and I don't have any issues with the company.  
