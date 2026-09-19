@@ -10,6 +10,7 @@ I passed my 10th and 12th from the MP Board. Recently, I completed my Bachelor o
 
 I have 10 months of experience as an Email Process Executive at TTBS – Technotask Business Solutions in Bhopal. My responsibilities were replying to customer emails, resolving customer queries, and providing good customer support through email. 
 
+currently i m working at money view company as collection assosiate in banglore
 My father is a contractor, and my mother is a homemaker.
 
 My strengths are that I am self-motivated, disciplined, and always eager to learn new things.
